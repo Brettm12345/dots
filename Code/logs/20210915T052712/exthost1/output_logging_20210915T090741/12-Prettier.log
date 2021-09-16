@@ -1,0 +1,734 @@
+["INFO" - 9:07:41 AM] Extension Name: esbenp.prettier-vscode.
+["INFO" - 9:07:41 AM] Extension Version: 8.1.0.
+["INFO" - 9:07:57 AM] Formatting /home/brettm/src/github.com/you-got-bud/receipt-printer/src/graphql/queries.ts
+["INFO" - 9:07:57 AM] Using config file at '/home/brettm/src/github.com/you-got-bud/receipt-printer/.prettierrc'
+["INFO" - 9:07:57 AM] Using ignore file (if present) at /home/brettm/src/github.com/you-got-bud/receipt-printer/.prettierignore
+["INFO" - 9:07:57 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 9:07:57 AM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 9:07:57 AM] Prettier Options:
+{
+  "filepath": "/home/brettm/src/github.com/you-got-bud/receipt-printer/src/graphql/queries.ts",
+  "parser": "typescript",
+  "singleQuote": true,
+  "arrowParens": "avoid",
+  "bracketSpacing": false,
+  "jsxSingleQuote": false,
+  "trailingComma": "es5"
+}
+["INFO" - 9:07:57 AM] Formatting completed in 230.8698ms.
+["INFO" - 10:24:14 AM] Formatting /home/brettm/src/github.com/you-got-bud/receipt-printer/src/screens/Orders.tsx
+["INFO" - 10:24:14 AM] Using config file at '/home/brettm/src/github.com/you-got-bud/receipt-printer/.prettierrc'
+["INFO" - 10:24:14 AM] Using ignore file (if present) at /home/brettm/src/github.com/you-got-bud/receipt-printer/.prettierignore
+["INFO" - 10:24:14 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 10:24:14 AM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 10:24:14 AM] Prettier Options:
+{
+  "filepath": "/home/brettm/src/github.com/you-got-bud/receipt-printer/src/screens/Orders.tsx",
+  "parser": "typescript",
+  "singleQuote": true,
+  "arrowParens": "avoid",
+  "bracketSpacing": false,
+  "jsxSingleQuote": false,
+  "trailingComma": "es5"
+}
+["INFO" - 10:24:14 AM] Formatting completed in 95.450702ms.
+["INFO" - 10:24:15 AM] Formatting /home/brettm/src/github.com/you-got-bud/receipt-printer/src/screens/Orders.tsx
+["INFO" - 10:24:15 AM] Using config file at '/home/brettm/src/github.com/you-got-bud/receipt-printer/.prettierrc'
+["INFO" - 10:24:15 AM] Using ignore file (if present) at /home/brettm/src/github.com/you-got-bud/receipt-printer/.prettierignore
+["INFO" - 10:24:15 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 10:24:15 AM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 10:24:15 AM] Prettier Options:
+{
+  "filepath": "/home/brettm/src/github.com/you-got-bud/receipt-printer/src/screens/Orders.tsx",
+  "parser": "typescript",
+  "singleQuote": true,
+  "arrowParens": "avoid",
+  "bracketSpacing": false,
+  "jsxSingleQuote": false,
+  "trailingComma": "es5"
+}
+["INFO" - 10:24:15 AM] Formatting completed in 17.615544ms.
+["INFO" - 1:30:26 PM] Formatting /home/brettm/src/github.com/you-got-bud/receipt-printer/src/screens/Orders.tsx
+["INFO" - 1:30:26 PM] Using config file at '/home/brettm/src/github.com/you-got-bud/receipt-printer/.prettierrc'
+["INFO" - 1:30:26 PM] Using ignore file (if present) at /home/brettm/src/github.com/you-got-bud/receipt-printer/.prettierignore
+["INFO" - 1:30:26 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 1:30:26 PM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 1:30:26 PM] Prettier Options:
+{
+  "filepath": "/home/brettm/src/github.com/you-got-bud/receipt-printer/src/screens/Orders.tsx",
+  "parser": "typescript",
+  "singleQuote": true,
+  "arrowParens": "avoid",
+  "bracketSpacing": false,
+  "jsxSingleQuote": false,
+  "trailingComma": "es5"
+}
+["ERROR" - 1:30:26 PM] Error formatting document.
+["ERROR" - 1:30:26 PM] Unterminated regular expression literal. (12:4)
+  10 |     dispensary_id: user?.dispensary_id
+  11 |   }}, (prev, data) => [data.orders, ...prev]);
+> 12 |   / useEffect(() => {
+     |    ^
+  13 |   //   ScreenOrientation.lockAsync(
+  14 |   //     ScreenOrientation.OrientationLock.LANDSCAPE_LEFT
+  15 |   //   );
+SyntaxError: Unterminated regular expression literal. (12:4)
+  10 |     dispensary_id: user?.dispensary_id
+  11 |   }}, (prev, data) => [data.orders, ...prev]);
+> 12 |   / useEffect(() => {
+     |    ^
+  13 |   //   ScreenOrientation.lockAsync(
+  14 |   //     ScreenOrientation.OrientationLock.LANDSCAPE_LEFT
+  15 |   //   );
+    at e (/home/brettm/.vscode/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/parser-typescript.js:1:322)
+    at /home/brettm/.vscode/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/parser-typescript.js:22:3248894
+    at Object.parse (/home/brettm/.vscode/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/parser-typescript.js:22:3248927)
+    at Object.parse$a [as parse] (/home/brettm/.vscode/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/index.js:13684:19)
+    at coreFormat (/home/brettm/.vscode/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/index.js:15215:16)
+    at formatWithCursor$1 (/home/brettm/.vscode/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/index.js:15455:14)
+    at /home/brettm/.vscode/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/index.js:60228:12
+    at Object.format (/home/brettm/.vscode/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/index.js:60248:12)
+    at t.default.<anonymous> (/home/brettm/.vscode/extensions/esbenp.prettier-vscode-8.1.0/src/PrettierEditService.ts:476:46)
+    at Generator.next (<anonymous>)
+    at i (/home/brettm/.vscode/extensions/esbenp.prettier-vscode-8.1.0/dist/extension.js:1:6941)
+["INFO" - 1:30:26 PM] Formatting completed in 121.151273ms.
+["INFO" - 1:30:55 PM] Formatting /home/brettm/src/github.com/you-got-bud/receipt-printer/src/screens/Orders.tsx
+["INFO" - 1:30:55 PM] Using config file at '/home/brettm/src/github.com/you-got-bud/receipt-printer/.prettierrc'
+["INFO" - 1:30:55 PM] Using ignore file (if present) at /home/brettm/src/github.com/you-got-bud/receipt-printer/.prettierignore
+["INFO" - 1:30:55 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 1:30:55 PM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 1:30:55 PM] Prettier Options:
+{
+  "filepath": "/home/brettm/src/github.com/you-got-bud/receipt-printer/src/screens/Orders.tsx",
+  "parser": "typescript",
+  "singleQuote": true,
+  "arrowParens": "avoid",
+  "bracketSpacing": false,
+  "jsxSingleQuote": false,
+  "trailingComma": "es5"
+}
+["ERROR" - 1:30:55 PM] Error formatting document.
+["ERROR" - 1:30:55 PM] Unterminated regular expression literal. (12:4)
+  10 |     dispensary_id: user?.dispensary_id
+  11 |   }}, (prev, data) => [data, ...prev]);
+> 12 |   / useEffect(() => {
+     |    ^
+  13 |   //   ScreenOrientation.lockAsync(
+  14 |   //     ScreenOrientation.OrientationLock.LANDSCAPE_LEFT
+  15 |   //   );
+SyntaxError: Unterminated regular expression literal. (12:4)
+  10 |     dispensary_id: user?.dispensary_id
+  11 |   }}, (prev, data) => [data, ...prev]);
+> 12 |   / useEffect(() => {
+     |    ^
+  13 |   //   ScreenOrientation.lockAsync(
+  14 |   //     ScreenOrientation.OrientationLock.LANDSCAPE_LEFT
+  15 |   //   );
+    at e (/home/brettm/.vscode/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/parser-typescript.js:1:322)
+    at /home/brettm/.vscode/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/parser-typescript.js:22:3248894
+    at Object.parse (/home/brettm/.vscode/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/parser-typescript.js:22:3248927)
+    at Object.parse$a [as parse] (/home/brettm/.vscode/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/index.js:13684:19)
+    at coreFormat (/home/brettm/.vscode/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/index.js:15215:16)
+    at formatWithCursor$1 (/home/brettm/.vscode/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/index.js:15455:14)
+    at /home/brettm/.vscode/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/index.js:60228:12
+    at Object.format (/home/brettm/.vscode/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/index.js:60248:12)
+    at t.default.<anonymous> (/home/brettm/.vscode/extensions/esbenp.prettier-vscode-8.1.0/src/PrettierEditService.ts:476:46)
+    at Generator.next (<anonymous>)
+    at i (/home/brettm/.vscode/extensions/esbenp.prettier-vscode-8.1.0/dist/extension.js:1:6941)
+["INFO" - 1:30:55 PM] Formatting completed in 14.778763ms.
+["INFO" - 1:31:01 PM] Formatting /home/brettm/src/github.com/you-got-bud/receipt-printer/src/screens/Orders.tsx
+["INFO" - 1:31:01 PM] Using config file at '/home/brettm/src/github.com/you-got-bud/receipt-printer/.prettierrc'
+["INFO" - 1:31:01 PM] Using ignore file (if present) at /home/brettm/src/github.com/you-got-bud/receipt-printer/.prettierignore
+["INFO" - 1:31:01 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 1:31:01 PM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 1:31:01 PM] Prettier Options:
+{
+  "filepath": "/home/brettm/src/github.com/you-got-bud/receipt-printer/src/screens/Orders.tsx",
+  "parser": "typescript",
+  "singleQuote": true,
+  "arrowParens": "avoid",
+  "bracketSpacing": false,
+  "jsxSingleQuote": false,
+  "trailingComma": "es5"
+}
+["ERROR" - 1:31:01 PM] Error formatting document.
+["ERROR" - 1:31:01 PM] Unterminated regular expression literal. (12:4)
+  10 |     dispensary_id: user?.dispensary_id
+  11 |   }}, (prev, data) => [data.orders, ...prev]);
+> 12 |   / useEffect(() => {
+     |    ^
+  13 |   //   ScreenOrientation.lockAsync(
+  14 |   //     ScreenOrientation.OrientationLock.LANDSCAPE_LEFT
+  15 |   //   );
+SyntaxError: Unterminated regular expression literal. (12:4)
+  10 |     dispensary_id: user?.dispensary_id
+  11 |   }}, (prev, data) => [data.orders, ...prev]);
+> 12 |   / useEffect(() => {
+     |    ^
+  13 |   //   ScreenOrientation.lockAsync(
+  14 |   //     ScreenOrientation.OrientationLock.LANDSCAPE_LEFT
+  15 |   //   );
+    at e (/home/brettm/.vscode/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/parser-typescript.js:1:322)
+    at /home/brettm/.vscode/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/parser-typescript.js:22:3248894
+    at Object.parse (/home/brettm/.vscode/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/parser-typescript.js:22:3248927)
+    at Object.parse$a [as parse] (/home/brettm/.vscode/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/index.js:13684:19)
+    at coreFormat (/home/brettm/.vscode/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/index.js:15215:16)
+    at formatWithCursor$1 (/home/brettm/.vscode/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/index.js:15455:14)
+    at /home/brettm/.vscode/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/index.js:60228:12
+    at Object.format (/home/brettm/.vscode/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/index.js:60248:12)
+    at t.default.<anonymous> (/home/brettm/.vscode/extensions/esbenp.prettier-vscode-8.1.0/src/PrettierEditService.ts:476:46)
+    at Generator.next (<anonymous>)
+    at i (/home/brettm/.vscode/extensions/esbenp.prettier-vscode-8.1.0/dist/extension.js:1:6941)
+["INFO" - 1:31:01 PM] Formatting completed in 37.833269ms.
+["INFO" - 1:31:09 PM] Formatting /home/brettm/src/github.com/you-got-bud/receipt-printer/src/screens/Orders.tsx
+["INFO" - 1:31:09 PM] Using config file at '/home/brettm/src/github.com/you-got-bud/receipt-printer/.prettierrc'
+["INFO" - 1:31:09 PM] Using ignore file (if present) at /home/brettm/src/github.com/you-got-bud/receipt-printer/.prettierignore
+["INFO" - 1:31:09 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 1:31:09 PM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 1:31:09 PM] Prettier Options:
+{
+  "filepath": "/home/brettm/src/github.com/you-got-bud/receipt-printer/src/screens/Orders.tsx",
+  "parser": "typescript",
+  "singleQuote": true,
+  "arrowParens": "avoid",
+  "bracketSpacing": false,
+  "jsxSingleQuote": false,
+  "trailingComma": "es5"
+}
+["INFO" - 1:31:09 PM] Formatting completed in 37.773699ms.
+["INFO" - 1:31:19 PM] Formatting /home/brettm/src/github.com/you-got-bud/receipt-printer/src/screens/Orders.tsx
+["INFO" - 1:31:19 PM] Using config file at '/home/brettm/src/github.com/you-got-bud/receipt-printer/.prettierrc'
+["INFO" - 1:31:19 PM] Using ignore file (if present) at /home/brettm/src/github.com/you-got-bud/receipt-printer/.prettierignore
+["INFO" - 1:31:19 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 1:31:19 PM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 1:31:19 PM] Prettier Options:
+{
+  "filepath": "/home/brettm/src/github.com/you-got-bud/receipt-printer/src/screens/Orders.tsx",
+  "parser": "typescript",
+  "singleQuote": true,
+  "arrowParens": "avoid",
+  "bracketSpacing": false,
+  "jsxSingleQuote": false,
+  "trailingComma": "es5"
+}
+["INFO" - 1:31:19 PM] Formatting completed in 55.407908ms.
+["INFO" - 1:32:34 PM] Formatting /home/brettm/src/github.com/you-got-bud/receipt-printer/src/screens/Orders.tsx
+["INFO" - 1:32:34 PM] Using config file at '/home/brettm/src/github.com/you-got-bud/receipt-printer/.prettierrc'
+["INFO" - 1:32:34 PM] Using ignore file (if present) at /home/brettm/src/github.com/you-got-bud/receipt-printer/.prettierignore
+["INFO" - 1:32:34 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 1:32:34 PM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 1:32:34 PM] Prettier Options:
+{
+  "filepath": "/home/brettm/src/github.com/you-got-bud/receipt-printer/src/screens/Orders.tsx",
+  "parser": "typescript",
+  "singleQuote": true,
+  "arrowParens": "avoid",
+  "bracketSpacing": false,
+  "jsxSingleQuote": false,
+  "trailingComma": "es5"
+}
+["INFO" - 1:32:34 PM] Formatting completed in 102.178102ms.
+["INFO" - 1:33:07 PM] Formatting /home/brettm/src/github.com/you-got-bud/receipt-printer/src/screens/Orders.tsx
+["INFO" - 1:33:07 PM] Using config file at '/home/brettm/src/github.com/you-got-bud/receipt-printer/.prettierrc'
+["INFO" - 1:33:07 PM] Using ignore file (if present) at /home/brettm/src/github.com/you-got-bud/receipt-printer/.prettierignore
+["INFO" - 1:33:07 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 1:33:07 PM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 1:33:07 PM] Prettier Options:
+{
+  "filepath": "/home/brettm/src/github.com/you-got-bud/receipt-printer/src/screens/Orders.tsx",
+  "parser": "typescript",
+  "singleQuote": true,
+  "arrowParens": "avoid",
+  "bracketSpacing": false,
+  "jsxSingleQuote": false,
+  "trailingComma": "es5"
+}
+["INFO" - 1:33:07 PM] Formatting completed in 33.768455ms.
+["INFO" - 1:34:41 PM] Formatting /home/brettm/src/github.com/you-got-bud/receipt-printer/src/screens/Orders.tsx
+["INFO" - 1:34:41 PM] Using config file at '/home/brettm/src/github.com/you-got-bud/receipt-printer/.prettierrc'
+["INFO" - 1:34:41 PM] Using ignore file (if present) at /home/brettm/src/github.com/you-got-bud/receipt-printer/.prettierignore
+["INFO" - 1:34:41 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 1:34:41 PM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 1:34:41 PM] Prettier Options:
+{
+  "filepath": "/home/brettm/src/github.com/you-got-bud/receipt-printer/src/screens/Orders.tsx",
+  "parser": "typescript",
+  "singleQuote": true,
+  "arrowParens": "avoid",
+  "bracketSpacing": false,
+  "jsxSingleQuote": false,
+  "trailingComma": "es5"
+}
+["INFO" - 1:34:41 PM] Formatting completed in 103.173881ms.
+["INFO" - 1:34:50 PM] Formatting /home/brettm/src/github.com/you-got-bud/receipt-printer/src/screens/Orders.tsx
+["INFO" - 1:34:50 PM] Using config file at '/home/brettm/src/github.com/you-got-bud/receipt-printer/.prettierrc'
+["INFO" - 1:34:50 PM] Using ignore file (if present) at /home/brettm/src/github.com/you-got-bud/receipt-printer/.prettierignore
+["INFO" - 1:34:50 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 1:34:50 PM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 1:34:50 PM] Prettier Options:
+{
+  "filepath": "/home/brettm/src/github.com/you-got-bud/receipt-printer/src/screens/Orders.tsx",
+  "parser": "typescript",
+  "singleQuote": true,
+  "arrowParens": "avoid",
+  "bracketSpacing": false,
+  "jsxSingleQuote": false,
+  "trailingComma": "es5"
+}
+["INFO" - 1:34:50 PM] Formatting completed in 34.908374ms.
+["INFO" - 1:34:55 PM] Formatting /home/brettm/src/github.com/you-got-bud/receipt-printer/src/screens/Orders.tsx
+["INFO" - 1:34:55 PM] Using config file at '/home/brettm/src/github.com/you-got-bud/receipt-printer/.prettierrc'
+["INFO" - 1:34:55 PM] Using ignore file (if present) at /home/brettm/src/github.com/you-got-bud/receipt-printer/.prettierignore
+["INFO" - 1:34:55 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 1:34:55 PM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 1:34:55 PM] Prettier Options:
+{
+  "filepath": "/home/brettm/src/github.com/you-got-bud/receipt-printer/src/screens/Orders.tsx",
+  "parser": "typescript",
+  "singleQuote": true,
+  "arrowParens": "avoid",
+  "bracketSpacing": false,
+  "jsxSingleQuote": false,
+  "trailingComma": "es5"
+}
+["INFO" - 1:34:55 PM] Formatting completed in 49.703297ms.
+["INFO" - 1:35:05 PM] Formatting /home/brettm/src/github.com/you-got-bud/receipt-printer/src/screens/Orders.tsx
+["INFO" - 1:35:05 PM] Using config file at '/home/brettm/src/github.com/you-got-bud/receipt-printer/.prettierrc'
+["INFO" - 1:35:05 PM] Using ignore file (if present) at /home/brettm/src/github.com/you-got-bud/receipt-printer/.prettierignore
+["INFO" - 1:35:05 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 1:35:05 PM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 1:35:05 PM] Prettier Options:
+{
+  "filepath": "/home/brettm/src/github.com/you-got-bud/receipt-printer/src/screens/Orders.tsx",
+  "parser": "typescript",
+  "singleQuote": true,
+  "arrowParens": "avoid",
+  "bracketSpacing": false,
+  "jsxSingleQuote": false,
+  "trailingComma": "es5"
+}
+["INFO" - 1:35:05 PM] Formatting completed in 51.382908ms.
+["INFO" - 1:35:36 PM] Formatting /home/brettm/src/github.com/you-got-bud/receipt-printer/src/screens/Orders.tsx
+["INFO" - 1:35:36 PM] Using config file at '/home/brettm/src/github.com/you-got-bud/receipt-printer/.prettierrc'
+["INFO" - 1:35:36 PM] Using ignore file (if present) at /home/brettm/src/github.com/you-got-bud/receipt-printer/.prettierignore
+["INFO" - 1:35:36 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 1:35:36 PM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 1:35:36 PM] Prettier Options:
+{
+  "filepath": "/home/brettm/src/github.com/you-got-bud/receipt-printer/src/screens/Orders.tsx",
+  "parser": "typescript",
+  "singleQuote": true,
+  "arrowParens": "avoid",
+  "bracketSpacing": false,
+  "jsxSingleQuote": false,
+  "trailingComma": "es5"
+}
+["INFO" - 1:35:36 PM] Formatting completed in 48.292379ms.
+["INFO" - 1:37:26 PM] Formatting /home/brettm/src/github.com/you-got-bud/receipt-printer/src/graphql/queries.ts
+["INFO" - 1:37:26 PM] Using config file at '/home/brettm/src/github.com/you-got-bud/receipt-printer/.prettierrc'
+["INFO" - 1:37:26 PM] Using ignore file (if present) at /home/brettm/src/github.com/you-got-bud/receipt-printer/.prettierignore
+["INFO" - 1:37:26 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 1:37:26 PM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 1:37:26 PM] Prettier Options:
+{
+  "filepath": "/home/brettm/src/github.com/you-got-bud/receipt-printer/src/graphql/queries.ts",
+  "parser": "typescript",
+  "singleQuote": true,
+  "arrowParens": "avoid",
+  "bracketSpacing": false,
+  "jsxSingleQuote": false,
+  "trailingComma": "es5"
+}
+["INFO" - 1:37:26 PM] Formatting completed in 39.11238ms.
+["INFO" - 1:37:39 PM] Formatting /home/brettm/src/github.com/you-got-bud/receipt-printer/src/screens/Orders.tsx
+["INFO" - 1:37:39 PM] Using config file at '/home/brettm/src/github.com/you-got-bud/receipt-printer/.prettierrc'
+["INFO" - 1:37:39 PM] Using ignore file (if present) at /home/brettm/src/github.com/you-got-bud/receipt-printer/.prettierignore
+["INFO" - 1:37:39 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 1:37:39 PM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 1:37:39 PM] Prettier Options:
+{
+  "filepath": "/home/brettm/src/github.com/you-got-bud/receipt-printer/src/screens/Orders.tsx",
+  "parser": "typescript",
+  "singleQuote": true,
+  "arrowParens": "avoid",
+  "bracketSpacing": false,
+  "jsxSingleQuote": false,
+  "trailingComma": "es5"
+}
+["INFO" - 1:37:39 PM] Formatting completed in 32.489115ms.
+["INFO" - 1:37:51 PM] Formatting /home/brettm/src/github.com/you-got-bud/receipt-printer/src/screens/Orders.tsx
+["INFO" - 1:37:51 PM] Using config file at '/home/brettm/src/github.com/you-got-bud/receipt-printer/.prettierrc'
+["INFO" - 1:37:51 PM] Using ignore file (if present) at /home/brettm/src/github.com/you-got-bud/receipt-printer/.prettierignore
+["INFO" - 1:37:51 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 1:37:51 PM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 1:37:51 PM] Prettier Options:
+{
+  "filepath": "/home/brettm/src/github.com/you-got-bud/receipt-printer/src/screens/Orders.tsx",
+  "parser": "typescript",
+  "singleQuote": true,
+  "arrowParens": "avoid",
+  "bracketSpacing": false,
+  "jsxSingleQuote": false,
+  "trailingComma": "es5"
+}
+["INFO" - 1:37:51 PM] Formatting completed in 26.478429ms.
+["INFO" - 1:41:02 PM] Formatting /home/brettm/src/github.com/you-got-bud/receipt-printer/src/screens/Orders.tsx
+["INFO" - 1:41:02 PM] Using config file at '/home/brettm/src/github.com/you-got-bud/receipt-printer/.prettierrc'
+["INFO" - 1:41:02 PM] Using ignore file (if present) at /home/brettm/src/github.com/you-got-bud/receipt-printer/.prettierignore
+["INFO" - 1:41:02 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 1:41:02 PM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 1:41:02 PM] Prettier Options:
+{
+  "filepath": "/home/brettm/src/github.com/you-got-bud/receipt-printer/src/screens/Orders.tsx",
+  "parser": "typescript",
+  "singleQuote": true,
+  "arrowParens": "avoid",
+  "bracketSpacing": false,
+  "jsxSingleQuote": false,
+  "trailingComma": "es5"
+}
+["INFO" - 1:41:02 PM] Formatting completed in 27.432439ms.
+["INFO" - 1:41:45 PM] Formatting /home/brettm/src/github.com/you-got-bud/receipt-printer/src/screens/Orders.tsx
+["INFO" - 1:41:45 PM] Using config file at '/home/brettm/src/github.com/you-got-bud/receipt-printer/.prettierrc'
+["INFO" - 1:41:45 PM] Using ignore file (if present) at /home/brettm/src/github.com/you-got-bud/receipt-printer/.prettierignore
+["INFO" - 1:41:45 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 1:41:45 PM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 1:41:45 PM] Prettier Options:
+{
+  "filepath": "/home/brettm/src/github.com/you-got-bud/receipt-printer/src/screens/Orders.tsx",
+  "parser": "typescript",
+  "singleQuote": true,
+  "arrowParens": "avoid",
+  "bracketSpacing": false,
+  "jsxSingleQuote": false,
+  "trailingComma": "es5"
+}
+["INFO" - 1:41:45 PM] Formatting completed in 53.230975ms.
+["INFO" - 1:41:50 PM] Formatting /home/brettm/src/github.com/you-got-bud/receipt-printer/src/screens/Orders.tsx
+["INFO" - 1:41:50 PM] Using config file at '/home/brettm/src/github.com/you-got-bud/receipt-printer/.prettierrc'
+["INFO" - 1:41:50 PM] Using ignore file (if present) at /home/brettm/src/github.com/you-got-bud/receipt-printer/.prettierignore
+["INFO" - 1:41:50 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 1:41:50 PM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 1:41:50 PM] Prettier Options:
+{
+  "filepath": "/home/brettm/src/github.com/you-got-bud/receipt-printer/src/screens/Orders.tsx",
+  "parser": "typescript",
+  "singleQuote": true,
+  "arrowParens": "avoid",
+  "bracketSpacing": false,
+  "jsxSingleQuote": false,
+  "trailingComma": "es5"
+}
+["INFO" - 1:41:50 PM] Formatting completed in 29.648226ms.
+["INFO" - 1:42:06 PM] Formatting /home/brettm/src/github.com/you-got-bud/receipt-printer/src/screens/Orders.tsx
+["INFO" - 1:42:06 PM] Using config file at '/home/brettm/src/github.com/you-got-bud/receipt-printer/.prettierrc'
+["INFO" - 1:42:06 PM] Using ignore file (if present) at /home/brettm/src/github.com/you-got-bud/receipt-printer/.prettierignore
+["INFO" - 1:42:06 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 1:42:06 PM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 1:42:06 PM] Prettier Options:
+{
+  "filepath": "/home/brettm/src/github.com/you-got-bud/receipt-printer/src/screens/Orders.tsx",
+  "parser": "typescript",
+  "singleQuote": true,
+  "arrowParens": "avoid",
+  "bracketSpacing": false,
+  "jsxSingleQuote": false,
+  "trailingComma": "es5"
+}
+["INFO" - 1:42:06 PM] Formatting completed in 17.29243ms.
+["INFO" - 1:42:10 PM] Formatting /home/brettm/src/github.com/you-got-bud/receipt-printer/src/screens/Orders.tsx
+["INFO" - 1:42:10 PM] Using config file at '/home/brettm/src/github.com/you-got-bud/receipt-printer/.prettierrc'
+["INFO" - 1:42:10 PM] Using ignore file (if present) at /home/brettm/src/github.com/you-got-bud/receipt-printer/.prettierignore
+["INFO" - 1:42:10 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 1:42:10 PM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 1:42:10 PM] Prettier Options:
+{
+  "filepath": "/home/brettm/src/github.com/you-got-bud/receipt-printer/src/screens/Orders.tsx",
+  "parser": "typescript",
+  "singleQuote": true,
+  "arrowParens": "avoid",
+  "bracketSpacing": false,
+  "jsxSingleQuote": false,
+  "trailingComma": "es5"
+}
+["INFO" - 1:42:10 PM] Formatting completed in 37.174254ms.
+["INFO" - 1:42:28 PM] Formatting /home/brettm/src/github.com/you-got-bud/receipt-printer/src/screens/Orders.tsx
+["INFO" - 1:42:28 PM] Using config file at '/home/brettm/src/github.com/you-got-bud/receipt-printer/.prettierrc'
+["INFO" - 1:42:28 PM] Using ignore file (if present) at /home/brettm/src/github.com/you-got-bud/receipt-printer/.prettierignore
+["INFO" - 1:42:28 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 1:42:28 PM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 1:42:28 PM] Prettier Options:
+{
+  "filepath": "/home/brettm/src/github.com/you-got-bud/receipt-printer/src/screens/Orders.tsx",
+  "parser": "typescript",
+  "singleQuote": true,
+  "arrowParens": "avoid",
+  "bracketSpacing": false,
+  "jsxSingleQuote": false,
+  "trailingComma": "es5"
+}
+["INFO" - 1:42:28 PM] Formatting completed in 62.258378ms.
+["INFO" - 1:42:52 PM] Formatting /home/brettm/src/github.com/you-got-bud/receipt-printer/src/screens/Orders.tsx
+["INFO" - 1:42:52 PM] Using config file at '/home/brettm/src/github.com/you-got-bud/receipt-printer/.prettierrc'
+["INFO" - 1:42:52 PM] Using ignore file (if present) at /home/brettm/src/github.com/you-got-bud/receipt-printer/.prettierignore
+["INFO" - 1:42:52 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 1:42:52 PM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 1:42:52 PM] Prettier Options:
+{
+  "filepath": "/home/brettm/src/github.com/you-got-bud/receipt-printer/src/screens/Orders.tsx",
+  "parser": "typescript",
+  "singleQuote": true,
+  "arrowParens": "avoid",
+  "bracketSpacing": false,
+  "jsxSingleQuote": false,
+  "trailingComma": "es5"
+}
+["ERROR" - 1:42:52 PM] Error formatting document.
+["ERROR" - 1:42:52 PM] ')' expected. (41:2)
+  39 |     </LocalWrapper>
+  40 |   );
+> 41 | };
+     |  ^
+  42 |
+SyntaxError: ')' expected. (41:2)
+  39 |     </LocalWrapper>
+  40 |   );
+> 41 | };
+     |  ^
+  42 |
+    at e (/home/brettm/.vscode/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/parser-typescript.js:1:322)
+    at /home/brettm/.vscode/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/parser-typescript.js:22:3248894
+    at Object.parse (/home/brettm/.vscode/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/parser-typescript.js:22:3248927)
+    at Object.parse$a [as parse] (/home/brettm/.vscode/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/index.js:13684:19)
+    at coreFormat (/home/brettm/.vscode/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/index.js:15215:16)
+    at formatWithCursor$1 (/home/brettm/.vscode/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/index.js:15455:14)
+    at /home/brettm/.vscode/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/index.js:60228:12
+    at Object.format (/home/brettm/.vscode/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/index.js:60248:12)
+    at t.default.<anonymous> (/home/brettm/.vscode/extensions/esbenp.prettier-vscode-8.1.0/src/PrettierEditService.ts:476:46)
+    at Generator.next (<anonymous>)
+    at i (/home/brettm/.vscode/extensions/esbenp.prettier-vscode-8.1.0/dist/extension.js:1:6941)
+["INFO" - 1:42:52 PM] Formatting completed in 21.0678ms.
+["INFO" - 1:42:54 PM] Formatting /home/brettm/src/github.com/you-got-bud/receipt-printer/src/screens/Orders.tsx
+["INFO" - 1:42:54 PM] Using config file at '/home/brettm/src/github.com/you-got-bud/receipt-printer/.prettierrc'
+["INFO" - 1:42:54 PM] Using ignore file (if present) at /home/brettm/src/github.com/you-got-bud/receipt-printer/.prettierignore
+["INFO" - 1:42:54 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 1:42:54 PM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 1:42:54 PM] Prettier Options:
+{
+  "filepath": "/home/brettm/src/github.com/you-got-bud/receipt-printer/src/screens/Orders.tsx",
+  "parser": "typescript",
+  "singleQuote": true,
+  "arrowParens": "avoid",
+  "bracketSpacing": false,
+  "jsxSingleQuote": false,
+  "trailingComma": "es5"
+}
+["ERROR" - 1:42:54 PM] Error formatting document.
+["ERROR" - 1:42:54 PM] ')' expected. (41:2)
+  39 |     </LocalWrapper>
+  40 |   );
+> 41 | };
+     |  ^
+  42 |
+SyntaxError: ')' expected. (41:2)
+  39 |     </LocalWrapper>
+  40 |   );
+> 41 | };
+     |  ^
+  42 |
+    at e (/home/brettm/.vscode/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/parser-typescript.js:1:322)
+    at /home/brettm/.vscode/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/parser-typescript.js:22:3248894
+    at Object.parse (/home/brettm/.vscode/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/parser-typescript.js:22:3248927)
+    at Object.parse$a [as parse] (/home/brettm/.vscode/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/index.js:13684:19)
+    at coreFormat (/home/brettm/.vscode/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/index.js:15215:16)
+    at formatWithCursor$1 (/home/brettm/.vscode/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/index.js:15455:14)
+    at /home/brettm/.vscode/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/index.js:60228:12
+    at Object.format (/home/brettm/.vscode/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/index.js:60248:12)
+    at t.default.<anonymous> (/home/brettm/.vscode/extensions/esbenp.prettier-vscode-8.1.0/src/PrettierEditService.ts:476:46)
+    at Generator.next (<anonymous>)
+    at i (/home/brettm/.vscode/extensions/esbenp.prettier-vscode-8.1.0/dist/extension.js:1:6941)
+["INFO" - 1:42:54 PM] Formatting completed in 12.614372ms.
+["INFO" - 1:42:57 PM] Formatting /home/brettm/src/github.com/you-got-bud/receipt-printer/src/screens/Orders.tsx
+["INFO" - 1:42:57 PM] Using config file at '/home/brettm/src/github.com/you-got-bud/receipt-printer/.prettierrc'
+["INFO" - 1:42:57 PM] Using ignore file (if present) at /home/brettm/src/github.com/you-got-bud/receipt-printer/.prettierignore
+["INFO" - 1:42:57 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 1:42:57 PM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 1:42:57 PM] Prettier Options:
+{
+  "filepath": "/home/brettm/src/github.com/you-got-bud/receipt-printer/src/screens/Orders.tsx",
+  "parser": "typescript",
+  "singleQuote": true,
+  "arrowParens": "avoid",
+  "bracketSpacing": false,
+  "jsxSingleQuote": false,
+  "trailingComma": "es5"
+}
+["INFO" - 1:42:57 PM] Formatting completed in 24.929413ms.
+["INFO" - 1:43:28 PM] Formatting /home/brettm/src/github.com/you-got-bud/receipt-printer/src/screens/Orders.tsx
+["INFO" - 1:43:28 PM] Using config file at '/home/brettm/src/github.com/you-got-bud/receipt-printer/.prettierrc'
+["INFO" - 1:43:28 PM] Using ignore file (if present) at /home/brettm/src/github.com/you-got-bud/receipt-printer/.prettierignore
+["INFO" - 1:43:28 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 1:43:28 PM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 1:43:28 PM] Prettier Options:
+{
+  "filepath": "/home/brettm/src/github.com/you-got-bud/receipt-printer/src/screens/Orders.tsx",
+  "parser": "typescript",
+  "singleQuote": true,
+  "arrowParens": "avoid",
+  "bracketSpacing": false,
+  "jsxSingleQuote": false,
+  "trailingComma": "es5"
+}
+["INFO" - 1:43:28 PM] Formatting completed in 30.4449ms.
+["INFO" - 1:44:56 PM] Formatting /home/brettm/src/github.com/you-got-bud/receipt-printer/src/screens/Orders.tsx
+["INFO" - 1:44:56 PM] Using config file at '/home/brettm/src/github.com/you-got-bud/receipt-printer/.prettierrc'
+["INFO" - 1:44:56 PM] Using ignore file (if present) at /home/brettm/src/github.com/you-got-bud/receipt-printer/.prettierignore
+["INFO" - 1:44:56 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 1:44:56 PM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 1:44:56 PM] Prettier Options:
+{
+  "filepath": "/home/brettm/src/github.com/you-got-bud/receipt-printer/src/screens/Orders.tsx",
+  "parser": "typescript",
+  "singleQuote": true,
+  "arrowParens": "avoid",
+  "bracketSpacing": false,
+  "jsxSingleQuote": false,
+  "trailingComma": "es5"
+}
+["INFO" - 1:44:56 PM] Formatting completed in 43.407116ms.
+["INFO" - 1:45:12 PM] Formatting /home/brettm/src/github.com/you-got-bud/receipt-printer/src/screens/Orders.tsx
+["INFO" - 1:45:12 PM] Using config file at '/home/brettm/src/github.com/you-got-bud/receipt-printer/.prettierrc'
+["INFO" - 1:45:12 PM] Using ignore file (if present) at /home/brettm/src/github.com/you-got-bud/receipt-printer/.prettierignore
+["INFO" - 1:45:12 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 1:45:12 PM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 1:45:12 PM] Prettier Options:
+{
+  "filepath": "/home/brettm/src/github.com/you-got-bud/receipt-printer/src/screens/Orders.tsx",
+  "parser": "typescript",
+  "singleQuote": true,
+  "arrowParens": "avoid",
+  "bracketSpacing": false,
+  "jsxSingleQuote": false,
+  "trailingComma": "es5"
+}
+["INFO" - 1:45:12 PM] Formatting completed in 22.916599ms.

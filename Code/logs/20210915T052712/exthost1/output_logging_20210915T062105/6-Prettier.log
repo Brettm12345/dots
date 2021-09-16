@@ -1,0 +1,95 @@
+["INFO" - 6:21:05 AM] Extension Name: esbenp.prettier-vscode.
+["INFO" - 6:21:05 AM] Extension Version: 8.1.0.
+["INFO" - 6:21:33 AM] Formatting /home/brettm/codewars/typescript/html-special-chars/.vscode/settings.json
+["INFO" - 6:21:33 AM] Using ignore file (if present) at /home/brettm/codewars/typescript/html-special-chars/.prettierignore
+["INFO" - 6:21:33 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 6:21:33 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 6:21:33 AM] Prettier Options:
+{
+  "arrowParens": "avoid",
+  "bracketSpacing": false,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/brettm/codewars/typescript/html-special-chars/.vscode/settings.json",
+  "parser": "json"
+}
+["INFO" - 6:21:33 AM] Formatting completed in 95.899223ms.
+["INFO" - 6:23:12 AM] Formatting /home/brettm/codewars/typescript/html-special-chars/solution.ts
+["INFO" - 6:23:12 AM] Using ignore file (if present) at /home/brettm/codewars/typescript/html-special-chars/.prettierignore
+["INFO" - 6:23:12 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 6:23:12 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 6:23:12 AM] Prettier Options:
+{
+  "arrowParens": "avoid",
+  "bracketSpacing": false,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/brettm/codewars/typescript/html-special-chars/solution.ts",
+  "parser": "typescript"
+}
+["INFO" - 6:23:12 AM] Formatting completed in 210.376918ms.
+["INFO" - 6:24:05 AM] Formatting /home/brettm/codewars/typescript/html-special-chars/solution.ts
+["INFO" - 6:24:05 AM] Using ignore file (if present) at /home/brettm/codewars/typescript/html-special-chars/.prettierignore
+["INFO" - 6:24:05 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 6:24:05 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 6:24:05 AM] Prettier Options:
+{
+  "arrowParens": "avoid",
+  "bracketSpacing": false,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/brettm/codewars/typescript/html-special-chars/solution.ts",
+  "parser": "typescript"
+}
+["INFO" - 6:24:05 AM] Formatting completed in 35.62096ms.

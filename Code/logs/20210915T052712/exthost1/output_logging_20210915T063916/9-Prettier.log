@@ -1,0 +1,33 @@
+["INFO" - 6:39:16 AM] Extension Name: esbenp.prettier-vscode.
+["INFO" - 6:39:16 AM] Extension Version: 8.1.0.
+["INFO" - 6:41:26 AM] Formatting /home/brettm/codewars/typescript/calc-type/solution.ts
+["INFO" - 6:41:26 AM] Using ignore file (if present) at /home/brettm/codewars/typescript/calc-type/.prettierignore
+["INFO" - 6:41:26 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 6:41:26 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 6:41:26 AM] Prettier Options:
+{
+  "arrowParens": "avoid",
+  "bracketSpacing": false,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/brettm/codewars/typescript/calc-type/solution.ts",
+  "parser": "typescript"
+}
+["INFO" - 6:41:26 AM] Formatting completed in 225.840245ms.

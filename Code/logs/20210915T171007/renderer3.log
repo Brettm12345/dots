@@ -1,0 +1,2 @@
+[2021-09-15 19:03:09.226] [renderer3] [error] getaddrinfo ENOTFOUND default.exp-tas.com: Error: getaddrinfo ENOTFOUND default.exp-tas.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:67:26)

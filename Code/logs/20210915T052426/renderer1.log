@@ -1,0 +1,21 @@
+[2021-09-15 05:24:30.137] [renderer1] [info] Setting search error: XHR failed
+[2021-09-15 05:24:30.169] [renderer1] [info] Setting search error: XHR failed
+[2021-09-15 05:24:31.632] [renderer1] [info] Setting search error: XHR failed
+[2021-09-15 05:24:31.679] [renderer1] [info] Setting search error: XHR failed
+[2021-09-15 05:25:34.824] [renderer1] [error] Unable to write into user settings because the file is dirty. Please save the user settings file first and then try again.: Error: Unable to write into user settings because the file is dirty. Please save the user settings file first and then try again.
+    at I.toConfigurationEditingError (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1935:18825)
+    at I.validate (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1935:22645)
+    at I.doWriteConfiguration (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1935:15186)
+    at Object.factory (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1935:15020)
+    at d.consume (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:77:16583)
+    at vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:77:16398
+    at new Promise (<anonymous>)
+    at d.queue (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:77:16322)
+    at I.writeConfiguration (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1935:15005)
+    at I.writeConfigurationValue (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1935:44635)
+    at vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1935:30793
+    at Array.map (<anonymous>)
+    at I.updateValue (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1935:30781)
+[2021-09-15 05:25:58.453] [renderer1] [info] Setting search error: XHR failed
+[2021-09-15 05:25:58.460] [renderer1] [info] Setting search error: XHR failed
+[2021-09-15 05:25:58.525] [renderer1] [error] ENOENT: no such file or directory, open '/home/brettm/.config/Code/User/globalStorage/vscodevim.vim/.registers': Error: ENOENT: no such file or directory, open '/home/brettm/.config/Code/User/globalStorage/vscodevim.vim/.registers'

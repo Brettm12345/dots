@@ -1,0 +1,131 @@
+file:///home/brettm/src/github.com/you-got-bud/receipt-printer/src/providers/auth.ts {"mtime":1631747730463,"ctime":1631641177147,"size":4096,"etag":"37h75a33c484","orphaned":false,"typeId":""}
+import AsyncStorage from '@react-native-async-storage/async-storage';
+import {flow, pipe} from 'fp-ts/function';
+import {useEffect, useState} from 'react';
+import JwtDecode from 'jwt-decode';
+import {REFRESH_TOKEN_KEY, TOKEN_KEY} from '../constants/auth';
+import {
+  Auth_Roles_Enum,
+  RefreshTokenDocument,
+  RefreshTokenMutation,
+  RefreshTokenMutationVariables,
+  useLoginMutation,
+  useRefreshTokenMutation,
+  Users,
+} from '../generated/graphql';
+import constate from 'constate';
+
+export const isValidToken = (accessToken: string): boolean => {
+  if (!accessToken) {
+    return false;
+  }
+  const decoded: any = JwtDecode(accessToken);
+  const currentTime = Date.now() / 1000;
+  return decoded.exp > currentTime;
+};
+
+type AuthUser = Pick<Users, 'id' | 'dispensary_id'> | null;
+type Login = (email: string, password: string) => Promise<void>;
+type Logout = () => Promise<void>;
+
+interface AuthPayload {
+  isDispensary: boolean;
+  user: AuthUser;
+}
+
+interface AuthState {
+  isAuthenticated: boolean;
+  isLoggingIn: boolean;
+  loading: boolean;
+  user: AuthUser;
+  login: Login;
+  token: string;
+  refreshToken: string;
+  logout: Logout;
+}
+
+interface Claims {
+  'x-hasura-allowed-roles': Auth_Roles_Enum[];
+  'x-hasura-default-role': Auth_Roles_Enum;
+  'x-hasura-user-id': string;
+  'x-hasura-dispensary-id': string;
+}
+
+const getUser = (claims: Claims): AuthUser => ({
+  id: claims['x-hasura-user-id'],
+  dispensary_id: claims?.['x-hasura-dispensary-id'],
+});
+
+const decode = (token: string): Claims =>
+  JwtDecode<{'https://hasura.io/jwt/claims': Claims}>(token)[
+    'https://hasura.io/jwt/claims'
+  ];
+
+const setSession = async (token: string, refreshToken: string) => {
+  await AsyncStorage.setItem(TOKEN_KEY, token);
+  await AsyncStorage.setItem(REFRESH_TOKEN_KEY, refreshToken);
+};
+
+const getUserFromToken = flow(decode, getUser);
+
+const useAuthState = (): AuthState => {
+  const [user, setUser] = useState<AuthUser>(null);
+  const [loading, setLoading] = useState(true);
+  const [isLoggingIn, setIsLoggingIn] = useState(false);
+  const [_loginResult, loginMutation] = useLoginMutation();
+  const [_refreshTokenResult, refresh] = useRefreshTokenMutation();
+  const setUserWithToken = flow(getUserFromToken, setUser);
+  const login: Login = async (email, password) => {
+    setIsLoggingIn(true);
+    const {data} = await loginMutation({email, password});
+    if (data?.login?.token) {
+      await setSession(data.login.token, data.login.refresh_token!);
+      pipe(data.login.token, getUserFromToken, setUser);
+    }
+    setIsLoggingIn(false);
+  };
+  const logout = async () => {
+    await Promise.all(
+      [TOKEN_KEY, REFRESH_TOKEN_KEY].map(key => AsyncStorage.removeItem(key))
+    );
+    setUser(null);
+  };
+  useEffect(() => {
+    const initialize = async () => {
+      const token = await AsyncStorage.getItem(TOKEN_KEY);
+      const refreshToken = await AsyncStorage.getItem(REFRESH_TOKEN_KEY);
+      if (token && !isValidToken(token) && refreshToken) {
+        const {data, errors} = await client.mutate<
+          RefreshTokenMutation,
+          RefreshTokenMutationVariables
+        >({mutation: RefreshTokenDocument, variables: {token}});
+        if (errors?.length ?? 0 > 0) {
+          logout();
+          return;
+        }
+        await setSession(data?.refresh?.token!, data?.refresh?.refresh_token!);
+        setUserWithToken(data?.refresh?.token!);
+        setLoading(false);
+        return;
+      } else if (token && isValidToken(token)) {
+        setUserWithToken(token);
+        setLoading(false);
+        return;
+      } else {
+        setLoading(false);
+        return;
+      }
+    };
+    initialize();
+  });
+  return {
+    isAuthenticated: user !== null,
+    loading,
+    user,
+    login,
+    isLoggingIn,
+    logout,
+  };
+};
+
+export const [AuthProvider, useAuth] = constate(useAuthState);

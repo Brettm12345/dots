@@ -1,0 +1,10 @@
+[2021-09-15 19:12:35.226] [renderer1] [error] Must invoke loadWASM first.: Error: Must invoke loadWASM first.
+    at new s (/opt/visual-studio-code/resources/app/node_modules.asar/vscode-oniguruma/release/main.js:1:1837)
+    at Object.createOnigString (/home/brettm/.vscode/extensions/coenraads.bracket-pair-colorizer-2-0.2.1/out/src/textMateLoader.js:54:48)
+    at e.createOnigString (/opt/visual-studio-code/resources/app/node_modules.asar/vscode-textmate/release/main.js:1:5786)
+    at e._tokenize (/opt/visual-studio-code/resources/app/node_modules.asar/vscode-textmate/release/main.js:1:7837)
+    at e.tokenizeLine2 (/opt/visual-studio-code/resources/app/node_modules.asar/vscode-textmate/release/main.js:1:7136)
+    at DocumentDecoration.tokenizeLine (/home/brettm/.vscode/extensions/coenraads.bracket-pair-colorizer-2-0.2.1/out/src/documentDecoration.js:232:55)
+    at DocumentDecoration.tokenizeDocument (/home/brettm/.vscode/extensions/coenraads.bracket-pair-colorizer-2-0.2.1/out/src/documentDecoration.js:116:38)
+    at DocumentDecorationManager.updateDocument (/home/brettm/.vscode/extensions/coenraads.bracket-pair-colorizer-2-0.2.1/out/src/documentDecorationManager.js:33:32)
+    at /home/brettm/.vscode/extensions/coenraads.bracket-pair-colorizer-2-0.2.1/out/src/documentDecorationManager.js:94:30

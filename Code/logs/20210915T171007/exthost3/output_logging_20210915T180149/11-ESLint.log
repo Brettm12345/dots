@@ -1,0 +1,5 @@
+[Info  - 6:01:49 PM] ESLint server is starting
+[Info  - 6:01:50 PM] ESLint server running in node v14.16.0
+[Info  - 6:01:50 PM] ESLint server is running.
+[Info  - 6:01:51 PM] ESLint library loaded from: /home/brettm/src/github.com/you-got-bud/app/node_modules/eslint/lib/api.js
+Warning: React version not specified in eslint-plugin-react settings. See https://github.com/yannickcr/eslint-plugin-react#configuration .

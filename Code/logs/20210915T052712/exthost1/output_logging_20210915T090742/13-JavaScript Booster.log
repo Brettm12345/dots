@@ -1,0 +1,65 @@
+2021-09-15T13:07:42.357Z: Running in production mode.
+2021-09-15T13:07:42.454Z: 35 code actions loaded.
+2021-09-15T13:08:13.864Z: File now valid: file:///home/brettm/src/github.com/you-got-bud/receipt-printer/src/screens/Orders.tsx.
+2021-09-15T13:08:22.866Z: Syntax error in file file:///home/brettm/src/github.com/you-got-bud/receipt-printer/src/screens/Orders.tsx (8:8).
+2021-09-15T13:08:26.651Z: Syntax error in file file:///home/brettm/src/github.com/you-got-bud/receipt-printer/src/screens/Orders.tsx (9:8).
+2021-09-15T13:08:30.966Z: File now valid: file:///home/brettm/src/github.com/you-got-bud/receipt-printer/src/screens/Orders.tsx.
+2021-09-15T13:17:18.364Z: Syntax error in file file:///home/brettm/src/github.com/you-got-bud/receipt-printer/src/screens/Orders.tsx (7:28).
+2021-09-15T13:17:26.895Z: File now valid: file:///home/brettm/src/github.com/you-got-bud/receipt-printer/src/screens/Orders.tsx.
+2021-09-15T13:17:36.675Z: Syntax error in file file:///home/brettm/src/github.com/you-got-bud/receipt-printer/src/screens/Orders.tsx (7:38).
+2021-09-15T13:17:42.484Z: Syntax error in file file:///home/brettm/src/github.com/you-got-bud/receipt-printer/src/screens/Orders.tsx (7:36).
+2021-09-15T13:17:46.378Z: Syntax error in file file:///home/brettm/src/github.com/you-got-bud/receipt-printer/src/screens/Orders.tsx (7:28).
+2021-09-15T13:17:51.045Z: Syntax error in file file:///home/brettm/src/github.com/you-got-bud/receipt-printer/src/screens/Orders.tsx (7:28).
+2021-09-15T13:17:58.111Z: Syntax error in file file:///home/brettm/src/github.com/you-got-bud/receipt-printer/src/screens/Orders.tsx (7:28).
+2021-09-15T13:18:03.455Z: Syntax error in file file:///home/brettm/src/github.com/you-got-bud/receipt-printer/src/screens/Orders.tsx (7:66).
+2021-09-15T13:18:11.812Z: Syntax error in file file:///home/brettm/src/github.com/you-got-bud/receipt-printer/src/screens/Orders.tsx (7:28).
+2021-09-15T14:24:14.895Z: File now valid: file:///home/brettm/src/github.com/you-got-bud/receipt-printer/src/screens/Orders.tsx.
+2021-09-15T17:29:23.427Z: Syntax error in file file:///home/brettm/src/github.com/you-got-bud/receipt-printer/src/screens/Orders.tsx (10:3).
+2021-09-15T17:29:27.337Z: Syntax error in file file:///home/brettm/src/github.com/you-got-bud/receipt-printer/src/screens/Orders.tsx (10:3).
+2021-09-15T17:29:32.383Z: Syntax error in file file:///home/brettm/src/github.com/you-got-bud/receipt-printer/src/screens/Orders.tsx (12:3).
+2021-09-15T17:29:34.363Z: Syntax error in file file:///home/brettm/src/github.com/you-got-bud/receipt-printer/src/screens/Orders.tsx (12:3).
+2021-09-15T17:29:37.743Z: Syntax error in file file:///home/brettm/src/github.com/you-got-bud/receipt-printer/src/screens/Orders.tsx (11:7).
+2021-09-15T17:29:43.438Z: Syntax error in file file:///home/brettm/src/github.com/you-got-bud/receipt-printer/src/screens/Orders.tsx (12:3).
+2021-09-15T17:29:46.674Z: Syntax error in file file:///home/brettm/src/github.com/you-got-bud/receipt-printer/src/screens/Orders.tsx (11:22).
+2021-09-15T17:30:22.265Z: Syntax error in file file:///home/brettm/src/github.com/you-got-bud/receipt-printer/src/screens/Orders.tsx (12:3).
+2021-09-15T17:30:27.769Z: Syntax error in file file:///home/brettm/src/github.com/you-got-bud/receipt-printer/src/screens/Orders.tsx (12:3).
+2021-09-15T17:30:57.715Z: Syntax error in file file:///home/brettm/src/github.com/you-got-bud/receipt-printer/src/screens/Orders.tsx (12:3).
+2021-09-15T17:31:09.229Z: File now valid: file:///home/brettm/src/github.com/you-got-bud/receipt-printer/src/screens/Orders.tsx.
+2021-09-15T17:31:49.913Z: Syntax error in file file:///home/brettm/src/github.com/you-got-bud/receipt-printer/src/screens/Orders.tsx (10:0).
+2021-09-15T17:31:52.405Z: Syntax error in file file:///home/brettm/src/github.com/you-got-bud/receipt-printer/src/screens/Orders.tsx (10:0).
+2021-09-15T17:32:06.006Z: File now valid: file:///home/brettm/src/github.com/you-got-bud/receipt-printer/src/screens/Orders.tsx.
+2021-09-15T17:32:09.168Z: File now valid: file:///home/brettm/src/github.com/you-got-bud/receipt-printer/src/screens/Orders.tsx.
+2021-09-15T17:32:12.780Z: Syntax error in file file:///home/brettm/src/github.com/you-got-bud/receipt-printer/src/screens/Orders.tsx (8:110).
+2021-09-15T17:32:22.545Z: Syntax error in file file:///home/brettm/src/github.com/you-got-bud/receipt-printer/src/screens/Orders.tsx (8:105).
+2021-09-15T17:32:27.270Z: File now valid: file:///home/brettm/src/github.com/you-got-bud/receipt-printer/src/screens/Orders.tsx.
+2021-09-15T17:32:33.565Z: Syntax error in file file:///home/brettm/src/github.com/you-got-bud/receipt-printer/src/screens/Orders.tsx (9:112).
+2021-09-15T17:32:35.084Z: File now valid: file:///home/brettm/src/github.com/you-got-bud/receipt-printer/src/screens/Orders.tsx.
+2021-09-15T17:33:20.387Z: Syntax error in file file:///home/brettm/src/github.com/you-got-bud/receipt-printer/src/screens/Orders.tsx (11:20).
+2021-09-15T17:33:24.244Z: Syntax error in file file:///home/brettm/src/github.com/you-got-bud/receipt-printer/src/screens/Orders.tsx (11:20).
+2021-09-15T17:33:26.832Z: File now valid: file:///home/brettm/src/github.com/you-got-bud/receipt-printer/src/screens/Orders.tsx.
+2021-09-15T17:33:30.852Z: Syntax error in file file:///home/brettm/src/github.com/you-got-bud/receipt-printer/src/screens/Orders.tsx (11:20).
+2021-09-15T17:33:39.575Z: Syntax error in file file:///home/brettm/src/github.com/you-got-bud/receipt-printer/src/screens/Orders.tsx (11:20).
+2021-09-15T17:34:38.372Z: File now valid: file:///home/brettm/src/github.com/you-got-bud/receipt-printer/src/screens/Orders.tsx.
+2021-09-15T17:34:41.031Z: Syntax error in file file:///home/brettm/src/github.com/you-got-bud/receipt-printer/src/screens/Orders.tsx (11:12).
+2021-09-15T17:34:42.763Z: File now valid: file:///home/brettm/src/github.com/you-got-bud/receipt-printer/src/screens/Orders.tsx.
+2021-09-15T17:35:07.441Z: File now valid: file:///home/brettm/src/github.com/you-got-bud/receipt-printer/src/screens/Orders.tsx.
+2021-09-15T17:36:16.079Z: File now valid: file:///home/brettm/src/github.com/you-got-bud/receipt-printer/src/screens/Orders.tsx.
+2021-09-15T17:36:21.670Z: Syntax error in file file:///home/brettm/src/github.com/you-got-bud/receipt-printer/src/screens/Orders.tsx (31:33).
+2021-09-15T17:36:24.602Z: Syntax error in file file:///home/brettm/src/github.com/you-got-bud/receipt-printer/src/screens/Orders.tsx (32:33).
+2021-09-15T17:37:13.007Z: Syntax error in file file:///home/brettm/src/github.com/you-got-bud/receipt-printer/src/screens/Orders.tsx (31:33).
+2021-09-15T17:37:15.612Z: Syntax error in file file:///home/brettm/src/github.com/you-got-bud/receipt-printer/src/screens/Orders.tsx (31:33).
+2021-09-15T17:37:20.652Z: File now valid: file:///home/brettm/src/github.com/you-got-bud/receipt-printer/src/screens/Orders.tsx.
+2021-09-15T17:37:22.691Z: File now valid: file:///home/brettm/src/github.com/you-got-bud/receipt-printer/src/screens/Orders.tsx.
+2021-09-15T17:37:24.432Z: Syntax error in file file:///home/brettm/src/github.com/you-got-bud/receipt-printer/src/screens/Orders.tsx (31:41).
+2021-09-15T17:37:39.050Z: File now valid: file:///home/brettm/src/github.com/you-got-bud/receipt-printer/src/screens/Orders.tsx.
+2021-09-15T17:37:51.471Z: File now valid: file:///home/brettm/src/github.com/you-got-bud/receipt-printer/src/screens/Orders.tsx.
+2021-09-15T17:40:51.176Z: Syntax error in file file:///home/brettm/src/github.com/you-got-bud/receipt-printer/src/screens/Orders.tsx (32:18).
+2021-09-15T17:40:54.282Z: Syntax error in file file:///home/brettm/src/github.com/you-got-bud/receipt-printer/src/screens/Orders.tsx (32:25).
+2021-09-15T17:40:59.190Z: File now valid: file:///home/brettm/src/github.com/you-got-bud/receipt-printer/src/screens/Orders.tsx.
+2021-09-15T17:41:02.618Z: File now valid: file:///home/brettm/src/github.com/you-got-bud/receipt-printer/src/screens/Orders.tsx.
+2021-09-15T17:42:23.403Z: Syntax error in file file:///home/brettm/src/github.com/you-got-bud/receipt-printer/src/screens/Orders.tsx (11:26).
+2021-09-15T17:42:25.139Z: File now valid: file:///home/brettm/src/github.com/you-got-bud/receipt-printer/src/screens/Orders.tsx.
+2021-09-15T17:42:50.300Z: Syntax error in file file:///home/brettm/src/github.com/you-got-bud/receipt-printer/src/screens/Orders.tsx (24:3).
+2021-09-15T17:42:56.513Z: Syntax error in file file:///home/brettm/src/github.com/you-got-bud/receipt-printer/src/screens/Orders.tsx (41:1).
+2021-09-15T17:42:58.742Z: File now valid: file:///home/brettm/src/github.com/you-got-bud/receipt-printer/src/screens/Orders.tsx.
+2021-09-15T17:44:57.212Z: File now valid: file:///home/brettm/src/github.com/you-got-bud/receipt-printer/src/screens/Orders.tsx.

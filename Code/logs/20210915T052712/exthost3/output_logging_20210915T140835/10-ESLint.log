@@ -1,0 +1,933 @@
+[Info  - 2:08:35 PM] ESLint server is starting
+[Info  - 2:08:36 PM] ESLint server running in node v14.16.0
+[Info  - 2:08:36 PM] ESLint server is running.
+[Info  - 2:08:37 PM] ESLint library loaded from: /home/brettm/src/github.com/avasara/node_modules/eslint/lib/api.js
+(node:574010) UnhandledPromiseRejectionWarning: Error: No ESLint configuration found in /home/brettm/src/github.com/avasara/src/pages.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:508:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:299:21)
+    at CLIEngine.getConfigForFile (/home/brettm/src/github.com/avasara/node_modules/eslint/lib/cli-engine/cli-engine.js:947:14)
+    at _e.calculateConfigForFile (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177670)
+    at /home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166999
+    at Re (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177178)
+    at f.then.s.validate (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166978)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+(Use `code --trace-warnings ...` to show where the warning was created)
+(node:574010) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 3)
+(node:574010) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+(node:574010) UnhandledPromiseRejectionWarning: Error: No ESLint configuration found in /home/brettm/src/github.com/avasara/src/pages.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:508:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:299:21)
+    at CLIEngine.getConfigForFile (/home/brettm/src/github.com/avasara/node_modules/eslint/lib/cli-engine/cli-engine.js:947:14)
+    at _e.calculateConfigForFile (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177670)
+    at /home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166999
+    at Re (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177178)
+    at f.then.s.validate (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166978)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+(node:574010) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 4)
+(node:574010) UnhandledPromiseRejectionWarning: Error: No ESLint configuration found in /home/brettm/src/github.com/avasara/src/pages.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:508:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:299:21)
+    at CLIEngine.getConfigForFile (/home/brettm/src/github.com/avasara/node_modules/eslint/lib/cli-engine/cli-engine.js:947:14)
+    at _e.calculateConfigForFile (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177670)
+    at /home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166999
+    at Re (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177178)
+    at f.then.s.validate (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166978)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+(node:574010) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 5)
+[Info  - 2:08:38 PM] No ESLint configuration found in /home/brettm/src/github.com/avasara.
+(node:574010) UnhandledPromiseRejectionWarning: Error: No ESLint configuration found in /home/brettm/src/github.com/avasara/src/pages.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:508:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:299:21)
+    at CLIEngine.getConfigForFile (/home/brettm/src/github.com/avasara/node_modules/eslint/lib/cli-engine/cli-engine.js:947:14)
+    at _e.calculateConfigForFile (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177670)
+    at /home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166999
+    at Re (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177178)
+    at f.then.s.validate (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166978)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+(node:574010) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 7)
+(node:574010) UnhandledPromiseRejectionWarning: Error: No ESLint configuration found in /home/brettm/src/github.com/avasara/src/pages.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:508:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:299:21)
+    at CLIEngine.getConfigForFile (/home/brettm/src/github.com/avasara/node_modules/eslint/lib/cli-engine/cli-engine.js:947:14)
+    at _e.calculateConfigForFile (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177670)
+    at /home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166999
+    at Re (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177178)
+    at f.then.s.validate (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166978)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+(node:574010) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 8)
+(node:574010) UnhandledPromiseRejectionWarning: Error: No ESLint configuration found in /home/brettm/src/github.com/avasara/src/pages.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:508:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:299:21)
+    at CLIEngine.getConfigForFile (/home/brettm/src/github.com/avasara/node_modules/eslint/lib/cli-engine/cli-engine.js:947:14)
+    at _e.calculateConfigForFile (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177670)
+    at /home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166999
+    at Re (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177178)
+    at f.then.s.validate (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166978)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+(node:574010) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 9)
+(node:574010) UnhandledPromiseRejectionWarning: Error: No ESLint configuration found in /home/brettm/src/github.com/avasara/src/pages.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:508:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:299:21)
+    at CLIEngine.getConfigForFile (/home/brettm/src/github.com/avasara/node_modules/eslint/lib/cli-engine/cli-engine.js:947:14)
+    at _e.calculateConfigForFile (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177670)
+    at /home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166999
+    at Re (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177178)
+    at f.then.s.validate (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166978)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+(node:574010) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 10)
+(node:574010) UnhandledPromiseRejectionWarning: Error: No ESLint configuration found in /home/brettm/src/github.com/avasara/src/pages.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:508:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:299:21)
+    at CLIEngine.getConfigForFile (/home/brettm/src/github.com/avasara/node_modules/eslint/lib/cli-engine/cli-engine.js:947:14)
+    at _e.calculateConfigForFile (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177670)
+    at /home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166999
+    at Re (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177178)
+    at f.then.s.validate (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166978)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+(node:574010) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 11)
+(node:574010) UnhandledPromiseRejectionWarning: Error: No ESLint configuration found in /home/brettm/src/github.com/avasara/src/pages.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:508:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:299:21)
+    at CLIEngine.getConfigForFile (/home/brettm/src/github.com/avasara/node_modules/eslint/lib/cli-engine/cli-engine.js:947:14)
+    at _e.calculateConfigForFile (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177670)
+    at /home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166999
+    at Re (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177178)
+    at f.then.s.validate (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166978)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+(node:574010) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 12)
+(node:574010) UnhandledPromiseRejectionWarning: Error: No ESLint configuration found in /home/brettm/src/github.com/avasara/src/pages.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:508:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:299:21)
+    at CLIEngine.getConfigForFile (/home/brettm/src/github.com/avasara/node_modules/eslint/lib/cli-engine/cli-engine.js:947:14)
+    at _e.calculateConfigForFile (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177670)
+    at /home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166999
+    at Re (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177178)
+    at f.then.s.validate (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166978)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+(node:574010) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 13)
+(node:574010) UnhandledPromiseRejectionWarning: Error: No ESLint configuration found in /home/brettm/src/github.com/avasara/src/pages.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:508:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:299:21)
+    at CLIEngine.getConfigForFile (/home/brettm/src/github.com/avasara/node_modules/eslint/lib/cli-engine/cli-engine.js:947:14)
+    at _e.calculateConfigForFile (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177670)
+    at /home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166999
+    at Re (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177178)
+    at f.then.s.validate (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166978)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+(node:574010) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 14)
+(node:574010) UnhandledPromiseRejectionWarning: Error: No ESLint configuration found in /home/brettm/src/github.com/avasara/src/pages.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:508:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:299:21)
+    at CLIEngine.getConfigForFile (/home/brettm/src/github.com/avasara/node_modules/eslint/lib/cli-engine/cli-engine.js:947:14)
+    at _e.calculateConfigForFile (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177670)
+    at /home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166999
+    at Re (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177178)
+    at f.then.s.validate (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166978)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+(node:574010) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 15)
+(node:574010) UnhandledPromiseRejectionWarning: Error: No ESLint configuration found in /home/brettm/src/github.com/avasara/src/pages.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:508:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:299:21)
+    at CLIEngine.getConfigForFile (/home/brettm/src/github.com/avasara/node_modules/eslint/lib/cli-engine/cli-engine.js:947:14)
+    at _e.calculateConfigForFile (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177670)
+    at /home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166999
+    at Re (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177178)
+    at f.then.s.validate (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166978)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+(node:574010) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 16)
+(node:574010) UnhandledPromiseRejectionWarning: Error: No ESLint configuration found in /home/brettm/src/github.com/avasara/src/pages.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:508:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:299:21)
+    at CLIEngine.getConfigForFile (/home/brettm/src/github.com/avasara/node_modules/eslint/lib/cli-engine/cli-engine.js:947:14)
+    at _e.calculateConfigForFile (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177670)
+    at /home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166999
+    at Re (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177178)
+    at f.then.s.validate (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166978)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+(node:574010) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 17)
+(node:574010) UnhandledPromiseRejectionWarning: Error: No ESLint configuration found in /home/brettm/src/github.com/avasara/src/pages.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:508:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:299:21)
+    at CLIEngine.getConfigForFile (/home/brettm/src/github.com/avasara/node_modules/eslint/lib/cli-engine/cli-engine.js:947:14)
+    at _e.calculateConfigForFile (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177670)
+    at /home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166999
+    at Re (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177178)
+    at f.then.s.validate (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166978)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+(node:574010) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 18)
+(node:574010) UnhandledPromiseRejectionWarning: Error: No ESLint configuration found in /home/brettm/src/github.com/avasara/src/pages.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:508:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:299:21)
+    at CLIEngine.getConfigForFile (/home/brettm/src/github.com/avasara/node_modules/eslint/lib/cli-engine/cli-engine.js:947:14)
+    at _e.calculateConfigForFile (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177670)
+    at /home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166999
+    at Re (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177178)
+    at f.then.s.validate (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166978)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+(node:574010) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 19)
+(node:574010) UnhandledPromiseRejectionWarning: Error: No ESLint configuration found in /home/brettm/src/github.com/avasara/src/pages.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:508:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:299:21)
+    at CLIEngine.getConfigForFile (/home/brettm/src/github.com/avasara/node_modules/eslint/lib/cli-engine/cli-engine.js:947:14)
+    at _e.calculateConfigForFile (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177670)
+    at /home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166999
+    at Re (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177178)
+    at f.then.s.validate (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166978)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+(node:574010) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 20)
+(node:574010) UnhandledPromiseRejectionWarning: Error: No ESLint configuration found in /home/brettm/src/github.com/avasara/src/pages.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:508:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:299:21)
+    at CLIEngine.getConfigForFile (/home/brettm/src/github.com/avasara/node_modules/eslint/lib/cli-engine/cli-engine.js:947:14)
+    at _e.calculateConfigForFile (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177670)
+    at /home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166999
+    at Re (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177178)
+    at f.then.s.validate (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166978)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+(node:574010) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 21)
+[Info  - 2:08:53 PM] No ESLint configuration found in /home/brettm/src/github.com/avasara.
+(node:574010) UnhandledPromiseRejectionWarning: Error: No ESLint configuration found in /home/brettm/src/github.com/avasara/src/components.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:508:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:299:21)
+    at CLIEngine.getConfigForFile (/home/brettm/src/github.com/avasara/node_modules/eslint/lib/cli-engine/cli-engine.js:947:14)
+    at _e.calculateConfigForFile (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177670)
+    at /home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166999
+    at Re (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177178)
+    at f.then.s.validate (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166978)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+(node:574010) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 25)
+(node:574010) UnhandledPromiseRejectionWarning: Error: No ESLint configuration found in /home/brettm/src/github.com/avasara/src/components.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:508:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:299:21)
+    at CLIEngine.getConfigForFile (/home/brettm/src/github.com/avasara/node_modules/eslint/lib/cli-engine/cli-engine.js:947:14)
+    at _e.calculateConfigForFile (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177670)
+    at /home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166999
+    at Re (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177178)
+    at f.then.s.validate (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166978)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+(node:574010) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 26)
+(node:574010) UnhandledPromiseRejectionWarning: Error: No ESLint configuration found in /home/brettm/src/github.com/avasara/src/components.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:508:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:299:21)
+    at CLIEngine.getConfigForFile (/home/brettm/src/github.com/avasara/node_modules/eslint/lib/cli-engine/cli-engine.js:947:14)
+    at _e.calculateConfigForFile (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177670)
+    at /home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166999
+    at Re (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177178)
+    at f.then.s.validate (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166978)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+(node:574010) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 27)
+(node:574010) UnhandledPromiseRejectionWarning: Error: No ESLint configuration found in /home/brettm/src/github.com/avasara/src/components.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:508:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:299:21)
+    at CLIEngine.getConfigForFile (/home/brettm/src/github.com/avasara/node_modules/eslint/lib/cli-engine/cli-engine.js:947:14)
+    at _e.calculateConfigForFile (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177670)
+    at /home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166999
+    at Re (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177178)
+    at f.then.s.validate (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166978)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+(node:574010) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 28)
+(node:574010) UnhandledPromiseRejectionWarning: Error: No ESLint configuration found in /home/brettm/src/github.com/avasara/src/components.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:508:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:299:21)
+    at CLIEngine.getConfigForFile (/home/brettm/src/github.com/avasara/node_modules/eslint/lib/cli-engine/cli-engine.js:947:14)
+    at _e.calculateConfigForFile (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177670)
+    at /home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166999
+    at Re (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177178)
+    at f.then.s.validate (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166978)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+(node:574010) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 29)
+(node:574010) UnhandledPromiseRejectionWarning: Error: No ESLint configuration found in /home/brettm/src/github.com/avasara/src/components.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:508:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:299:21)
+    at CLIEngine.getConfigForFile (/home/brettm/src/github.com/avasara/node_modules/eslint/lib/cli-engine/cli-engine.js:947:14)
+    at _e.calculateConfigForFile (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177670)
+    at /home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166999
+    at Re (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177178)
+    at f.then.s.validate (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166978)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+(node:574010) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 30)
+(node:574010) UnhandledPromiseRejectionWarning: Error: No ESLint configuration found in /home/brettm/src/github.com/avasara/src/components.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:508:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:299:21)
+    at CLIEngine.getConfigForFile (/home/brettm/src/github.com/avasara/node_modules/eslint/lib/cli-engine/cli-engine.js:947:14)
+    at _e.calculateConfigForFile (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177670)
+    at /home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166999
+    at Re (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177178)
+    at f.then.s.validate (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166978)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+(node:574010) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 31)
+(node:574010) UnhandledPromiseRejectionWarning: Error: No ESLint configuration found in /home/brettm/src/github.com/avasara/src/components.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:508:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:299:21)
+    at CLIEngine.getConfigForFile (/home/brettm/src/github.com/avasara/node_modules/eslint/lib/cli-engine/cli-engine.js:947:14)
+    at _e.calculateConfigForFile (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177670)
+    at /home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166999
+    at Re (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177178)
+    at f.then.s.validate (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166978)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+(node:574010) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 32)
+(node:574010) UnhandledPromiseRejectionWarning: Error: No ESLint configuration found in /home/brettm/src/github.com/avasara/src/components.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:508:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:299:21)
+    at CLIEngine.getConfigForFile (/home/brettm/src/github.com/avasara/node_modules/eslint/lib/cli-engine/cli-engine.js:947:14)
+    at _e.calculateConfigForFile (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177670)
+    at /home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166999
+    at Re (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177178)
+    at f.then.s.validate (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166978)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+(node:574010) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 33)
+(node:574010) UnhandledPromiseRejectionWarning: Error: No ESLint configuration found in /home/brettm/src/github.com/avasara/src/components.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:508:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:299:21)
+    at CLIEngine.getConfigForFile (/home/brettm/src/github.com/avasara/node_modules/eslint/lib/cli-engine/cli-engine.js:947:14)
+    at _e.calculateConfigForFile (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177670)
+    at /home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166999
+    at Re (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177178)
+    at f.then.s.validate (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166978)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+(node:574010) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 34)
+(node:574010) UnhandledPromiseRejectionWarning: Error: No ESLint configuration found in /home/brettm/src/github.com/avasara/src/components.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:508:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:299:21)
+    at CLIEngine.getConfigForFile (/home/brettm/src/github.com/avasara/node_modules/eslint/lib/cli-engine/cli-engine.js:947:14)
+    at _e.calculateConfigForFile (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177670)
+    at /home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166999
+    at Re (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177178)
+    at f.then.s.validate (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166978)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+(node:574010) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 35)
+(node:574010) UnhandledPromiseRejectionWarning: Error: No ESLint configuration found in /home/brettm/src/github.com/avasara/src/components.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:508:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:299:21)
+    at CLIEngine.getConfigForFile (/home/brettm/src/github.com/avasara/node_modules/eslint/lib/cli-engine/cli-engine.js:947:14)
+    at _e.calculateConfigForFile (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177670)
+    at /home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166999
+    at Re (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177178)
+    at f.then.s.validate (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166978)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+(node:574010) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 36)
+(node:574010) UnhandledPromiseRejectionWarning: Error: No ESLint configuration found in /home/brettm/src/github.com/avasara/src/components.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:508:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:299:21)
+    at CLIEngine.getConfigForFile (/home/brettm/src/github.com/avasara/node_modules/eslint/lib/cli-engine/cli-engine.js:947:14)
+    at _e.calculateConfigForFile (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177670)
+    at /home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166999
+    at Re (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177178)
+    at f.then.s.validate (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166978)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+(node:574010) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 37)
+(node:574010) UnhandledPromiseRejectionWarning: Error: No ESLint configuration found in /home/brettm/src/github.com/avasara/src/components.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:508:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:299:21)
+    at CLIEngine.getConfigForFile (/home/brettm/src/github.com/avasara/node_modules/eslint/lib/cli-engine/cli-engine.js:947:14)
+    at _e.calculateConfigForFile (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177670)
+    at /home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166999
+    at Re (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177178)
+    at f.then.s.validate (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166978)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+(node:574010) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 38)
+(node:574010) UnhandledPromiseRejectionWarning: Error: No ESLint configuration found in /home/brettm/src/github.com/avasara/src/components.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:508:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:299:21)
+    at CLIEngine.getConfigForFile (/home/brettm/src/github.com/avasara/node_modules/eslint/lib/cli-engine/cli-engine.js:947:14)
+    at _e.calculateConfigForFile (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177670)
+    at /home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166999
+    at Re (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177178)
+    at f.then.s.validate (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166978)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+(node:574010) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 39)
+(node:574010) UnhandledPromiseRejectionWarning: Error: No ESLint configuration found in /home/brettm/src/github.com/avasara/src/components.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:508:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:299:21)
+    at CLIEngine.getConfigForFile (/home/brettm/src/github.com/avasara/node_modules/eslint/lib/cli-engine/cli-engine.js:947:14)
+    at _e.calculateConfigForFile (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177670)
+    at /home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166999
+    at Re (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177178)
+    at f.then.s.validate (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166978)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+(node:574010) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 40)
+(node:574010) UnhandledPromiseRejectionWarning: Error: No ESLint configuration found in /home/brettm/src/github.com/avasara/src/components.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:508:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:299:21)
+    at CLIEngine.getConfigForFile (/home/brettm/src/github.com/avasara/node_modules/eslint/lib/cli-engine/cli-engine.js:947:14)
+    at _e.calculateConfigForFile (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177670)
+    at /home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166999
+    at Re (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177178)
+    at f.then.s.validate (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166978)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+(node:574010) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 41)
+(node:574010) UnhandledPromiseRejectionWarning: Error: No ESLint configuration found in /home/brettm/src/github.com/avasara/src/components.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:508:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:299:21)
+    at CLIEngine.getConfigForFile (/home/brettm/src/github.com/avasara/node_modules/eslint/lib/cli-engine/cli-engine.js:947:14)
+    at _e.calculateConfigForFile (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177670)
+    at /home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166999
+    at Re (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177178)
+    at f.then.s.validate (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166978)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+(node:574010) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 42)
+(node:574010) UnhandledPromiseRejectionWarning: Error: No ESLint configuration found in /home/brettm/src/github.com/avasara/src/components.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:508:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:299:21)
+    at CLIEngine.getConfigForFile (/home/brettm/src/github.com/avasara/node_modules/eslint/lib/cli-engine/cli-engine.js:947:14)
+    at _e.calculateConfigForFile (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177670)
+    at /home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166999
+    at Re (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177178)
+    at f.then.s.validate (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166978)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+(node:574010) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 43)
+(node:574010) UnhandledPromiseRejectionWarning: Error: No ESLint configuration found in /home/brettm/src/github.com/avasara/src/components.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:508:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:299:21)
+    at CLIEngine.getConfigForFile (/home/brettm/src/github.com/avasara/node_modules/eslint/lib/cli-engine/cli-engine.js:947:14)
+    at _e.calculateConfigForFile (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177670)
+    at /home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166999
+    at Re (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177178)
+    at f.then.s.validate (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166978)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+(node:574010) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 44)
+(node:574010) UnhandledPromiseRejectionWarning: Error: No ESLint configuration found in /home/brettm/src/github.com/avasara/src/components.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:508:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:299:21)
+    at CLIEngine.getConfigForFile (/home/brettm/src/github.com/avasara/node_modules/eslint/lib/cli-engine/cli-engine.js:947:14)
+    at _e.calculateConfigForFile (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177670)
+    at /home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166999
+    at Re (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177178)
+    at f.then.s.validate (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166978)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+(node:574010) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 45)
+(node:574010) UnhandledPromiseRejectionWarning: Error: No ESLint configuration found in /home/brettm/src/github.com/avasara/src/components.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:508:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:299:21)
+    at CLIEngine.getConfigForFile (/home/brettm/src/github.com/avasara/node_modules/eslint/lib/cli-engine/cli-engine.js:947:14)
+    at _e.calculateConfigForFile (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177670)
+    at /home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166999
+    at Re (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177178)
+    at f.then.s.validate (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166978)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+(node:574010) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 46)
+(node:574010) UnhandledPromiseRejectionWarning: Error: No ESLint configuration found in /home/brettm/src/github.com/avasara/src/components.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:508:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:299:21)
+    at CLIEngine.getConfigForFile (/home/brettm/src/github.com/avasara/node_modules/eslint/lib/cli-engine/cli-engine.js:947:14)
+    at _e.calculateConfigForFile (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177670)
+    at /home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166999
+    at Re (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177178)
+    at f.then.s.validate (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166978)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+(node:574010) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 47)
+(node:574010) UnhandledPromiseRejectionWarning: Error: No ESLint configuration found in /home/brettm/src/github.com/avasara/src/components.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:508:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:299:21)
+    at CLIEngine.getConfigForFile (/home/brettm/src/github.com/avasara/node_modules/eslint/lib/cli-engine/cli-engine.js:947:14)
+    at _e.calculateConfigForFile (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177670)
+    at /home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166999
+    at Re (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177178)
+    at f.then.s.validate (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166978)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+(node:574010) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 48)
+(node:574010) UnhandledPromiseRejectionWarning: Error: No ESLint configuration found in /home/brettm/src/github.com/avasara/src/components.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:508:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:299:21)
+    at CLIEngine.getConfigForFile (/home/brettm/src/github.com/avasara/node_modules/eslint/lib/cli-engine/cli-engine.js:947:14)
+    at _e.calculateConfigForFile (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177670)
+    at /home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166999
+    at Re (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177178)
+    at f.then.s.validate (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166978)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+(node:574010) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 49)
+(node:574010) UnhandledPromiseRejectionWarning: Error: No ESLint configuration found in /home/brettm/src/github.com/avasara/src/components.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:508:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:299:21)
+    at CLIEngine.getConfigForFile (/home/brettm/src/github.com/avasara/node_modules/eslint/lib/cli-engine/cli-engine.js:947:14)
+    at _e.calculateConfigForFile (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177670)
+    at /home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166999
+    at Re (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177178)
+    at f.then.s.validate (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166978)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+(node:574010) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 50)
+(node:574010) UnhandledPromiseRejectionWarning: Error: No ESLint configuration found in /home/brettm/src/github.com/avasara/src/components.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:508:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:299:21)
+    at CLIEngine.getConfigForFile (/home/brettm/src/github.com/avasara/node_modules/eslint/lib/cli-engine/cli-engine.js:947:14)
+    at _e.calculateConfigForFile (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177670)
+    at /home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166999
+    at Re (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177178)
+    at f.then.s.validate (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166978)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+(node:574010) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 51)
+[Info  - 2:10:01 PM] No ESLint configuration found in /home/brettm/src/github.com/avasara.
+[Info  - 2:10:05 PM] No ESLint configuration found in /home/brettm/src/github.com/avasara.
+[Error - 2:10:10 PM] Request textDocument/codeAction failed.
+  Message: Request textDocument/codeAction failed with message: No ESLint configuration found in /home/brettm/src/github.com/avasara/src/components.
+  Code: -32603 
+[Error - 2:10:11 PM] Request textDocument/codeAction failed.
+  Message: Request textDocument/codeAction failed with message: No ESLint configuration found in /home/brettm/src/github.com/avasara/src/components.
+  Code: -32603 
+[Error - 2:10:11 PM] Request textDocument/codeAction failed.
+  Message: Request textDocument/codeAction failed with message: No ESLint configuration found in /home/brettm/src/github.com/avasara/src/components.
+  Code: -32603 
+[Error - 2:10:11 PM] Request textDocument/codeAction failed.
+  Message: Request textDocument/codeAction failed with message: No ESLint configuration found in /home/brettm/src/github.com/avasara/src/components.
+  Code: -32603 
+(node:574010) UnhandledPromiseRejectionWarning: Error: No ESLint configuration found in /home/brettm/src/github.com/avasara/src/components.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:508:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:299:21)
+    at CLIEngine.getConfigForFile (/home/brettm/src/github.com/avasara/node_modules/eslint/lib/cli-engine/cli-engine.js:947:14)
+    at _e.calculateConfigForFile (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177670)
+    at /home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166999
+    at Re (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177178)
+    at f.then.s.validate (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166978)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+(node:574010) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 54)
+(node:574010) UnhandledPromiseRejectionWarning: Error: No ESLint configuration found in /home/brettm/src/github.com/avasara/src/components.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:508:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:299:21)
+    at CLIEngine.getConfigForFile (/home/brettm/src/github.com/avasara/node_modules/eslint/lib/cli-engine/cli-engine.js:947:14)
+    at _e.calculateConfigForFile (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177670)
+    at /home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166999
+    at Re (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177178)
+    at f.then.s.validate (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166978)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+(node:574010) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 55)
+(node:574010) UnhandledPromiseRejectionWarning: Error: No ESLint configuration found in /home/brettm/src/github.com/avasara/src/components.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:508:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:299:21)
+    at CLIEngine.getConfigForFile (/home/brettm/src/github.com/avasara/node_modules/eslint/lib/cli-engine/cli-engine.js:947:14)
+    at _e.calculateConfigForFile (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177670)
+    at /home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166999
+    at Re (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177178)
+    at f.then.s.validate (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166978)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+(node:574010) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 56)
+(node:574010) UnhandledPromiseRejectionWarning: Error: No ESLint configuration found in /home/brettm/src/github.com/avasara/src/components.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:508:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:299:21)
+    at CLIEngine.getConfigForFile (/home/brettm/src/github.com/avasara/node_modules/eslint/lib/cli-engine/cli-engine.js:947:14)
+    at _e.calculateConfigForFile (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177670)
+    at /home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166999
+    at Re (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177178)
+    at f.then.s.validate (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166978)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+(node:574010) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 57)
+(node:574010) UnhandledPromiseRejectionWarning: Error: No ESLint configuration found in /home/brettm/src/github.com/avasara/src/components.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:508:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:299:21)
+    at CLIEngine.getConfigForFile (/home/brettm/src/github.com/avasara/node_modules/eslint/lib/cli-engine/cli-engine.js:947:14)
+    at _e.calculateConfigForFile (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177670)
+    at /home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166999
+    at Re (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177178)
+    at f.then.s.validate (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166978)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+(node:574010) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 58)
+(node:574010) UnhandledPromiseRejectionWarning: Error: No ESLint configuration found in /home/brettm/src/github.com/avasara/src/components.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:508:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:299:21)
+    at CLIEngine.getConfigForFile (/home/brettm/src/github.com/avasara/node_modules/eslint/lib/cli-engine/cli-engine.js:947:14)
+    at _e.calculateConfigForFile (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177670)
+    at /home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166999
+    at Re (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177178)
+    at f.then.s.validate (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166978)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+(node:574010) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 59)
+(node:574010) UnhandledPromiseRejectionWarning: Error: No ESLint configuration found in /home/brettm/src/github.com/avasara/src/components.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:508:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:299:21)
+    at CLIEngine.getConfigForFile (/home/brettm/src/github.com/avasara/node_modules/eslint/lib/cli-engine/cli-engine.js:947:14)
+    at _e.calculateConfigForFile (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177670)
+    at /home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166999
+    at Re (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177178)
+    at f.then.s.validate (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166978)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+(node:574010) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 60)
+(node:574010) UnhandledPromiseRejectionWarning: Error: No ESLint configuration found in /home/brettm/src/github.com/avasara/src/components.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:508:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:299:21)
+    at CLIEngine.getConfigForFile (/home/brettm/src/github.com/avasara/node_modules/eslint/lib/cli-engine/cli-engine.js:947:14)
+    at _e.calculateConfigForFile (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177670)
+    at /home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166999
+    at Re (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177178)
+    at f.then.s.validate (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166978)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+(node:574010) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 61)
+(node:574010) UnhandledPromiseRejectionWarning: Error: No ESLint configuration found in /home/brettm/src/github.com/avasara/src/components.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:508:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:299:21)
+    at CLIEngine.getConfigForFile (/home/brettm/src/github.com/avasara/node_modules/eslint/lib/cli-engine/cli-engine.js:947:14)
+    at _e.calculateConfigForFile (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177670)
+    at /home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166999
+    at Re (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177178)
+    at f.then.s.validate (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166978)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+(node:574010) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 62)
+(node:574010) UnhandledPromiseRejectionWarning: Error: No ESLint configuration found in /home/brettm/src/github.com/avasara/src/components.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:508:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:299:21)
+    at CLIEngine.getConfigForFile (/home/brettm/src/github.com/avasara/node_modules/eslint/lib/cli-engine/cli-engine.js:947:14)
+    at _e.calculateConfigForFile (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177670)
+    at /home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166999
+    at Re (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177178)
+    at f.then.s.validate (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166978)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+(node:574010) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 63)
+(node:574010) UnhandledPromiseRejectionWarning: Error: No ESLint configuration found in /home/brettm/src/github.com/avasara/src/components.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:508:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:299:21)
+    at CLIEngine.getConfigForFile (/home/brettm/src/github.com/avasara/node_modules/eslint/lib/cli-engine/cli-engine.js:947:14)
+    at _e.calculateConfigForFile (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177670)
+    at /home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166999
+    at Re (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177178)
+    at f.then.s.validate (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166978)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+(node:574010) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 64)
+(node:574010) UnhandledPromiseRejectionWarning: Error: No ESLint configuration found in /home/brettm/src/github.com/avasara/src/components.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:508:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:299:21)
+    at CLIEngine.getConfigForFile (/home/brettm/src/github.com/avasara/node_modules/eslint/lib/cli-engine/cli-engine.js:947:14)
+    at _e.calculateConfigForFile (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177670)
+    at /home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166999
+    at Re (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177178)
+    at f.then.s.validate (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166978)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+(node:574010) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 65)
+(node:574010) UnhandledPromiseRejectionWarning: Error: No ESLint configuration found in /home/brettm/src/github.com/avasara/src/components.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:508:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:299:21)
+    at CLIEngine.getConfigForFile (/home/brettm/src/github.com/avasara/node_modules/eslint/lib/cli-engine/cli-engine.js:947:14)
+    at _e.calculateConfigForFile (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177670)
+    at /home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166999
+    at Re (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177178)
+    at f.then.s.validate (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166978)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+(node:574010) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 66)
+(node:574010) UnhandledPromiseRejectionWarning: Error: No ESLint configuration found in /home/brettm/src/github.com/avasara/src/components.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:508:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:299:21)
+    at CLIEngine.getConfigForFile (/home/brettm/src/github.com/avasara/node_modules/eslint/lib/cli-engine/cli-engine.js:947:14)
+    at _e.calculateConfigForFile (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177670)
+    at /home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166999
+    at Re (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177178)
+    at f.then.s.validate (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166978)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+(node:574010) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 67)
+(node:574010) UnhandledPromiseRejectionWarning: Error: No ESLint configuration found in /home/brettm/src/github.com/avasara/src/components.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:508:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:299:21)
+    at CLIEngine.getConfigForFile (/home/brettm/src/github.com/avasara/node_modules/eslint/lib/cli-engine/cli-engine.js:947:14)
+    at _e.calculateConfigForFile (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177670)
+    at /home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166999
+    at Re (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177178)
+    at f.then.s.validate (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166978)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+(node:574010) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 68)
+(node:574010) UnhandledPromiseRejectionWarning: Error: No ESLint configuration found in /home/brettm/src/github.com/avasara/src/components.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:508:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:299:21)
+    at CLIEngine.getConfigForFile (/home/brettm/src/github.com/avasara/node_modules/eslint/lib/cli-engine/cli-engine.js:947:14)
+    at _e.calculateConfigForFile (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177670)
+    at /home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166999
+    at Re (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177178)
+    at f.then.s.validate (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166978)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+(node:574010) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 69)
+(node:574010) UnhandledPromiseRejectionWarning: Error: No ESLint configuration found in /home/brettm/src/github.com/avasara/src/components.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:508:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:299:21)
+    at CLIEngine.getConfigForFile (/home/brettm/src/github.com/avasara/node_modules/eslint/lib/cli-engine/cli-engine.js:947:14)
+    at _e.calculateConfigForFile (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177670)
+    at /home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166999
+    at Re (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177178)
+    at f.then.s.validate (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166978)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+(node:574010) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 70)
+(node:574010) UnhandledPromiseRejectionWarning: Error: No ESLint configuration found in /home/brettm/src/github.com/avasara/src/components.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:508:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:299:21)
+    at CLIEngine.getConfigForFile (/home/brettm/src/github.com/avasara/node_modules/eslint/lib/cli-engine/cli-engine.js:947:14)
+    at _e.calculateConfigForFile (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177670)
+    at /home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166999
+    at Re (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177178)
+    at f.then.s.validate (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166978)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+(node:574010) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 71)
+(node:574010) UnhandledPromiseRejectionWarning: Error: No ESLint configuration found in /home/brettm/src/github.com/avasara/src/components.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:508:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:299:21)
+    at CLIEngine.getConfigForFile (/home/brettm/src/github.com/avasara/node_modules/eslint/lib/cli-engine/cli-engine.js:947:14)
+    at _e.calculateConfigForFile (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177670)
+    at /home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166999
+    at Re (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177178)
+    at f.then.s.validate (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166978)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+(node:574010) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 72)
+(node:574010) UnhandledPromiseRejectionWarning: Error: No ESLint configuration found in /home/brettm/src/github.com/avasara/src/components.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:508:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:299:21)
+    at CLIEngine.getConfigForFile (/home/brettm/src/github.com/avasara/node_modules/eslint/lib/cli-engine/cli-engine.js:947:14)
+    at _e.calculateConfigForFile (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177670)
+    at /home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166999
+    at Re (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177178)
+    at f.then.s.validate (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166978)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+(node:574010) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 73)
+(node:574010) UnhandledPromiseRejectionWarning: Error: No ESLint configuration found in /home/brettm/src/github.com/avasara/src/components.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:508:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:299:21)
+    at CLIEngine.getConfigForFile (/home/brettm/src/github.com/avasara/node_modules/eslint/lib/cli-engine/cli-engine.js:947:14)
+    at _e.calculateConfigForFile (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177670)
+    at /home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166999
+    at Re (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177178)
+    at f.then.s.validate (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166978)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+(node:574010) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 74)
+(node:574010) UnhandledPromiseRejectionWarning: Error: No ESLint configuration found in /home/brettm/src/github.com/avasara/src/components.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:508:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:299:21)
+    at CLIEngine.getConfigForFile (/home/brettm/src/github.com/avasara/node_modules/eslint/lib/cli-engine/cli-engine.js:947:14)
+    at _e.calculateConfigForFile (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177670)
+    at /home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166999
+    at Re (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177178)
+    at f.then.s.validate (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166978)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+(node:574010) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 75)
+(node:574010) UnhandledPromiseRejectionWarning: Error: No ESLint configuration found in /home/brettm/src/github.com/avasara/src/components.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:508:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:299:21)
+    at CLIEngine.getConfigForFile (/home/brettm/src/github.com/avasara/node_modules/eslint/lib/cli-engine/cli-engine.js:947:14)
+    at _e.calculateConfigForFile (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177670)
+    at /home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166999
+    at Re (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177178)
+    at f.then.s.validate (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166978)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+(node:574010) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 76)
+(node:574010) UnhandledPromiseRejectionWarning: Error: No ESLint configuration found in /home/brettm/src/github.com/avasara/src/components.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:508:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:299:21)
+    at CLIEngine.getConfigForFile (/home/brettm/src/github.com/avasara/node_modules/eslint/lib/cli-engine/cli-engine.js:947:14)
+    at _e.calculateConfigForFile (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177670)
+    at /home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166999
+    at Re (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177178)
+    at f.then.s.validate (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166978)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+(node:574010) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 77)
+(node:574010) UnhandledPromiseRejectionWarning: Error: No ESLint configuration found in /home/brettm/src/github.com/avasara/src/components.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:508:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:299:21)
+    at CLIEngine.getConfigForFile (/home/brettm/src/github.com/avasara/node_modules/eslint/lib/cli-engine/cli-engine.js:947:14)
+    at _e.calculateConfigForFile (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177670)
+    at /home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166999
+    at Re (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177178)
+    at f.then.s.validate (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166978)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+(node:574010) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 78)
+(node:574010) UnhandledPromiseRejectionWarning: Error: No ESLint configuration found in /home/brettm/src/github.com/avasara/src/components.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:508:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:299:21)
+    at CLIEngine.getConfigForFile (/home/brettm/src/github.com/avasara/node_modules/eslint/lib/cli-engine/cli-engine.js:947:14)
+    at _e.calculateConfigForFile (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177670)
+    at /home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166999
+    at Re (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177178)
+    at f.then.s.validate (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166978)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+(node:574010) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 79)
+(node:574010) UnhandledPromiseRejectionWarning: Error: No ESLint configuration found in /home/brettm/src/github.com/avasara/src/components.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:508:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:299:21)
+    at CLIEngine.getConfigForFile (/home/brettm/src/github.com/avasara/node_modules/eslint/lib/cli-engine/cli-engine.js:947:14)
+    at _e.calculateConfigForFile (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177670)
+    at /home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166999
+    at Re (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177178)
+    at f.then.s.validate (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166978)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+(node:574010) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 80)
+(node:574010) UnhandledPromiseRejectionWarning: Error: No ESLint configuration found in /home/brettm/src/github.com/avasara/src/components.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:508:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:299:21)
+    at CLIEngine.getConfigForFile (/home/brettm/src/github.com/avasara/node_modules/eslint/lib/cli-engine/cli-engine.js:947:14)
+    at _e.calculateConfigForFile (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177670)
+    at /home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166999
+    at Re (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177178)
+    at f.then.s.validate (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166978)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+(node:574010) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 81)
+(node:574010) UnhandledPromiseRejectionWarning: Error: No ESLint configuration found in /home/brettm/src/github.com/avasara/src/components.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:508:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:299:21)
+    at CLIEngine.getConfigForFile (/home/brettm/src/github.com/avasara/node_modules/eslint/lib/cli-engine/cli-engine.js:947:14)
+    at _e.calculateConfigForFile (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177670)
+    at /home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166999
+    at Re (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177178)
+    at f.then.s.validate (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166978)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+(node:574010) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 82)
+(node:574010) UnhandledPromiseRejectionWarning: Error: No ESLint configuration found in /home/brettm/src/github.com/avasara/src/components.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:508:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:299:21)
+    at CLIEngine.getConfigForFile (/home/brettm/src/github.com/avasara/node_modules/eslint/lib/cli-engine/cli-engine.js:947:14)
+    at _e.calculateConfigForFile (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177670)
+    at /home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166999
+    at Re (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177178)
+    at f.then.s.validate (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166978)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+(node:574010) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 83)
+(node:574010) UnhandledPromiseRejectionWarning: Error: No ESLint configuration found in /home/brettm/src/github.com/avasara/src/components.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:508:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:299:21)
+    at CLIEngine.getConfigForFile (/home/brettm/src/github.com/avasara/node_modules/eslint/lib/cli-engine/cli-engine.js:947:14)
+    at _e.calculateConfigForFile (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177670)
+    at /home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166999
+    at Re (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177178)
+    at f.then.s.validate (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166978)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+(node:574010) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 84)
+(node:574010) UnhandledPromiseRejectionWarning: Error: No ESLint configuration found in /home/brettm/src/github.com/avasara/src/components.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:508:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:299:21)
+    at CLIEngine.getConfigForFile (/home/brettm/src/github.com/avasara/node_modules/eslint/lib/cli-engine/cli-engine.js:947:14)
+    at _e.calculateConfigForFile (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177670)
+    at /home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166999
+    at Re (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177178)
+    at f.then.s.validate (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166978)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+(node:574010) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 85)
+(node:574010) UnhandledPromiseRejectionWarning: Error: No ESLint configuration found in /home/brettm/src/github.com/avasara/src/components.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:508:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:299:21)
+    at CLIEngine.getConfigForFile (/home/brettm/src/github.com/avasara/node_modules/eslint/lib/cli-engine/cli-engine.js:947:14)
+    at _e.calculateConfigForFile (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177670)
+    at /home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166999
+    at Re (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177178)
+    at f.then.s.validate (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166978)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+(node:574010) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 86)
+(node:574010) UnhandledPromiseRejectionWarning: Error: No ESLint configuration found in /home/brettm/src/github.com/avasara/src/components.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:508:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:299:21)
+    at CLIEngine.getConfigForFile (/home/brettm/src/github.com/avasara/node_modules/eslint/lib/cli-engine/cli-engine.js:947:14)
+    at _e.calculateConfigForFile (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177670)
+    at /home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166999
+    at Re (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177178)
+    at f.then.s.validate (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166978)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+(node:574010) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 87)
+(node:574010) UnhandledPromiseRejectionWarning: Error: No ESLint configuration found in /home/brettm/src/github.com/avasara/src/components.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:508:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:299:21)
+    at CLIEngine.getConfigForFile (/home/brettm/src/github.com/avasara/node_modules/eslint/lib/cli-engine/cli-engine.js:947:14)
+    at _e.calculateConfigForFile (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177670)
+    at /home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166999
+    at Re (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177178)
+    at f.then.s.validate (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166978)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+(node:574010) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 88)
+(node:574010) UnhandledPromiseRejectionWarning: Error: No ESLint configuration found in /home/brettm/src/github.com/avasara/src/components.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:508:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:299:21)
+    at CLIEngine.getConfigForFile (/home/brettm/src/github.com/avasara/node_modules/eslint/lib/cli-engine/cli-engine.js:947:14)
+    at _e.calculateConfigForFile (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177670)
+    at /home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166999
+    at Re (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177178)
+    at f.then.s.validate (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166978)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+(node:574010) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 89)
+(node:574010) UnhandledPromiseRejectionWarning: Error: No ESLint configuration found in /home/brettm/src/github.com/avasara/src/components.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:508:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:299:21)
+    at CLIEngine.getConfigForFile (/home/brettm/src/github.com/avasara/node_modules/eslint/lib/cli-engine/cli-engine.js:947:14)
+    at _e.calculateConfigForFile (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177670)
+    at /home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166999
+    at Re (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177178)
+    at f.then.s.validate (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166978)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+(node:574010) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 90)
+(node:574010) UnhandledPromiseRejectionWarning: Error: No ESLint configuration found in /home/brettm/src/github.com/avasara/src/components.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:508:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:299:21)
+    at CLIEngine.getConfigForFile (/home/brettm/src/github.com/avasara/node_modules/eslint/lib/cli-engine/cli-engine.js:947:14)
+    at _e.calculateConfigForFile (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177670)
+    at /home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166999
+    at Re (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177178)
+    at f.then.s.validate (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166978)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+(node:574010) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 91)
+(node:574010) UnhandledPromiseRejectionWarning: Error: No ESLint configuration found in /home/brettm/src/github.com/avasara/src/components.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:508:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:299:21)
+    at CLIEngine.getConfigForFile (/home/brettm/src/github.com/avasara/node_modules/eslint/lib/cli-engine/cli-engine.js:947:14)
+    at _e.calculateConfigForFile (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177670)
+    at /home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166999
+    at Re (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177178)
+    at f.then.s.validate (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166978)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+(node:574010) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 92)
+(node:574010) UnhandledPromiseRejectionWarning: Error: No ESLint configuration found in /home/brettm/src/github.com/avasara/src/components.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:508:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:299:21)
+    at CLIEngine.getConfigForFile (/home/brettm/src/github.com/avasara/node_modules/eslint/lib/cli-engine/cli-engine.js:947:14)
+    at _e.calculateConfigForFile (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177670)
+    at /home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166999
+    at Re (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177178)
+    at f.then.s.validate (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166978)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+(node:574010) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 93)
+(node:574010) UnhandledPromiseRejectionWarning: Error: No ESLint configuration found in /home/brettm/src/github.com/avasara/src/components.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:508:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:299:21)
+    at CLIEngine.getConfigForFile (/home/brettm/src/github.com/avasara/node_modules/eslint/lib/cli-engine/cli-engine.js:947:14)
+    at _e.calculateConfigForFile (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177670)
+    at /home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166999
+    at Re (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177178)
+    at f.then.s.validate (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166978)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+(node:574010) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 94)
+(node:574010) UnhandledPromiseRejectionWarning: Error: No ESLint configuration found in /home/brettm/src/github.com/avasara/src/components.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:508:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:299:21)
+    at CLIEngine.getConfigForFile (/home/brettm/src/github.com/avasara/node_modules/eslint/lib/cli-engine/cli-engine.js:947:14)
+    at _e.calculateConfigForFile (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177670)
+    at /home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166999
+    at Re (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177178)
+    at f.then.s.validate (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166978)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+(node:574010) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 95)
+(node:574010) UnhandledPromiseRejectionWarning: Error: No ESLint configuration found in /home/brettm/src/github.com/avasara/src/components.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:508:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:299:21)
+    at CLIEngine.getConfigForFile (/home/brettm/src/github.com/avasara/node_modules/eslint/lib/cli-engine/cli-engine.js:947:14)
+    at _e.calculateConfigForFile (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177670)
+    at /home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166999
+    at Re (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177178)
+    at f.then.s.validate (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166978)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+(node:574010) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 96)
+(node:574010) UnhandledPromiseRejectionWarning: Error: No ESLint configuration found in /home/brettm/src/github.com/avasara/src/components.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:508:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:299:21)
+    at CLIEngine.getConfigForFile (/home/brettm/src/github.com/avasara/node_modules/eslint/lib/cli-engine/cli-engine.js:947:14)
+    at _e.calculateConfigForFile (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177670)
+    at /home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166999
+    at Re (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177178)
+    at f.then.s.validate (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166978)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+(node:574010) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 97)
+(node:574010) UnhandledPromiseRejectionWarning: Error: No ESLint configuration found in /home/brettm/src/github.com/avasara/src/components.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:508:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:299:21)
+    at CLIEngine.getConfigForFile (/home/brettm/src/github.com/avasara/node_modules/eslint/lib/cli-engine/cli-engine.js:947:14)
+    at _e.calculateConfigForFile (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177670)
+    at /home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166999
+    at Re (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177178)
+    at f.then.s.validate (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166978)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+(node:574010) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 100)
+(node:574010) UnhandledPromiseRejectionWarning: Error: No ESLint configuration found in /home/brettm/src/github.com/avasara/src/pages.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:508:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/home/brettm/src/github.com/avasara/node_modules/@eslint/eslintrc/lib/cascading-config-array-factory.js:299:21)
+    at CLIEngine.getConfigForFile (/home/brettm/src/github.com/avasara/node_modules/eslint/lib/cli-engine/cli-engine.js:947:14)
+    at _e.calculateConfigForFile (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177670)
+    at /home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166999
+    at Re (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:177178)
+    at f.then.s.validate (/home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/server/out/eslintServer.js:1:166978)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+(node:574010) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 103)
+[Info  - 2:10:40 PM] No ESLint configuration found in /home/brettm/src/github.com/avasara.

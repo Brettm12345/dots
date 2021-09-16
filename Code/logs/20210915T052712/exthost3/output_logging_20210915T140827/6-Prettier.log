@@ -1,0 +1,74 @@
+["INFO" - 2:08:27 PM] Extension Name: esbenp.prettier-vscode.
+["INFO" - 2:08:27 PM] Extension Version: 8.1.0.
+["INFO" - 2:08:51 PM] Formatting /home/brettm/src/github.com/avasara/src/pages/index.tsx
+["INFO" - 2:08:51 PM] Using config file at '/home/brettm/src/github.com/avasara/package.json'
+["INFO" - 2:08:51 PM] Using ignore file (if present) at /home/brettm/src/github.com/avasara/.prettierignore
+["INFO" - 2:08:51 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 2:08:51 PM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 2:08:51 PM] Prettier Options:
+{
+  "filepath": "/home/brettm/src/github.com/avasara/src/pages/index.tsx",
+  "parser": "typescript",
+  "singleQuote": true,
+  "arrowParens": "avoid",
+  "bracketSpacing": false
+}
+["INFO" - 2:08:51 PM] Formatting completed in 518.480988ms.
+["INFO" - 2:09:59 PM] Formatting /home/brettm/src/github.com/avasara/src/components/Layout.tsx
+["INFO" - 2:09:59 PM] Using config file at '/home/brettm/src/github.com/avasara/package.json'
+["INFO" - 2:09:59 PM] Using ignore file (if present) at /home/brettm/src/github.com/avasara/.prettierignore
+["INFO" - 2:09:59 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 2:09:59 PM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 2:09:59 PM] Prettier Options:
+{
+  "filepath": "/home/brettm/src/github.com/avasara/src/components/Layout.tsx",
+  "parser": "typescript",
+  "singleQuote": true,
+  "arrowParens": "avoid",
+  "bracketSpacing": false
+}
+["INFO" - 2:09:59 PM] Formatting completed in 62.107064ms.
+["INFO" - 2:10:05 PM] Formatting /home/brettm/src/github.com/avasara/gatsby-config.js
+["INFO" - 2:10:05 PM] Using config file at '/home/brettm/src/github.com/avasara/package.json'
+["INFO" - 2:10:05 PM] Using ignore file (if present) at /home/brettm/src/github.com/avasara/.prettierignore
+["INFO" - 2:10:05 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 2:10:05 PM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 2:10:05 PM] Prettier Options:
+{
+  "filepath": "/home/brettm/src/github.com/avasara/gatsby-config.js",
+  "parser": "babel",
+  "singleQuote": true,
+  "arrowParens": "avoid",
+  "bracketSpacing": false
+}
+["INFO" - 2:10:05 PM] Formatting completed in 58.444675ms.
+["INFO" - 2:10:29 PM] Formatting /home/brettm/src/github.com/avasara/src/components/Layout.tsx
+["INFO" - 2:10:29 PM] Using config file at '/home/brettm/src/github.com/avasara/package.json'
+["INFO" - 2:10:29 PM] Using ignore file (if present) at /home/brettm/src/github.com/avasara/.prettierignore
+["INFO" - 2:10:29 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 2:10:29 PM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 2:10:29 PM] Prettier Options:
+{
+  "filepath": "/home/brettm/src/github.com/avasara/src/components/Layout.tsx",
+  "parser": "typescript",
+  "singleQuote": true,
+  "arrowParens": "avoid",
+  "bracketSpacing": false
+}
+["INFO" - 2:10:29 PM] Formatting completed in 46.591048ms.

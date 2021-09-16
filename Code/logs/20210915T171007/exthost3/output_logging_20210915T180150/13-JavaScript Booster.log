@@ -1,0 +1,5 @@
+2021-09-15T22:01:50.877Z: Running in production mode.
+2021-09-15T22:01:50.888Z: 35 code actions loaded.
+2021-09-15T23:00:21.300Z: Syntax error in file file:///home/brettm/src/github.com/you-got-bud/app/src/components/AuthApolloProvider.tsx (22:0).
+2021-09-15T23:00:23.877Z: File now valid: file:///home/brettm/src/github.com/you-got-bud/app/src/components/AuthApolloProvider.tsx.
+2021-09-15T23:00:34.402Z: File now valid: file:///home/brettm/src/github.com/you-got-bud/app/src/components/AuthApolloProvider.tsx.

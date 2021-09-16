@@ -1,0 +1,33 @@
+["INFO" - 6:17:29 AM] Extension Name: esbenp.prettier-vscode.
+["INFO" - 6:17:29 AM] Extension Version: 8.1.0.
+["INFO" - 6:19:16 AM] Formatting /home/brettm/codewars/typescript/opposites-attract/solution.ts
+["INFO" - 6:19:16 AM] Using ignore file (if present) at /home/brettm/codewars/typescript/opposites-attract/.prettierignore
+["INFO" - 6:19:16 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 6:19:16 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 6:19:16 AM] Prettier Options:
+{
+  "arrowParens": "avoid",
+  "bracketSpacing": false,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/brettm/codewars/typescript/opposites-attract/solution.ts",
+  "parser": "typescript"
+}
+["INFO" - 6:19:16 AM] Formatting completed in 234.840108ms.

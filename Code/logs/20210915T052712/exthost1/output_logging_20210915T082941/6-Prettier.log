@@ -1,0 +1,148 @@
+["INFO" - 8:29:41 AM] Extension Name: esbenp.prettier-vscode.
+["INFO" - 8:29:41 AM] Extension Version: 8.1.0.
+["INFO" - 8:30:55 AM] Formatting /home/brettm/codewars/typescript/format-number/solution.ts
+["INFO" - 8:30:55 AM] Using ignore file (if present) at /home/brettm/codewars/typescript/format-number/.prettierignore
+["INFO" - 8:30:55 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 8:30:55 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:30:55 AM] Prettier Options:
+{
+  "arrowParens": "avoid",
+  "bracketSpacing": false,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/brettm/codewars/typescript/format-number/solution.ts",
+  "parser": "typescript"
+}
+["ERROR" - 8:30:55 AM] Error formatting document.
+["ERROR" - 8:30:55 AM] Expression expected. (3:1)
+  1 | export const formatNumber = (number: number, template: string): string => {
+  2 |   if (number.toString().length < template.split('').filter(x => x === '#').length)
+> 3 | }
+    | ^
+SyntaxError: Expression expected. (3:1)
+  1 | export const formatNumber = (number: number, template: string): string => {
+  2 |   if (number.toString().length < template.split('').filter(x => x === '#').length)
+> 3 | }
+    | ^
+    at e (/home/brettm/.vscode/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/parser-typescript.js:1:322)
+    at /home/brettm/.vscode/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/parser-typescript.js:22:3248894
+    at Object.parse (/home/brettm/.vscode/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/parser-typescript.js:22:3248927)
+    at Object.parse$a [as parse] (/home/brettm/.vscode/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/index.js:13684:19)
+    at coreFormat (/home/brettm/.vscode/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/index.js:15215:16)
+    at formatWithCursor$1 (/home/brettm/.vscode/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/index.js:15455:14)
+    at /home/brettm/.vscode/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/index.js:60228:12
+    at Object.format (/home/brettm/.vscode/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/index.js:60248:12)
+    at t.default.<anonymous> (/home/brettm/.vscode/extensions/esbenp.prettier-vscode-8.1.0/src/PrettierEditService.ts:476:46)
+    at Generator.next (<anonymous>)
+    at i (/home/brettm/.vscode/extensions/esbenp.prettier-vscode-8.1.0/dist/extension.js:1:6941)
+["INFO" - 8:30:55 AM] Formatting completed in 297.082416ms.
+["INFO" - 8:36:23 AM] Formatting /home/brettm/codewars/typescript/format-number/solution.ts
+["INFO" - 8:36:23 AM] Using ignore file (if present) at /home/brettm/codewars/typescript/format-number/.prettierignore
+["INFO" - 8:36:23 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 8:36:23 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:36:23 AM] Prettier Options:
+{
+  "arrowParens": "avoid",
+  "bracketSpacing": false,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/brettm/codewars/typescript/format-number/solution.ts",
+  "parser": "typescript"
+}
+["INFO" - 8:36:23 AM] Formatting completed in 52.484865ms.
+["INFO" - 8:36:30 AM] Formatting /home/brettm/codewars/typescript/format-number/solution.ts
+["INFO" - 8:36:30 AM] Using ignore file (if present) at /home/brettm/codewars/typescript/format-number/.prettierignore
+["INFO" - 8:36:30 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 8:36:30 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:36:30 AM] Prettier Options:
+{
+  "arrowParens": "avoid",
+  "bracketSpacing": false,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/brettm/codewars/typescript/format-number/solution.ts",
+  "parser": "typescript"
+}
+["INFO" - 8:36:30 AM] Formatting completed in 51.460091ms.
+["INFO" - 8:36:37 AM] Formatting /home/brettm/codewars/typescript/format-number/solution.ts
+["INFO" - 8:36:37 AM] Using ignore file (if present) at /home/brettm/codewars/typescript/format-number/.prettierignore
+["INFO" - 8:36:37 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 8:36:37 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:36:37 AM] Prettier Options:
+{
+  "arrowParens": "avoid",
+  "bracketSpacing": false,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/brettm/codewars/typescript/format-number/solution.ts",
+  "parser": "typescript"
+}
+["INFO" - 8:36:37 AM] Formatting completed in 27.747591ms.

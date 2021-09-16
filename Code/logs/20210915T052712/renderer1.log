@@ -1,0 +1,190 @@
+[2021-09-15 05:27:16.450] [renderer1] [error] ENOENT: no such file or directory, open '/home/brettm/.config/Code/User/globalStorage/vscodevim.vim/.registers': Error: ENOENT: no such file or directory, open '/home/brettm/.config/Code/User/globalStorage/vscodevim.vim/.registers'
+[2021-09-15 05:28:29.823] [renderer1] [error] Must invoke loadWASM first.: Error: Must invoke loadWASM first.
+    at new s (/opt/visual-studio-code/resources/app/node_modules.asar/vscode-oniguruma/release/main.js:1:1837)
+    at Object.createOnigString (/home/brettm/.vscode/extensions/coenraads.bracket-pair-colorizer-2-0.2.1/out/src/textMateLoader.js:54:48)
+    at e.createOnigString (/opt/visual-studio-code/resources/app/node_modules.asar/vscode-textmate/release/main.js:1:5786)
+    at e._tokenize (/opt/visual-studio-code/resources/app/node_modules.asar/vscode-textmate/release/main.js:1:7837)
+    at e.tokenizeLine2 (/opt/visual-studio-code/resources/app/node_modules.asar/vscode-textmate/release/main.js:1:7136)
+    at DocumentDecoration.tokenizeLine (/home/brettm/.vscode/extensions/coenraads.bracket-pair-colorizer-2-0.2.1/out/src/documentDecoration.js:232:55)
+    at DocumentDecoration.tokenizeDocument (/home/brettm/.vscode/extensions/coenraads.bracket-pair-colorizer-2-0.2.1/out/src/documentDecoration.js:116:38)
+    at DocumentDecorationManager.updateDocument (/home/brettm/.vscode/extensions/coenraads.bracket-pair-colorizer-2-0.2.1/out/src/documentDecorationManager.js:33:32)
+    at /home/brettm/.vscode/extensions/coenraads.bracket-pair-colorizer-2-0.2.1/out/src/documentDecorationManager.js:94:30
+[2021-09-15 06:03:15.437] [renderer1] [error] Cannot read property 'length' of undefined: TypeError: Cannot read property 'length' of undefined
+    at /home/brettm/.vscode/extensions/vsls-contrib.gistfs-0.3.0/dist/extension.js:31:54577
+    at c.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:66:1712)
+    at R.$onDidChangeAuthenticationSessions (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:107057)
+    at i._doInvokeHandler (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:13543)
+    at i._invokeHandler (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:13227)
+    at i._receiveRequest (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:11889)
+    at i._receiveOneMessage (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:10567)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:8663
+    at c.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:66:1712)
+    at l.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:74:15781)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:113:30187
+    at c.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:66:1712)
+    at l.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:74:15781)
+    at r._receiveMessage (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:74:21051)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:74:17929
+    at c.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:66:1712)
+    at v.acceptChunk (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:74:13142)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:74:12490
+    at Socket.w (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:113:13350)
+    at Socket.emit (events.js:315:20)
+    at addChunk (internal/streams/readable.js:309:12)
+    at readableAddChunk (internal/streams/readable.js:284:9)
+    at Socket.Readable.push (internal/streams/readable.js:223:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:188:23)
+[2021-09-15 06:03:20.222] [renderer1] [error] Error: write EPROTO 29543563387784:error:100000f7:SSL routines:OPENSSL_internal:WRONG_VERSION_NUMBER:../../third_party/boringssl/src/ssl/tls_record.cc:242:
+
+    at WriteWrap.onWriteComplete [as oncomplete] (internal/stream_base_commons.js:94:16)
+[2021-09-15 06:03:24.499] [renderer1] [error] Error: write EPROTO 29543563387784:error:100000f7:SSL routines:OPENSSL_internal:WRONG_VERSION_NUMBER:../../third_party/boringssl/src/ssl/tls_record.cc:242:
+
+    at WriteWrap.onWriteComplete [as oncomplete] (internal/stream_base_commons.js:94:16)
+[2021-09-15 06:03:30.756] [renderer1] [error] Error: write EPROTO 29543563387784:error:100000f7:SSL routines:OPENSSL_internal:WRONG_VERSION_NUMBER:../../third_party/boringssl/src/ssl/tls_record.cc:242:
+
+    at WriteWrap.onWriteComplete [as oncomplete] (internal/stream_base_commons.js:94:16)
+[2021-09-15 06:03:47.060] [renderer1] [error] Must invoke loadWASM first.: Error: Must invoke loadWASM first.
+    at new s (/opt/visual-studio-code/resources/app/node_modules.asar/vscode-oniguruma/release/main.js:1:1837)
+    at Object.createOnigString (/home/brettm/.vscode/extensions/coenraads.bracket-pair-colorizer-2-0.2.1/out/src/textMateLoader.js:54:48)
+    at e.createOnigString (/opt/visual-studio-code/resources/app/node_modules.asar/vscode-textmate/release/main.js:1:5786)
+    at e._tokenize (/opt/visual-studio-code/resources/app/node_modules.asar/vscode-textmate/release/main.js:1:7837)
+    at e.tokenizeLine2 (/opt/visual-studio-code/resources/app/node_modules.asar/vscode-textmate/release/main.js:1:7136)
+    at DocumentDecoration.tokenizeLine (/home/brettm/.vscode/extensions/coenraads.bracket-pair-colorizer-2-0.2.1/out/src/documentDecoration.js:232:55)
+    at DocumentDecoration.tokenizeDocument (/home/brettm/.vscode/extensions/coenraads.bracket-pair-colorizer-2-0.2.1/out/src/documentDecoration.js:116:38)
+    at DocumentDecorationManager.updateDocument (/home/brettm/.vscode/extensions/coenraads.bracket-pair-colorizer-2-0.2.1/out/src/documentDecorationManager.js:33:32)
+    at /home/brettm/.vscode/extensions/coenraads.bracket-pair-colorizer-2-0.2.1/out/src/documentDecorationManager.js:94:30
+[2021-09-15 06:11:18.370] [renderer1] [error] Must invoke loadWASM first.: Error: Must invoke loadWASM first.
+    at new s (/opt/visual-studio-code/resources/app/node_modules.asar/vscode-oniguruma/release/main.js:1:1837)
+    at Object.createOnigString (/home/brettm/.vscode/extensions/coenraads.bracket-pair-colorizer-2-0.2.1/out/src/textMateLoader.js:54:48)
+    at e.createOnigString (/opt/visual-studio-code/resources/app/node_modules.asar/vscode-textmate/release/main.js:1:5786)
+    at e._tokenize (/opt/visual-studio-code/resources/app/node_modules.asar/vscode-textmate/release/main.js:1:7837)
+    at e.tokenizeLine2 (/opt/visual-studio-code/resources/app/node_modules.asar/vscode-textmate/release/main.js:1:7136)
+    at DocumentDecoration.tokenizeLine (/home/brettm/.vscode/extensions/coenraads.bracket-pair-colorizer-2-0.2.1/out/src/documentDecoration.js:232:55)
+    at DocumentDecoration.tokenizeDocument (/home/brettm/.vscode/extensions/coenraads.bracket-pair-colorizer-2-0.2.1/out/src/documentDecoration.js:116:38)
+    at DocumentDecorationManager.updateDocument (/home/brettm/.vscode/extensions/coenraads.bracket-pair-colorizer-2-0.2.1/out/src/documentDecorationManager.js:33:32)
+    at /home/brettm/.vscode/extensions/coenraads.bracket-pair-colorizer-2-0.2.1/out/src/documentDecorationManager.js:94:30
+[2021-09-15 08:14:10.840] [renderer1] [error] Cannot read property 'getRuleStack' of undefined: TypeError: Cannot read property 'getRuleStack' of undefined
+    at DocumentDecoration.onDidChangeTextDocument (/home/brettm/.vscode/extensions/coenraads.bracket-pair-colorizer-2-0.2.1/out/src/documentDecoration.js:42:26)
+    at DocumentDecorationManager.onDidChangeTextDocument (/home/brettm/.vscode/extensions/coenraads.bracket-pair-colorizer-2-0.2.1/out/src/documentDecorationManager.js:47:32)
+    at /home/brettm/.vscode/extensions/coenraads.bracket-pair-colorizer-2-0.2.1/out/src/extension.js:31:39
+    at c.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:66:1712)
+    at T.$acceptModelChanged (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:150111)
+    at i._doInvokeHandler (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:13543)
+    at i._invokeHandler (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:13227)
+    at i._receiveRequest (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:11889)
+    at i._receiveOneMessage (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:10567)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:8663
+    at c.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:66:1712)
+    at l.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:74:15781)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:113:30187
+    at c.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:66:1712)
+    at l.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:74:15781)
+    at r._receiveMessage (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:74:21051)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:74:17929
+    at c.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:66:1712)
+    at v.acceptChunk (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:74:13142)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:74:12490
+    at Socket.w (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:113:13350)
+    at Socket.emit (events.js:315:20)
+    at addChunk (internal/streams/readable.js:309:12)
+    at readableAddChunk (internal/streams/readable.js:284:9)
+    at Socket.Readable.push (internal/streams/readable.js:223:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:188:23)
+[2021-09-15 08:14:11.742] [renderer1] [error] Cannot read property 'getRuleStack' of undefined: TypeError: Cannot read property 'getRuleStack' of undefined
+    at DocumentDecoration.tokenizeLine (/home/brettm/.vscode/extensions/coenraads.bracket-pair-colorizer-2-0.2.1/out/src/documentDecoration.js:227:35)
+    at DocumentDecoration.onDidChangeTextDocument (/home/brettm/.vscode/extensions/coenraads.bracket-pair-colorizer-2-0.2.1/out/src/documentDecoration.js:39:30)
+    at DocumentDecorationManager.onDidChangeTextDocument (/home/brettm/.vscode/extensions/coenraads.bracket-pair-colorizer-2-0.2.1/out/src/documentDecorationManager.js:47:32)
+    at /home/brettm/.vscode/extensions/coenraads.bracket-pair-colorizer-2-0.2.1/out/src/extension.js:31:39
+    at c.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:66:1712)
+    at T.$acceptModelChanged (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:150111)
+    at i._doInvokeHandler (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:13543)
+    at i._invokeHandler (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:13227)
+    at i._receiveRequest (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:11889)
+    at i._receiveOneMessage (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:10567)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:8663
+    at c.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:66:1712)
+    at l.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:74:15781)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:113:30187
+    at c.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:66:1712)
+    at l.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:74:15781)
+    at r._receiveMessage (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:74:21051)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:74:17929
+    at c.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:66:1712)
+    at v.acceptChunk (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:74:13142)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:74:12490
+    at Socket.w (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:113:13350)
+    at Socket.emit (events.js:315:20)
+    at addChunk (internal/streams/readable.js:309:12)
+    at readableAddChunk (internal/streams/readable.js:284:9)
+    at Socket.Readable.push (internal/streams/readable.js:223:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:188:23)
+[2021-09-15 08:14:12.874] [renderer1] [error] Cannot read property 'getRuleStack' of undefined: TypeError: Cannot read property 'getRuleStack' of undefined
+    at DocumentDecoration.tokenizeLine (/home/brettm/.vscode/extensions/coenraads.bracket-pair-colorizer-2-0.2.1/out/src/documentDecoration.js:227:35)
+    at DocumentDecoration.onDidChangeTextDocument (/home/brettm/.vscode/extensions/coenraads.bracket-pair-colorizer-2-0.2.1/out/src/documentDecoration.js:39:30)
+    at DocumentDecorationManager.onDidChangeTextDocument (/home/brettm/.vscode/extensions/coenraads.bracket-pair-colorizer-2-0.2.1/out/src/documentDecorationManager.js:47:32)
+    at /home/brettm/.vscode/extensions/coenraads.bracket-pair-colorizer-2-0.2.1/out/src/extension.js:31:39
+    at c.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:66:1712)
+    at T.$acceptModelChanged (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:150111)
+    at i._doInvokeHandler (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:13543)
+    at i._invokeHandler (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:13227)
+    at i._receiveRequest (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:11889)
+    at i._receiveOneMessage (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:10567)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:8663
+    at c.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:66:1712)
+    at l.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:74:15781)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:113:30187
+    at c.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:66:1712)
+    at l.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:74:15781)
+    at r._receiveMessage (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:74:21051)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:74:17929
+    at c.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:66:1712)
+    at v.acceptChunk (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:74:13142)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:74:12490
+    at Socket.w (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:113:13350)
+    at Socket.emit (events.js:315:20)
+    at addChunk (internal/streams/readable.js:309:12)
+    at readableAddChunk (internal/streams/readable.js:284:9)
+    at Socket.Readable.push (internal/streams/readable.js:223:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:188:23)
+[2021-09-15 08:22:09.185] [renderer1] [error] Cannot read property 'getRuleStack' of undefined: TypeError: Cannot read property 'getRuleStack' of undefined
+    at DocumentDecoration.onDidChangeTextDocument (/home/brettm/.vscode/extensions/coenraads.bracket-pair-colorizer-2-0.2.1/out/src/documentDecoration.js:42:26)
+    at DocumentDecorationManager.onDidChangeTextDocument (/home/brettm/.vscode/extensions/coenraads.bracket-pair-colorizer-2-0.2.1/out/src/documentDecorationManager.js:47:32)
+    at /home/brettm/.vscode/extensions/coenraads.bracket-pair-colorizer-2-0.2.1/out/src/extension.js:31:39
+    at c.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:66:1712)
+    at T.$acceptModelChanged (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:150111)
+    at i._doInvokeHandler (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:13543)
+    at i._invokeHandler (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:13227)
+    at i._receiveRequest (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:11889)
+    at i._receiveOneMessage (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:10567)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:8663
+    at c.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:66:1712)
+    at l.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:74:15781)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:113:30187
+    at c.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:66:1712)
+    at l.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:74:15781)
+    at r._receiveMessage (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:74:21051)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:74:17929
+    at c.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:66:1712)
+    at v.acceptChunk (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:74:13142)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:74:12490
+    at Socket.w (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:113:13350)
+    at Socket.emit (events.js:315:20)
+    at addChunk (internal/streams/readable.js:309:12)
+    at readableAddChunk (internal/streams/readable.js:284:9)
+    at Socket.Readable.push (internal/streams/readable.js:223:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:188:23)
+[2021-09-15 09:07:42.475] [renderer1] [error] Must invoke loadWASM first.: Error: Must invoke loadWASM first.
+    at new s (/opt/visual-studio-code/resources/app/node_modules.asar/vscode-oniguruma/release/main.js:1:1837)
+    at Object.createOnigString (/home/brettm/.vscode/extensions/coenraads.bracket-pair-colorizer-2-0.2.1/out/src/textMateLoader.js:54:48)
+    at e.createOnigString (/opt/visual-studio-code/resources/app/node_modules.asar/vscode-textmate/release/main.js:1:5786)
+    at e._tokenize (/opt/visual-studio-code/resources/app/node_modules.asar/vscode-textmate/release/main.js:1:7837)
+    at e.tokenizeLine2 (/opt/visual-studio-code/resources/app/node_modules.asar/vscode-textmate/release/main.js:1:7136)
+    at DocumentDecoration.tokenizeLine (/home/brettm/.vscode/extensions/coenraads.bracket-pair-colorizer-2-0.2.1/out/src/documentDecoration.js:232:55)
+    at DocumentDecoration.tokenizeDocument (/home/brettm/.vscode/extensions/coenraads.bracket-pair-colorizer-2-0.2.1/out/src/documentDecoration.js:116:38)
+    at DocumentDecorationManager.updateDocument (/home/brettm/.vscode/extensions/coenraads.bracket-pair-colorizer-2-0.2.1/out/src/documentDecorationManager.js:33:32)
+    at /home/brettm/.vscode/extensions/coenraads.bracket-pair-colorizer-2-0.2.1/out/src/documentDecorationManager.js:94:30
+[2021-09-15 13:37:26.391] [renderer1] [error] Cannot read property 'start' of undefined: TypeError: Cannot read property 'start' of undefined
+    at f.provideCodeActions (/home/brettm/.vscode/extensions/nick-lvov-dev.typescript-explicit-types-0.0.9/src/actionProvider.ts:81:97)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at S.provideCodeActions (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:168622)

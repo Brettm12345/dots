@@ -1,0 +1,22 @@
+2021-09-15T10:39:20.349Z: Running in production mode.
+2021-09-15T10:39:20.356Z: 35 code actions loaded.
+2021-09-15T10:39:28.635Z: Syntax error in file file:///home/brettm/codewars/typescript/calc-type/solution.ts (1:25).
+2021-09-15T10:39:35.270Z: Syntax error in file file:///home/brettm/codewars/typescript/calc-type/solution.ts (1:47).
+2021-09-15T10:39:39.980Z: Syntax error in file file:///home/brettm/codewars/typescript/calc-type/solution.ts (1:25).
+2021-09-15T10:39:51.954Z: Syntax error in file file:///home/brettm/codewars/typescript/calc-type/solution.ts (3:0).
+2021-09-15T10:40:02.756Z: Syntax error in file file:///home/brettm/codewars/typescript/calc-type/solution.ts (3:25).
+2021-09-15T10:40:04.853Z: Syntax error in file file:///home/brettm/codewars/typescript/calc-type/solution.ts (3:25).
+2021-09-15T10:40:11.044Z: Syntax error in file file:///home/brettm/codewars/typescript/calc-type/solution.ts (3:25).
+2021-09-15T10:40:16.168Z: File now valid: file:///home/brettm/codewars/typescript/calc-type/solution.ts.
+2021-09-15T10:40:31.301Z: Syntax error in file file:///home/brettm/codewars/typescript/calc-type/solution.ts (5:0).
+2021-09-15T10:40:32.914Z: File now valid: file:///home/brettm/codewars/typescript/calc-type/solution.ts.
+2021-09-15T10:40:40.077Z: Syntax error in file file:///home/brettm/codewars/typescript/calc-type/solution.ts (4:6).
+2021-09-15T10:40:44.696Z: Syntax error in file file:///home/brettm/codewars/typescript/calc-type/solution.ts (4:6).
+2021-09-15T10:40:50.316Z: File now valid: file:///home/brettm/codewars/typescript/calc-type/solution.ts.
+2021-09-15T10:41:00.578Z: Syntax error in file file:///home/brettm/codewars/typescript/calc-type/solution.ts (7:0).
+2021-09-15T10:41:02.722Z: File now valid: file:///home/brettm/codewars/typescript/calc-type/solution.ts.
+2021-09-15T10:41:05.847Z: Syntax error in file file:///home/brettm/codewars/typescript/calc-type/solution.ts (7:6).
+2021-09-15T10:41:15.199Z: Syntax error in file file:///home/brettm/codewars/typescript/calc-type/solution.ts (7:10).
+2021-09-15T10:41:20.054Z: Syntax error in file file:///home/brettm/codewars/typescript/calc-type/solution.ts (7:10).
+2021-09-15T10:41:23.507Z: Syntax error in file file:///home/brettm/codewars/typescript/calc-type/solution.ts (8:0).
+2021-09-15T10:41:26.085Z: File now valid: file:///home/brettm/codewars/typescript/calc-type/solution.ts.

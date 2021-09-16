@@ -1,0 +1,10 @@
+[2021-09-15 05:26:24.339] [sharedprocess] [info] [logs cleanup]: Starting to clean up old logs.
+[2021-09-15 05:26:34.870] [sharedprocess] [info] Installing extension: coenraads.bracket-pair-colorizer-2
+[2021-09-15 05:26:35.924] [sharedprocess] [info] Downloaded extension: coenraads.bracket-pair-colorizer-2 /home/brettm/.config/Code/CachedExtensionVSIXs/coenraads.bracket-pair-colorizer-2-0.2.1
+[2021-09-15 05:26:36.075] [sharedprocess] [info] Extracted extension to /home/brettm/.vscode/extensions/.27d73247-d5e0-4a49-8f15-6a137cff75d0: coenraads.bracket-pair-colorizer-2
+[2021-09-15 05:26:36.084] [sharedprocess] [info] Renamed to /home/brettm/.vscode/extensions/coenraads.bracket-pair-colorizer-2-0.2.1
+[2021-09-15 05:26:36.085] [sharedprocess] [info] Extracting completed. coenraads.bracket-pair-colorizer-2
+[2021-09-15 05:26:36.091] [sharedprocess] [info] Extension installed successfully: coenraads.bracket-pair-colorizer-2
+[2021-09-15 05:26:44.338] [sharedprocess] [info] [code cache cleanup]: Starting to clean up old code cache folders.
+[2021-09-15 05:26:44.339] [sharedprocess] [info] [storage cleanup]: Starting to clean up storage folders.
+[2021-09-15 05:26:54.339] [sharedprocess] [info] [language pack cache cleanup]: Starting to clean up unused language packs.

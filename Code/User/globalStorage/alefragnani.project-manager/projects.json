@@ -1,0 +1,23 @@
+[
+  {
+    "name": "receipt-printer",
+    "rootPath": "/home/brettm/src/github.com/you-got-bud/receipt-printer",
+    "paths": [],
+    "tags": [],
+    "enabled": true
+  },
+  {
+    "name": "app",
+    "rootPath": "/home/brettm/src/github.com/you-got-bud/app",
+    "paths": [],
+    "tags": [],
+    "enabled": true
+  },
+  {
+    "name": "admin",
+    "rootPath": "/home/brettm/src/github.com/you-got-bud/admin-chakra",
+    "paths": [],
+    "tags": [],
+    "enabled": true
+  }
+]

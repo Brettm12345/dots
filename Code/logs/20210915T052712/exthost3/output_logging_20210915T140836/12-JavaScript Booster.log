@@ -1,0 +1,17 @@
+2021-09-15T18:08:36.701Z: Running in production mode.
+2021-09-15T18:08:36.708Z: 35 code actions loaded.
+2021-09-15T18:08:49.748Z: Syntax error in file file:///home/brettm/src/github.com/avasara/src/pages/index.tsx (32:8).
+2021-09-15T18:08:52.930Z: File now valid: file:///home/brettm/src/github.com/avasara/src/pages/index.tsx.
+2021-09-15T18:09:19.285Z: Syntax error in file file:///home/brettm/src/github.com/avasara/src/components/Layout.tsx (17:11).
+2021-09-15T18:09:22.024Z: Syntax error in file file:///home/brettm/src/github.com/avasara/src/components/Layout.tsx (17:42).
+2021-09-15T18:09:28.336Z: Syntax error in file file:///home/brettm/src/github.com/avasara/src/components/Layout.tsx (17:10).
+2021-09-15T18:09:35.225Z: Syntax error in file file:///home/brettm/src/github.com/avasara/src/components/Layout.tsx (22:1).
+2021-09-15T18:09:41.074Z: Syntax error in file file:///home/brettm/src/github.com/avasara/src/components/Layout.tsx (22:1).
+2021-09-15T18:09:42.669Z: Syntax error in file file:///home/brettm/src/github.com/avasara/src/components/Layout.tsx (22:1).
+2021-09-15T18:09:48.316Z: Syntax error in file file:///home/brettm/src/github.com/avasara/src/components/Layout.tsx (24:1).
+2021-09-15T18:09:53.539Z: Syntax error in file file:///home/brettm/src/github.com/avasara/src/components/Layout.tsx (22:1).
+2021-09-15T18:09:56.878Z: Syntax error in file file:///home/brettm/src/github.com/avasara/src/components/Layout.tsx (22:1).
+2021-09-15T18:10:00.294Z: File now valid: file:///home/brettm/src/github.com/avasara/src/components/Layout.tsx.
+2021-09-15T18:10:17.103Z: File now valid: file:///home/brettm/src/github.com/avasara/src/components/Layout.tsx.
+2021-09-15T18:10:21.655Z: Syntax error in file file:///home/brettm/src/github.com/avasara/src/components/Layout.tsx (36:36).
+2021-09-15T18:10:23.422Z: File now valid: file:///home/brettm/src/github.com/avasara/src/components/Layout.tsx.

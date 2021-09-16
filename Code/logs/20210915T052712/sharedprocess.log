@@ -1,0 +1,266 @@
+[2021-09-15 05:27:24.517] [sharedprocess] [info] [logs cleanup]: Starting to clean up old logs.
+[2021-09-15 05:27:40.287] [sharedprocess] [info] Installing extension: streetsidesoftware.code-spell-checker
+[2021-09-15 05:27:41.023] [sharedprocess] [info] Downloaded extension: streetsidesoftware.code-spell-checker /home/brettm/.config/Code/CachedExtensionVSIXs/streetsidesoftware.code-spell-checker-2.0.4
+[2021-09-15 05:27:41.327] [sharedprocess] [info] Extracted extension to /home/brettm/.vscode/extensions/.bc14bef7-f5e2-4524-9c9b-9ef8d0ca7b6a: streetsidesoftware.code-spell-checker
+[2021-09-15 05:27:41.339] [sharedprocess] [info] Renamed to /home/brettm/.vscode/extensions/streetsidesoftware.code-spell-checker-2.0.4
+[2021-09-15 05:27:41.342] [sharedprocess] [info] Extracting completed. streetsidesoftware.code-spell-checker
+[2021-09-15 05:27:41.352] [sharedprocess] [info] Extension installed successfully: streetsidesoftware.code-spell-checker
+[2021-09-15 05:27:44.512] [sharedprocess] [info] [code cache cleanup]: Starting to clean up old code cache folders.
+[2021-09-15 05:27:44.513] [sharedprocess] [info] [storage cleanup]: Starting to clean up storage folders.
+[2021-09-15 05:27:46.357] [sharedprocess] [info] Installing extension: esbenp.prettier-vscode
+[2021-09-15 05:27:47.054] [sharedprocess] [info] Downloaded extension: esbenp.prettier-vscode /home/brettm/.config/Code/CachedExtensionVSIXs/esbenp.prettier-vscode-8.1.0
+[2021-09-15 05:27:47.283] [sharedprocess] [info] Extracted extension to /home/brettm/.vscode/extensions/.bf30fce2-fa67-46fb-80d9-b2e85960e4ab: esbenp.prettier-vscode
+[2021-09-15 05:27:47.292] [sharedprocess] [info] Renamed to /home/brettm/.vscode/extensions/esbenp.prettier-vscode-8.1.0
+[2021-09-15 05:27:47.293] [sharedprocess] [info] Extracting completed. esbenp.prettier-vscode
+[2021-09-15 05:27:47.297] [sharedprocess] [info] Extension installed successfully: esbenp.prettier-vscode
+[2021-09-15 05:27:52.351] [sharedprocess] [info] Installing extension: dbaeumer.vscode-eslint
+[2021-09-15 05:27:52.921] [sharedprocess] [info] Downloaded extension: dbaeumer.vscode-eslint /home/brettm/.config/Code/CachedExtensionVSIXs/dbaeumer.vscode-eslint-2.1.25
+[2021-09-15 05:27:53.126] [sharedprocess] [info] Extracted extension to /home/brettm/.vscode/extensions/.7b19a0da-e952-4b05-8c41-3491cfe09548: dbaeumer.vscode-eslint
+[2021-09-15 05:27:53.137] [sharedprocess] [info] Renamed to /home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25
+[2021-09-15 05:27:53.137] [sharedprocess] [info] Extracting completed. dbaeumer.vscode-eslint
+[2021-09-15 05:27:53.143] [sharedprocess] [info] Extension installed successfully: dbaeumer.vscode-eslint
+[2021-09-15 05:27:54.513] [sharedprocess] [info] [language pack cache cleanup]: Starting to clean up unused language packs.
+[2021-09-15 05:27:59.200] [sharedprocess] [info] Installing extension: rust-lang.rust
+[2021-09-15 05:27:59.760] [sharedprocess] [info] Downloaded extension: rust-lang.rust /home/brettm/.config/Code/CachedExtensionVSIXs/rust-lang.rust-0.7.8
+[2021-09-15 05:27:59.864] [sharedprocess] [info] Extracted extension to /home/brettm/.vscode/extensions/.7442a341-4c8b-49b8-92fd-a11f9f3e2153: rust-lang.rust
+[2021-09-15 05:27:59.871] [sharedprocess] [info] Renamed to /home/brettm/.vscode/extensions/rust-lang.rust-0.7.8
+[2021-09-15 05:27:59.872] [sharedprocess] [info] Extracting completed. rust-lang.rust
+[2021-09-15 05:27:59.878] [sharedprocess] [info] Extension installed successfully: rust-lang.rust
+[2021-09-15 05:28:05.641] [sharedprocess] [info] Installing extension: bycedric.vscode-expo
+[2021-09-15 05:28:06.565] [sharedprocess] [info] Downloaded extension: bycedric.vscode-expo /home/brettm/.config/Code/CachedExtensionVSIXs/bycedric.vscode-expo-0.7.3
+[2021-09-15 05:28:06.764] [sharedprocess] [info] Extracted extension to /home/brettm/.vscode/extensions/.2408fac9-3d34-474c-bf54-ac588d0321b7: bycedric.vscode-expo
+[2021-09-15 05:28:06.775] [sharedprocess] [info] Renamed to /home/brettm/.vscode/extensions/bycedric.vscode-expo-0.7.3
+[2021-09-15 05:28:06.776] [sharedprocess] [info] Extracting completed. bycedric.vscode-expo
+[2021-09-15 05:28:06.781] [sharedprocess] [info] Extension installed successfully: bycedric.vscode-expo
+[2021-09-15 05:31:36.794] [sharedprocess] [info] Installing extension: formulahendry.auto-close-tag
+[2021-09-15 05:31:37.686] [sharedprocess] [info] Downloaded extension: formulahendry.auto-close-tag /home/brettm/.config/Code/CachedExtensionVSIXs/formulahendry.auto-close-tag-0.5.12
+[2021-09-15 05:31:37.759] [sharedprocess] [info] Extracted extension to /home/brettm/.vscode/extensions/.286a36b8-e400-4710-add8-e67e613aa661: formulahendry.auto-close-tag
+[2021-09-15 05:31:37.769] [sharedprocess] [info] Renamed to /home/brettm/.vscode/extensions/formulahendry.auto-close-tag-0.5.12
+[2021-09-15 05:31:37.769] [sharedprocess] [info] Extracting completed. formulahendry.auto-close-tag
+[2021-09-15 05:31:37.774] [sharedprocess] [info] Extension installed successfully: formulahendry.auto-close-tag
+[2021-09-15 05:31:38.058] [sharedprocess] [info] Installing extension: formulahendry.auto-rename-tag
+[2021-09-15 05:31:38.602] [sharedprocess] [info] Downloaded extension: formulahendry.auto-rename-tag /home/brettm/.config/Code/CachedExtensionVSIXs/formulahendry.auto-rename-tag-0.1.8
+[2021-09-15 05:31:38.644] [sharedprocess] [info] Extracted extension to /home/brettm/.vscode/extensions/.b27f72dd-7822-4117-ad2b-6572c14f4141: formulahendry.auto-rename-tag
+[2021-09-15 05:31:38.649] [sharedprocess] [info] Renamed to /home/brettm/.vscode/extensions/formulahendry.auto-rename-tag-0.1.8
+[2021-09-15 05:31:38.650] [sharedprocess] [info] Extracting completed. formulahendry.auto-rename-tag
+[2021-09-15 05:31:38.656] [sharedprocess] [info] Extension installed successfully: formulahendry.auto-rename-tag
+[2021-09-15 05:32:23.493] [sharedprocess] [info] Installing extension: ms-vscode-remote.remote-containers
+[2021-09-15 05:32:25.528] [sharedprocess] [info] Downloaded extension: ms-vscode-remote.remote-containers /home/brettm/.config/Code/CachedExtensionVSIXs/ms-vscode-remote.remote-containers-0.194.0
+[2021-09-15 05:32:25.739] [sharedprocess] [info] Installing extension: ms-azuretools.vscode-docker
+[2021-09-15 05:32:26.020] [sharedprocess] [info] Extracted extension to /home/brettm/.vscode/extensions/.34b41821-4f7e-43c4-abac-4b95dc6d9e36: ms-vscode-remote.remote-containers
+[2021-09-15 05:32:26.033] [sharedprocess] [info] Renamed to /home/brettm/.vscode/extensions/ms-vscode-remote.remote-containers-0.194.0
+[2021-09-15 05:32:26.034] [sharedprocess] [info] Extracting completed. ms-vscode-remote.remote-containers
+[2021-09-15 05:32:26.041] [sharedprocess] [info] Extension installed successfully: ms-vscode-remote.remote-containers
+[2021-09-15 05:32:26.336] [sharedprocess] [info] Downloaded extension: ms-azuretools.vscode-docker /home/brettm/.config/Code/CachedExtensionVSIXs/ms-azuretools.vscode-docker-1.16.1
+[2021-09-15 05:32:26.475] [sharedprocess] [info] Extracted extension to /home/brettm/.vscode/extensions/.8de74567-b34c-452a-89cd-6091a33cbca9: ms-azuretools.vscode-docker
+[2021-09-15 05:32:26.484] [sharedprocess] [info] Renamed to /home/brettm/.vscode/extensions/ms-azuretools.vscode-docker-1.16.1
+[2021-09-15 05:32:26.485] [sharedprocess] [info] Extracting completed. ms-azuretools.vscode-docker
+[2021-09-15 05:32:26.494] [sharedprocess] [info] Extension installed successfully: ms-azuretools.vscode-docker
+[2021-09-15 05:32:47.291] [sharedprocess] [info] Installing extension: ms-kubernetes-tools.vscode-kubernetes-tools
+[2021-09-15 05:32:47.664] [sharedprocess] [info] Installing extension: redhat.vscode-yaml
+[2021-09-15 05:32:48.433] [sharedprocess] [info] Downloaded extension: redhat.vscode-yaml /home/brettm/.config/Code/CachedExtensionVSIXs/redhat.vscode-yaml-0.22.0
+[2021-09-15 05:32:49.833] [sharedprocess] [info] Extracted extension to /home/brettm/.vscode/extensions/.cc386def-ffa3-47e8-9e0a-4fb6c7c30da8: redhat.vscode-yaml
+[2021-09-15 05:32:49.846] [sharedprocess] [info] Renamed to /home/brettm/.vscode/extensions/redhat.vscode-yaml-0.22.0
+[2021-09-15 05:32:49.847] [sharedprocess] [info] Extracting completed. redhat.vscode-yaml
+[2021-09-15 05:32:50.368] [sharedprocess] [info] Downloaded extension: ms-kubernetes-tools.vscode-kubernetes-tools /home/brettm/.config/Code/CachedExtensionVSIXs/ms-kubernetes-tools.vscode-kubernetes-tools-1.3.3
+[2021-09-15 05:32:50.503] [sharedprocess] [info] Extracted extension to /home/brettm/.vscode/extensions/.cc5f81db-9d52-4ecf-b5b6-33ffd7294409: ms-kubernetes-tools.vscode-kubernetes-tools
+[2021-09-15 05:32:50.512] [sharedprocess] [info] Renamed to /home/brettm/.vscode/extensions/ms-kubernetes-tools.vscode-kubernetes-tools-1.3.3
+[2021-09-15 05:32:50.513] [sharedprocess] [info] Extracting completed. ms-kubernetes-tools.vscode-kubernetes-tools
+[2021-09-15 05:32:50.519] [sharedprocess] [info] Extension installed successfully: redhat.vscode-yaml
+[2021-09-15 05:32:50.520] [sharedprocess] [info] Extension installed successfully: ms-kubernetes-tools.vscode-kubernetes-tools
+[2021-09-15 05:33:04.775] [sharedprocess] [info] Installing extension: timitejumola.chakra-ui-doc
+[2021-09-15 05:33:10.955] [sharedprocess] [info] Downloaded extension: timitejumola.chakra-ui-doc /home/brettm/.config/Code/CachedExtensionVSIXs/timitejumola.chakra-ui-doc-1.0.0
+[2021-09-15 05:33:11.173] [sharedprocess] [info] Extracted extension to /home/brettm/.vscode/extensions/.47d75bf8-fb37-4ede-b4e0-848406003d74: timitejumola.chakra-ui-doc
+[2021-09-15 05:33:11.185] [sharedprocess] [info] Renamed to /home/brettm/.vscode/extensions/timitejumola.chakra-ui-doc-1.0.0
+[2021-09-15 05:33:11.186] [sharedprocess] [info] Extracting completed. timitejumola.chakra-ui-doc
+[2021-09-15 05:33:11.191] [sharedprocess] [info] Extension installed successfully: timitejumola.chakra-ui-doc
+[2021-09-15 05:33:27.622] [sharedprocess] [info] Installing extension: nativebase.nativebase-v3-vscode-extension
+[2021-09-15 05:33:34.272] [sharedprocess] [info] Downloaded extension: nativebase.nativebase-v3-vscode-extension /home/brettm/.config/Code/CachedExtensionVSIXs/nativebase.nativebase-v3-vscode-extension-0.1.2
+[2021-09-15 05:33:34.426] [sharedprocess] [info] Extracted extension to /home/brettm/.vscode/extensions/.7f2ec940-9207-4d1f-a4e2-127870a8e291: nativebase.nativebase-v3-vscode-extension
+[2021-09-15 05:33:34.434] [sharedprocess] [info] Renamed to /home/brettm/.vscode/extensions/nativebase.nativebase-v3-vscode-extension-0.1.2
+[2021-09-15 05:33:34.434] [sharedprocess] [info] Extracting completed. nativebase.nativebase-v3-vscode-extension
+[2021-09-15 05:33:34.438] [sharedprocess] [info] Extension installed successfully: nativebase.nativebase-v3-vscode-extension
+[2021-09-15 05:33:54.694] [sharedprocess] [info] Installing extension: github.vscode-pull-request-github
+[2021-09-15 05:33:57.424] [sharedprocess] [info] Downloaded extension: github.vscode-pull-request-github /home/brettm/.config/Code/CachedExtensionVSIXs/github.vscode-pull-request-github-0.30.0
+[2021-09-15 05:33:58.536] [sharedprocess] [info] Extracted extension to /home/brettm/.vscode/extensions/.d6f457d5-3732-40b5-b6cb-895672c7d4a5: github.vscode-pull-request-github
+[2021-09-15 05:33:58.564] [sharedprocess] [info] Renamed to /home/brettm/.vscode/extensions/github.vscode-pull-request-github-0.30.0
+[2021-09-15 05:33:58.571] [sharedprocess] [info] Extracting completed. github.vscode-pull-request-github
+[2021-09-15 05:33:58.574] [sharedprocess] [info] Extension installed successfully: github.vscode-pull-request-github
+[2021-09-15 05:34:11.636] [sharedprocess] [info] Installing extension: knisterpeter.vscode-github
+[2021-09-15 05:34:12.406] [sharedprocess] [info] Downloaded extension: knisterpeter.vscode-github /home/brettm/.config/Code/CachedExtensionVSIXs/knisterpeter.vscode-github-0.30.6
+[2021-09-15 05:34:12.945] [sharedprocess] [info] Extracted extension to /home/brettm/.vscode/extensions/.adba19c8-0c3d-4372-9180-c6997860c83d: knisterpeter.vscode-github
+[2021-09-15 05:34:12.964] [sharedprocess] [info] Renamed to /home/brettm/.vscode/extensions/knisterpeter.vscode-github-0.30.6
+[2021-09-15 05:34:12.965] [sharedprocess] [info] Extracting completed. knisterpeter.vscode-github
+[2021-09-15 05:34:12.972] [sharedprocess] [info] Extension installed successfully: knisterpeter.vscode-github
+[2021-09-15 05:34:56.536] [sharedprocess] [info] Installing extension: github.copilot
+[2021-09-15 05:34:57.151] [sharedprocess] [info] Downloaded extension: github.copilot /home/brettm/.config/Code/CachedExtensionVSIXs/github.copilot-1.4.2655
+[2021-09-15 05:34:57.242] [sharedprocess] [info] Extracted extension to /home/brettm/.vscode/extensions/.78ade410-8110-430a-b70b-4580a4ff9459: github.copilot
+[2021-09-15 05:34:57.250] [sharedprocess] [info] Renamed to /home/brettm/.vscode/extensions/github.copilot-1.4.2655
+[2021-09-15 05:34:57.251] [sharedprocess] [info] Extracting completed. github.copilot
+[2021-09-15 05:34:57.255] [sharedprocess] [info] Extension installed successfully: github.copilot
+[2021-09-15 05:36:13.861] [sharedprocess] [info] Installing extension: gimenete.github-linker
+[2021-09-15 05:36:15.903] [sharedprocess] [info] Downloaded extension: gimenete.github-linker /home/brettm/.config/Code/CachedExtensionVSIXs/gimenete.github-linker-0.2.3
+[2021-09-15 05:36:16.064] [sharedprocess] [info] Extracted extension to /home/brettm/.vscode/extensions/.bf1856fe-db93-4055-851c-6641554bb09b: gimenete.github-linker
+[2021-09-15 05:36:16.072] [sharedprocess] [info] Renamed to /home/brettm/.vscode/extensions/gimenete.github-linker-0.2.3
+[2021-09-15 05:36:16.073] [sharedprocess] [info] Extracting completed. gimenete.github-linker
+[2021-09-15 05:36:16.077] [sharedprocess] [info] Extension installed successfully: gimenete.github-linker
+[2021-09-15 05:36:21.890] [sharedprocess] [info] Installing extension: me-dutour-mathieu.vscode-github-actions
+[2021-09-15 05:36:22.813] [sharedprocess] [info] Downloaded extension: me-dutour-mathieu.vscode-github-actions /home/brettm/.config/Code/CachedExtensionVSIXs/me-dutour-mathieu.vscode-github-actions-3.0.1
+[2021-09-15 05:36:22.922] [sharedprocess] [info] Extracted extension to /home/brettm/.vscode/extensions/.782b9eee-0254-4441-88a4-323db713f900: me-dutour-mathieu.vscode-github-actions
+[2021-09-15 05:36:22.930] [sharedprocess] [info] Renamed to /home/brettm/.vscode/extensions/me-dutour-mathieu.vscode-github-actions-3.0.1
+[2021-09-15 05:36:22.931] [sharedprocess] [info] Extracting completed. me-dutour-mathieu.vscode-github-actions
+[2021-09-15 05:36:22.936] [sharedprocess] [info] Extension installed successfully: me-dutour-mathieu.vscode-github-actions
+[2021-09-15 05:36:32.929] [sharedprocess] [info] Installing extension: fabiospampinato.vscode-open-in-github
+[2021-09-15 05:36:33.757] [sharedprocess] [info] Downloaded extension: fabiospampinato.vscode-open-in-github /home/brettm/.config/Code/CachedExtensionVSIXs/fabiospampinato.vscode-open-in-github-1.3.0
+[2021-09-15 05:36:34.439] [sharedprocess] [info] Extracted extension to /home/brettm/.vscode/extensions/.0055aa6e-602a-4ad8-9dfe-f47a6f1ed7b3: fabiospampinato.vscode-open-in-github
+[2021-09-15 05:36:34.460] [sharedprocess] [info] Renamed to /home/brettm/.vscode/extensions/fabiospampinato.vscode-open-in-github-1.3.0
+[2021-09-15 05:36:34.461] [sharedprocess] [info] Extracting completed. fabiospampinato.vscode-open-in-github
+[2021-09-15 05:36:34.466] [sharedprocess] [info] Extension installed successfully: fabiospampinato.vscode-open-in-github
+[2021-09-15 05:37:47.894] [sharedprocess] [info] Installing extension: grzegorzjudas.vscode-gitbuild
+[2021-09-15 05:37:48.580] [sharedprocess] [info] Downloaded extension: grzegorzjudas.vscode-gitbuild /home/brettm/.config/Code/CachedExtensionVSIXs/grzegorzjudas.vscode-gitbuild-1.0.1
+[2021-09-15 05:37:48.663] [sharedprocess] [info] Extracted extension to /home/brettm/.vscode/extensions/.904350db-f569-451c-8526-66cff9e4d275: grzegorzjudas.vscode-gitbuild
+[2021-09-15 05:37:48.672] [sharedprocess] [info] Renamed to /home/brettm/.vscode/extensions/grzegorzjudas.vscode-gitbuild-1.0.1
+[2021-09-15 05:37:48.673] [sharedprocess] [info] Extracting completed. grzegorzjudas.vscode-gitbuild
+[2021-09-15 05:37:48.678] [sharedprocess] [info] Extension installed successfully: grzegorzjudas.vscode-gitbuild
+[2021-09-15 05:39:52.204] [sharedprocess] [info] Installing extension: editorconfig.editorconfig
+[2021-09-15 05:39:52.978] [sharedprocess] [info] Downloaded extension: editorconfig.editorconfig /home/brettm/.config/Code/CachedExtensionVSIXs/editorconfig.editorconfig-0.16.4
+[2021-09-15 05:39:53.038] [sharedprocess] [info] Extracted extension to /home/brettm/.vscode/extensions/.eca36aa8-401e-420e-b360-562b14997e02: editorconfig.editorconfig
+[2021-09-15 05:39:53.043] [sharedprocess] [info] Renamed to /home/brettm/.vscode/extensions/editorconfig.editorconfig-0.16.4
+[2021-09-15 05:39:53.044] [sharedprocess] [info] Extracting completed. editorconfig.editorconfig
+[2021-09-15 05:39:53.050] [sharedprocess] [info] Extension installed successfully: editorconfig.editorconfig
+[2021-09-15 05:40:43.489] [sharedprocess] [info] Installing extension: alefragnani.project-manager
+[2021-09-15 05:40:44.308] [sharedprocess] [info] Downloaded extension: alefragnani.project-manager /home/brettm/.config/Code/CachedExtensionVSIXs/alefragnani.project-manager-12.4.0
+[2021-09-15 05:40:44.396] [sharedprocess] [info] Extracted extension to /home/brettm/.vscode/extensions/.b6e4f53c-96cb-4625-9ff6-36fbd71290c9: alefragnani.project-manager
+[2021-09-15 05:40:44.405] [sharedprocess] [info] Renamed to /home/brettm/.vscode/extensions/alefragnani.project-manager-12.4.0
+[2021-09-15 05:40:44.407] [sharedprocess] [info] Extracting completed. alefragnani.project-manager
+[2021-09-15 05:40:44.413] [sharedprocess] [info] Extension installed successfully: alefragnani.project-manager
+[2021-09-15 05:42:35.151] [sharedprocess] [info] Installing extension: codezombiech.gitignore
+[2021-09-15 05:42:35.862] [sharedprocess] [info] Downloaded extension: codezombiech.gitignore /home/brettm/.config/Code/CachedExtensionVSIXs/codezombiech.gitignore-0.7.0
+[2021-09-15 05:42:36.507] [sharedprocess] [info] Extracted extension to /home/brettm/.vscode/extensions/.6de71c60-b125-4057-a89d-f91f1e4c3264: codezombiech.gitignore
+[2021-09-15 05:42:36.526] [sharedprocess] [info] Renamed to /home/brettm/.vscode/extensions/codezombiech.gitignore-0.7.0
+[2021-09-15 05:42:36.527] [sharedprocess] [info] Extracting completed. codezombiech.gitignore
+[2021-09-15 05:42:36.532] [sharedprocess] [info] Extension installed successfully: codezombiech.gitignore
+[2021-09-15 05:42:46.171] [sharedprocess] [info] Installing extension: quicktype.quicktype
+[2021-09-15 05:42:49.218] [sharedprocess] [info] Downloaded extension: quicktype.quicktype /home/brettm/.config/Code/CachedExtensionVSIXs/quicktype.quicktype-12.0.46
+[2021-09-15 05:42:50.794] [sharedprocess] [info] Extracted extension to /home/brettm/.vscode/extensions/.a948d636-0ba0-4d39-9fe9-be4f4852bd65: quicktype.quicktype
+[2021-09-15 05:42:50.822] [sharedprocess] [info] Renamed to /home/brettm/.vscode/extensions/quicktype.quicktype-12.0.46
+[2021-09-15 05:42:50.824] [sharedprocess] [info] Extracting completed. quicktype.quicktype
+[2021-09-15 05:42:50.831] [sharedprocess] [info] Extension installed successfully: quicktype.quicktype
+[2021-09-15 05:43:11.618] [sharedprocess] [info] Installing extension: liximomo.sftp
+[2021-09-15 05:43:12.533] [sharedprocess] [info] Downloaded extension: liximomo.sftp /home/brettm/.config/Code/CachedExtensionVSIXs/liximomo.sftp-1.12.9
+[2021-09-15 05:43:13.619] [sharedprocess] [info] Extracted extension to /home/brettm/.vscode/extensions/.4793e611-50df-4510-9485-8d32cf2775fc: liximomo.sftp
+[2021-09-15 05:43:13.629] [sharedprocess] [info] Renamed to /home/brettm/.vscode/extensions/liximomo.sftp-1.12.9
+[2021-09-15 05:43:13.630] [sharedprocess] [info] Extracting completed. liximomo.sftp
+[2021-09-15 05:43:13.635] [sharedprocess] [info] Extension installed successfully: liximomo.sftp
+[2021-09-15 05:44:49.402] [sharedprocess] [info] Installing extension: jasonnutter.search-node-modules
+[2021-09-15 05:44:50.071] [sharedprocess] [info] Downloaded extension: jasonnutter.search-node-modules /home/brettm/.config/Code/CachedExtensionVSIXs/jasonnutter.search-node-modules-1.3.0
+[2021-09-15 05:44:50.096] [sharedprocess] [info] Extracted extension to /home/brettm/.vscode/extensions/.ad480f0d-c630-4242-bca8-c73092f3f134: jasonnutter.search-node-modules
+[2021-09-15 05:44:50.103] [sharedprocess] [info] Renamed to /home/brettm/.vscode/extensions/jasonnutter.search-node-modules-1.3.0
+[2021-09-15 05:44:50.105] [sharedprocess] [info] Extracting completed. jasonnutter.search-node-modules
+[2021-09-15 05:44:50.112] [sharedprocess] [info] Extension installed successfully: jasonnutter.search-node-modules
+[2021-09-15 05:45:16.474] [sharedprocess] [info] Installing extension: orta.vscode-jest
+[2021-09-15 05:45:17.084] [sharedprocess] [info] Downloaded extension: orta.vscode-jest /home/brettm/.config/Code/CachedExtensionVSIXs/orta.vscode-jest-4.1.2
+[2021-09-15 05:45:17.111] [sharedprocess] [info] Extracted extension to /home/brettm/.vscode/extensions/.62ae39e5-8931-4833-ba78-8f65e133679b: orta.vscode-jest
+[2021-09-15 05:45:17.118] [sharedprocess] [info] Renamed to /home/brettm/.vscode/extensions/orta.vscode-jest-4.1.2
+[2021-09-15 05:45:17.119] [sharedprocess] [info] Extracting completed. orta.vscode-jest
+[2021-09-15 05:45:17.124] [sharedprocess] [info] Extension installed successfully: orta.vscode-jest
+[2021-09-15 05:45:34.090] [sharedprocess] [info] Installing extension: pflannery.vscode-versionlens
+[2021-09-15 05:45:35.008] [sharedprocess] [info] Downloaded extension: pflannery.vscode-versionlens /home/brettm/.config/Code/CachedExtensionVSIXs/pflannery.vscode-versionlens-1.0.9
+[2021-09-15 05:45:35.944] [sharedprocess] [info] Extracted extension to /home/brettm/.vscode/extensions/.55fb9d24-15aa-4c77-be0b-e04912ca1b8e: pflannery.vscode-versionlens
+[2021-09-15 05:45:35.957] [sharedprocess] [info] Renamed to /home/brettm/.vscode/extensions/pflannery.vscode-versionlens-1.0.9
+[2021-09-15 05:45:35.958] [sharedprocess] [info] Extracting completed. pflannery.vscode-versionlens
+[2021-09-15 05:45:35.963] [sharedprocess] [info] Extension installed successfully: pflannery.vscode-versionlens
+[2021-09-15 05:47:51.688] [sharedprocess] [info] Installing extension: ibm.output-colorizer
+[2021-09-15 05:47:52.388] [sharedprocess] [info] Downloaded extension: ibm.output-colorizer /home/brettm/.config/Code/CachedExtensionVSIXs/ibm.output-colorizer-0.1.2
+[2021-09-15 05:47:52.414] [sharedprocess] [info] Extracted extension to /home/brettm/.vscode/extensions/.244118ec-4925-43e3-b292-14be7455d2e7: ibm.output-colorizer
+[2021-09-15 05:47:52.420] [sharedprocess] [info] Renamed to /home/brettm/.vscode/extensions/ibm.output-colorizer-0.1.2
+[2021-09-15 05:47:52.422] [sharedprocess] [info] Extracting completed. ibm.output-colorizer
+[2021-09-15 05:47:52.428] [sharedprocess] [info] Extension installed successfully: ibm.output-colorizer
+[2021-09-15 05:48:15.863] [sharedprocess] [info] Installing extension: tyriar.sort-lines
+[2021-09-15 05:48:16.460] [sharedprocess] [info] Downloaded extension: tyriar.sort-lines /home/brettm/.config/Code/CachedExtensionVSIXs/tyriar.sort-lines-1.9.0
+[2021-09-15 05:48:16.535] [sharedprocess] [info] Extracted extension to /home/brettm/.vscode/extensions/.415b0792-6e48-4ea9-b51a-298b71588054: tyriar.sort-lines
+[2021-09-15 05:48:16.544] [sharedprocess] [info] Renamed to /home/brettm/.vscode/extensions/tyriar.sort-lines-1.9.0
+[2021-09-15 05:48:16.546] [sharedprocess] [info] Extracting completed. tyriar.sort-lines
+[2021-09-15 05:48:16.550] [sharedprocess] [info] Extension installed successfully: tyriar.sort-lines
+[2021-09-15 05:49:47.249] [sharedprocess] [info] Installing extension: jock.svg
+[2021-09-15 05:49:48.275] [sharedprocess] [info] Downloaded extension: jock.svg /home/brettm/.config/Code/CachedExtensionVSIXs/jock.svg-1.4.9
+[2021-09-15 05:49:48.336] [sharedprocess] [info] Extracted extension to /home/brettm/.vscode/extensions/.ad4f0a77-2c4e-4ee6-9023-bfec8422b2c6: jock.svg
+[2021-09-15 05:49:48.343] [sharedprocess] [info] Renamed to /home/brettm/.vscode/extensions/jock.svg-1.4.9
+[2021-09-15 05:49:48.344] [sharedprocess] [info] Extracting completed. jock.svg
+[2021-09-15 05:49:48.350] [sharedprocess] [info] Extension installed successfully: jock.svg
+[2021-09-15 05:52:52.623] [sharedprocess] [info] Installing extension: apollographql.vscode-apollo
+[2021-09-15 05:52:54.194] [sharedprocess] [info] Downloaded extension: apollographql.vscode-apollo /home/brettm/.config/Code/CachedExtensionVSIXs/apollographql.vscode-apollo-1.19.4
+[2021-09-15 05:52:57.855] [sharedprocess] [info] Extracted extension to /home/brettm/.vscode/extensions/.c629eb55-f861-4ccb-bcfd-7cc785ac6ab8: apollographql.vscode-apollo
+[2021-09-15 05:52:57.881] [sharedprocess] [info] Renamed to /home/brettm/.vscode/extensions/apollographql.vscode-apollo-1.19.4
+[2021-09-15 05:52:57.882] [sharedprocess] [info] Extracting completed. apollographql.vscode-apollo
+[2021-09-15 05:52:57.891] [sharedprocess] [info] Extension installed successfully: apollographql.vscode-apollo
+[2021-09-15 05:53:05.932] [sharedprocess] [info] Installing extension: serayuzgur.crates
+[2021-09-15 05:53:06.640] [sharedprocess] [info] Downloaded extension: serayuzgur.crates /home/brettm/.config/Code/CachedExtensionVSIXs/serayuzgur.crates-0.5.9
+[2021-09-15 05:53:06.694] [sharedprocess] [info] Extracted extension to /home/brettm/.vscode/extensions/.ff47b973-159b-48ba-a079-ed522b444f43: serayuzgur.crates
+[2021-09-15 05:53:06.699] [sharedprocess] [info] Renamed to /home/brettm/.vscode/extensions/serayuzgur.crates-0.5.9
+[2021-09-15 05:53:06.699] [sharedprocess] [info] Extracting completed. serayuzgur.crates
+[2021-09-15 05:53:06.704] [sharedprocess] [info] Extension installed successfully: serayuzgur.crates
+[2021-09-15 05:53:27.830] [sharedprocess] [info] Installing extension: sburg.vscode-javascript-booster
+[2021-09-15 05:53:29.932] [sharedprocess] [info] Downloaded extension: sburg.vscode-javascript-booster /home/brettm/.config/Code/CachedExtensionVSIXs/sburg.vscode-javascript-booster-14.0.1
+[2021-09-15 05:53:30.053] [sharedprocess] [info] Extracted extension to /home/brettm/.vscode/extensions/.bb6661df-1e97-4605-b89f-9ed1b11ab83c: sburg.vscode-javascript-booster
+[2021-09-15 05:53:30.061] [sharedprocess] [info] Renamed to /home/brettm/.vscode/extensions/sburg.vscode-javascript-booster-14.0.1
+[2021-09-15 05:53:30.062] [sharedprocess] [info] Extracting completed. sburg.vscode-javascript-booster
+[2021-09-15 05:53:30.067] [sharedprocess] [info] Extension installed successfully: sburg.vscode-javascript-booster
+[2021-09-15 05:56:28.249] [sharedprocess] [info] Installing extension: bierner.markdown-checkbox
+[2021-09-15 05:56:28.989] [sharedprocess] [info] Downloaded extension: bierner.markdown-checkbox /home/brettm/.config/Code/CachedExtensionVSIXs/bierner.markdown-checkbox-0.3.2
+[2021-09-15 05:56:29.034] [sharedprocess] [info] Extracted extension to /home/brettm/.vscode/extensions/.a89aa22c-e0a9-42dd-aad0-7478424ba619: bierner.markdown-checkbox
+[2021-09-15 05:56:29.040] [sharedprocess] [info] Renamed to /home/brettm/.vscode/extensions/bierner.markdown-checkbox-0.3.2
+[2021-09-15 05:56:29.041] [sharedprocess] [info] Extracting completed. bierner.markdown-checkbox
+[2021-09-15 05:56:29.046] [sharedprocess] [info] Extension installed successfully: bierner.markdown-checkbox
+[2021-09-15 05:57:38.787] [sharedprocess] [info] Installing extension: andys8.jest-snippets
+[2021-09-15 05:57:39.428] [sharedprocess] [info] Downloaded extension: andys8.jest-snippets /home/brettm/.config/Code/CachedExtensionVSIXs/andys8.jest-snippets-1.8.0
+[2021-09-15 05:57:39.441] [sharedprocess] [info] Extracted extension to /home/brettm/.vscode/extensions/.dae1b71e-2a3e-47a9-b372-3c15fe91db91: andys8.jest-snippets
+[2021-09-15 05:57:39.449] [sharedprocess] [info] Renamed to /home/brettm/.vscode/extensions/andys8.jest-snippets-1.8.0
+[2021-09-15 05:57:39.450] [sharedprocess] [info] Extracting completed. andys8.jest-snippets
+[2021-09-15 05:57:39.457] [sharedprocess] [info] Extension installed successfully: andys8.jest-snippets
+[2021-09-15 05:58:58.014] [sharedprocess] [info] Installing extension: bengreenier.vscode-node-readme
+[2021-09-15 05:59:00.799] [sharedprocess] [info] Downloaded extension: bengreenier.vscode-node-readme /home/brettm/.config/Code/CachedExtensionVSIXs/bengreenier.vscode-node-readme-3.0.2
+[2021-09-15 05:59:01.858] [sharedprocess] [info] Extracted extension to /home/brettm/.vscode/extensions/.bf1d45ea-f590-40ca-8663-324459ac2dec: bengreenier.vscode-node-readme
+[2021-09-15 05:59:01.882] [sharedprocess] [info] Renamed to /home/brettm/.vscode/extensions/bengreenier.vscode-node-readme-3.0.2
+[2021-09-15 05:59:01.882] [sharedprocess] [info] Extracting completed. bengreenier.vscode-node-readme
+[2021-09-15 05:59:01.892] [sharedprocess] [info] Extension installed successfully: bengreenier.vscode-node-readme
+[2021-09-15 06:02:29.605] [sharedprocess] [info] Installing extension: vsls-contrib.gistfs
+[2021-09-15 06:02:30.858] [sharedprocess] [info] Downloaded extension: vsls-contrib.gistfs /home/brettm/.config/Code/CachedExtensionVSIXs/vsls-contrib.gistfs-0.3.0
+[2021-09-15 06:02:30.913] [sharedprocess] [info] Extracted extension to /home/brettm/.vscode/extensions/.e5ebb160-1b60-4b44-a190-5883c067a065: vsls-contrib.gistfs
+[2021-09-15 06:02:30.924] [sharedprocess] [info] Renamed to /home/brettm/.vscode/extensions/vsls-contrib.gistfs-0.3.0
+[2021-09-15 06:02:30.924] [sharedprocess] [info] Extracting completed. vsls-contrib.gistfs
+[2021-09-15 06:02:30.931] [sharedprocess] [info] Extension installed successfully: vsls-contrib.gistfs
+[2021-09-15 06:03:35.435] [sharedprocess] [info] Uninstalling extension: vsls-contrib.gistfs
+[2021-09-15 06:03:35.646] [sharedprocess] [info] Successfully uninstalled extension: vsls-contrib.gistfs
+[2021-09-15 06:10:27.151] [sharedprocess] [info] Installing extension: spmeesseman.vscode-taskexplorer
+[2021-09-15 06:10:28.073] [sharedprocess] [info] Downloaded extension: spmeesseman.vscode-taskexplorer /home/brettm/.config/Code/CachedExtensionVSIXs/spmeesseman.vscode-taskexplorer-2.5.7
+[2021-09-15 06:10:28.198] [sharedprocess] [info] Extracted extension to /home/brettm/.vscode/extensions/.2b0bd20c-b4be-436c-be19-37cc11f6056a: spmeesseman.vscode-taskexplorer
+[2021-09-15 06:10:28.209] [sharedprocess] [info] Renamed to /home/brettm/.vscode/extensions/spmeesseman.vscode-taskexplorer-2.5.7
+[2021-09-15 06:10:28.211] [sharedprocess] [info] Extracting completed. spmeesseman.vscode-taskexplorer
+[2021-09-15 06:10:28.217] [sharedprocess] [info] Extension installed successfully: spmeesseman.vscode-taskexplorer
+[2021-09-15 06:11:07.963] [sharedprocess] [info] Uninstalling extension: spmeesseman.vscode-taskexplorer
+[2021-09-15 06:11:08.211] [sharedprocess] [info] Successfully uninstalled extension: spmeesseman.vscode-taskexplorer
+[2021-09-15 06:12:13.975] [sharedprocess] [info] Installing extension: cardinal90.multi-cursor-case-preserve
+[2021-09-15 06:12:14.763] [sharedprocess] [info] Downloaded extension: cardinal90.multi-cursor-case-preserve /home/brettm/.config/Code/CachedExtensionVSIXs/cardinal90.multi-cursor-case-preserve-1.0.5
+[2021-09-15 06:12:14.789] [sharedprocess] [info] Extracted extension to /home/brettm/.vscode/extensions/.2155c02c-6d75-4670-a781-a3db13108f81: cardinal90.multi-cursor-case-preserve
+[2021-09-15 06:12:14.794] [sharedprocess] [info] Renamed to /home/brettm/.vscode/extensions/cardinal90.multi-cursor-case-preserve-1.0.5
+[2021-09-15 06:12:14.795] [sharedprocess] [info] Extracting completed. cardinal90.multi-cursor-case-preserve
+[2021-09-15 06:12:14.800] [sharedprocess] [info] Extension installed successfully: cardinal90.multi-cursor-case-preserve
+[2021-09-15 06:59:38.393] [sharedprocess] [info] Installing extension: jeusto.warm-up-typing-test
+[2021-09-15 06:59:39.716] [sharedprocess] [info] Downloaded extension: jeusto.warm-up-typing-test /home/brettm/.config/Code/CachedExtensionVSIXs/jeusto.warm-up-typing-test-1.0.0
+[2021-09-15 06:59:39.810] [sharedprocess] [info] Extracted extension to /home/brettm/.vscode/extensions/.d6878342-f20a-4e8c-9dd8-787409bc3c81: jeusto.warm-up-typing-test
+[2021-09-15 06:59:39.818] [sharedprocess] [info] Renamed to /home/brettm/.vscode/extensions/jeusto.warm-up-typing-test-1.0.0
+[2021-09-15 06:59:39.819] [sharedprocess] [info] Extracting completed. jeusto.warm-up-typing-test
+[2021-09-15 06:59:39.825] [sharedprocess] [info] Extension installed successfully: jeusto.warm-up-typing-test
+[2021-09-15 07:22:25.971] [sharedprocess] [info] Installing extension: nick-lvov-dev.typescript-explicit-types
+[2021-09-15 07:22:26.978] [sharedprocess] [info] Downloaded extension: nick-lvov-dev.typescript-explicit-types /home/brettm/.config/Code/CachedExtensionVSIXs/nick-lvov-dev.typescript-explicit-types-0.0.9
+[2021-09-15 07:22:27.115] [sharedprocess] [info] Extracted extension to /home/brettm/.vscode/extensions/.d4a53d77-79ba-49a7-a5e7-2cfc95bd0e02: nick-lvov-dev.typescript-explicit-types
+[2021-09-15 07:22:27.124] [sharedprocess] [info] Renamed to /home/brettm/.vscode/extensions/nick-lvov-dev.typescript-explicit-types-0.0.9
+[2021-09-15 07:22:27.126] [sharedprocess] [info] Extracting completed. nick-lvov-dev.typescript-explicit-types
+[2021-09-15 07:22:27.132] [sharedprocess] [info] Extension installed successfully: nick-lvov-dev.typescript-explicit-types
+[2021-09-15 14:08:27.756] [sharedprocess] [info] Installing extension: github.copilot
+[2021-09-15 14:08:29.478] [sharedprocess] [info] Downloaded extension: github.copilot /home/brettm/.config/Code/CachedExtensionVSIXs/github.copilot-1.4.2678
+[2021-09-15 14:08:29.565] [sharedprocess] [info] Extracted extension to /home/brettm/.vscode/extensions/.9ecb1b3b-3972-47ff-bd4b-723610a86d6a: github.copilot
+[2021-09-15 14:08:29.571] [sharedprocess] [info] Renamed to /home/brettm/.vscode/extensions/github.copilot-1.4.2678
+[2021-09-15 14:08:29.572] [sharedprocess] [info] Extracting completed. github.copilot
+[2021-09-15 14:08:29.585] [sharedprocess] [info] Extension installed successfully: github.copilot

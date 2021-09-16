@@ -1,0 +1,142 @@
+file:///home/brettm/src/github.com/you-got-bud/app/src/components/AuthApolloProvider.tsx {"mtime":1631480744209,"ctime":1614033742785,"size":4331,"etag":"37gn4p37p4fm","orphaned":false,"typeId":""}
+import {
+  ApolloLink,
+  ApolloProvider,
+  ApolloClient,
+  InMemoryCache,
+  HttpLink,
+  split,
+  FetchResult,
+} from '@apollo/client';
+import {BatchHttpLink} from '@apollo/client/link/batch-http';
+import {getMainDefinition, Observable} from '@apollo/client/utilities';
+import {WebSocketLink} from '@apollo/client/link/ws';
+import {onError} from '@apollo/client/link/error';
+import * as O from 'fp-ts/lib/Option';
+import {flow} from 'fp-ts/lib/function';
+import React, {FC} from 'react';
+import {isValidToken} from '../contexts/AuthContext';
+import {RefreshTokenDocument} from '../generated/graphql';
+import {GraphQLClient} from 'graphql-request';
+import { ReactNode } from 'react-instantsearch-core/node_modules/@types/react';
+
+interface AuthApolloProviderProps {
+  children: ReactNode
+}
+const AuthApolloProvider: FC<AuthApolloProviderProps> = ({children}) => {
+  const token =
+    typeof window !== 'undefined'
+      ? window.localStorage.getItem('accessToken')
+      : null;
+
+  const refreshToken =
+    typeof window !== 'undefined'
+      ? window.localStorage.getItem('refreshToken')
+      : null;
+  const getHeadersFromAccessToken = flow(
+    O.fromNullable,
+    O.chain((token: string) => (isValidToken(token) ? O.some(token) : O.none)),
+    O.map((token: string) => ({
+      Authorization: `Bearer ${token}`,
+    })),
+    O.toNullable
+  );
+  const graphqlRequestClient = new GraphQLClient(
+    'https://hasura.yougotbud.com/v1/graphql'
+  );
+  const httpLink = new HttpLink({
+    uri: 'https://hasura.yougotbud.com/v1/graphql',
+    headers: getHeadersFromAccessToken(token),
+  });
+
+  const errorLink = onError(
+    // @ts-ignore
+    ({graphQLErrors, operation, forward, networkError, response}) => {
+      // User access token has expired
+      if (
+        graphQLErrors &&
+        graphQLErrors[0]?.extensions?.code === 'invalid-jwt'
+      ) {
+        // We assume we have both tokens needed to run the async request
+        if (refreshToken) {
+          // Let's refresh token through async request
+          return new Observable<FetchResult>(observer => {
+            graphqlRequestClient
+              .request(RefreshTokenDocument, {token: refreshToken})
+              .then(refreshResponse => {
+                localStorage.setItem(
+                  'accessToken',
+                  refreshResponse.refresh.token
+                );
+                localStorage.setItem(
+                  'refreshToken',
+                  refreshResponse.refresh.refresh_token
+                );
+                operation.setContext(({headers = {}}) => ({
+                  headers: {
+                    // Re-add old headers
+                    ...headers,
+                    // Switch out old access token for new one
+                    Authorization:
+                      `Bearer ${refreshResponse.refresh.token}` || null,
+                  },
+                }));
+              })
+              .then(() => {
+                const subscriber = {
+                  next: observer.next.bind(observer),
+                  error: observer.error.bind(observer),
+                  complete: observer.complete.bind(observer),
+                };
+
+                // Retry last failed request
+                forward(operation).subscribe(subscriber);
+              })
+              .catch(error => {
+                // No refresh or client token available, we force user to login
+                observer.error(error);
+              });
+          });
+        }
+      }
+    }
+  );
+  const wsLink =
+    typeof window !== 'undefined'
+      ? new WebSocketLink({
+          uri: 'wss://hasura.yougotbud.com/v1/graphql',
+          options: {
+            reconnect: true,
+            lazy: true,
+            connectionParams: () => ({
+              headers: getHeadersFromAccessToken(token),
+            }),
+          },
+        })
+      : null;
+
+  const splitLink =
+    typeof window !== 'undefined'
+      ? split(
+          ({query}) => {
+            const definition = getMainDefinition(query);
+            return (
+              definition.kind === 'OperationDefinition' &&
+              definition.operation === 'subscription'
+            );
+          },
+          wsLink,
+          httpLink
+        )
+      : httpLink;
+
+  const client = new ApolloClient({
+    link: ApolloLink.from([errorLink, splitLink]),
+    cache: new InMemoryCache(),
+    headers: getHeadersFromAccessToken(token),
+  });
+
+  return <ApolloProvider client={client}>{children}</ApolloProvider>;
+};
+
+export default AuthApolloProvider;

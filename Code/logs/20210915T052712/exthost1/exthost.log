@@ -1,0 +1,1079 @@
+[2021-09-15 05:27:14.837] [exthost] [info] extension host started
+[2021-09-15 05:27:14.837] [exthost] [info] Skipping acquiring lock for /home/brettm/.config/Code/User/workspaceStorage/4727fa8df0e6e8b324e4a918f45b9155.
+[2021-09-15 05:27:14.936] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":false,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"onAuthenticationRequest:microsoft"}
+[2021-09-15 05:27:14.936] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2021-09-15 05:27:14.976] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"extensionId":{"value":"vscode.configuration-editing","_lower":"vscode.configuration-editing"},"activationEvent":"onLanguage:jsonc"}
+[2021-09-15 05:27:14.976] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/configuration-editing/dist/configurationEditingMain
+[2021-09-15 05:27:14.981] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2021-09-15 05:27:14.981] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain
+[2021-09-15 05:27:15.046] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2021-09-15 05:27:15.046] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension
+[2021-09-15 05:27:15.098] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-09-15 05:27:15.098] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/debug-auto-launch/dist/extension
+[2021-09-15 05:27:15.102] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-09-15 05:27:15.102] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/git/dist/main
+[2021-09-15 05:27:15.180] [exthost] [info] ExtensionService#_doActivateExtension iocave.monkey-patch {"startup":true,"extensionId":{"value":"iocave.monkey-patch","_lower":"iocave.monkey-patch"},"activationEvent":"*"}
+[2021-09-15 05:27:15.180] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/iocave.monkey-patch-0.1.15/out/extension.js
+[2021-09-15 05:27:15.185] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme {"startup":true,"extensionId":{"value":"PKief.material-icon-theme","_lower":"pkief.material-icon-theme"},"activationEvent":"*"}
+[2021-09-15 05:27:15.185] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/pkief.material-icon-theme-4.10.0/dist/extension
+[2021-09-15 05:27:15.204] [exthost] [info] ExtensionService#_doActivateExtension vscodevim.vim {"startup":true,"extensionId":{"value":"vscodevim.vim","_lower":"vscodevim.vim"},"activationEvent":"*"}
+[2021-09-15 05:27:15.204] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/vscodevim.vim-1.21.7/out/extension
+[2021-09-15 05:27:15.449] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-09-15 05:27:15.449] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/github/dist/extension.js
+[2021-09-15 05:27:15.455] [exthost] [info] ExtensionService#_doActivateExtension iocave.customize-ui {"startup":true,"extensionId":{"value":"iocave.customize-ui","_lower":"iocave.customize-ui"},"activationEvent":"*"}
+[2021-09-15 05:27:15.455] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/iocave.customize-ui-0.1.54/out/extension.js
+[2021-09-15 05:27:15.503] [exthost] [info] eager extensions activated
+[2021-09-15 05:27:15.518] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-09-15 05:27:15.518] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2021-09-15 05:27:15.690] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onStartupFinished"}
+[2021-09-15 05:27:15.691] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2021-09-15 05:27:15.702] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":false,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"onStartupFinished"}
+[2021-09-15 05:27:15.702] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2021-09-15 05:27:15.704] [exthost] [info] ExtensionService#_doActivateExtension CoenraadS.bracket-pair-colorizer-2 {"startup":false,"extensionId":{"value":"CoenraadS.bracket-pair-colorizer-2","_lower":"coenraads.bracket-pair-colorizer-2"},"activationEvent":"onStartupFinished"}
+[2021-09-15 05:27:15.704] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/coenraads.bracket-pair-colorizer-2-0.2.1/out/src/extension
+[2021-09-15 05:27:15.758] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":false,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"onAuthenticationRequest:github"}
+[2021-09-15 05:27:15.758] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/github-authentication/dist/extension.js
+[2021-09-15 05:27:41.833] [exthost] [info] ExtensionService#_doActivateExtension streetsidesoftware.code-spell-checker {"startup":false,"extensionId":{"value":"streetsidesoftware.code-spell-checker","_lower":"streetsidesoftware.code-spell-checker"},"activationEvent":"*"}
+[2021-09-15 05:27:41.833] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/streetsidesoftware.code-spell-checker-2.0.4/packages/client/dist/extension.js
+[2021-09-15 05:27:46.658] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"extensionId":{"value":"vscode.extension-editing","_lower":"vscode.extension-editing"},"activationEvent":"onLanguage:json"}
+[2021-09-15 05:27:46.658] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/extension-editing/dist/extensionEditingMain
+[2021-09-15 05:27:46.670] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":false,"extensionId":{"value":"vscode.npm","_lower":"vscode.npm"},"activationEvent":"onLanguage:json"}
+[2021-09-15 05:27:46.670] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/npm/dist/npmMain
+[2021-09-15 05:27:47.608] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":false,"extensionId":{"value":"esbenp.prettier-vscode","_lower":"esbenp.prettier-vscode"},"activationEvent":"onStartupFinished"}
+[2021-09-15 05:27:47.608] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/esbenp.prettier-vscode-8.1.0/dist/extension
+[2021-09-15 05:27:53.571] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":false,"extensionId":{"value":"dbaeumer.vscode-eslint","_lower":"dbaeumer.vscode-eslint"},"activationEvent":"onStartupFinished"}
+[2021-09-15 05:27:53.571] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/client/out/extension
+[2021-09-15 05:28:06.870] [exthost] [info] ExtensionService#_doActivateExtension byCedric.vscode-expo {"startup":false,"extensionId":{"value":"byCedric.vscode-expo","_lower":"bycedric.vscode-expo"},"activationEvent":"*"}
+[2021-09-15 05:28:06.870] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/bycedric.vscode-expo-0.7.3/out/src/extension.js
+[2021-09-15 05:28:24.318] [exthost] [info] extension host terminating: renderer closed the socket
+[2021-09-15 05:28:25.344] [exthost] [info] exiting with code 0
+[2021-09-15 05:28:26.129] [exthost] [info] extension host started
+[2021-09-15 05:28:26.129] [exthost] [info] Skipping acquiring lock for /home/brettm/.config/Code/User/workspaceStorage/0ddf65a050de30d3ab11b84c640ed530.
+[2021-09-15 05:28:26.193] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":false,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"onAuthenticationRequest:microsoft"}
+[2021-09-15 05:28:26.193] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2021-09-15 05:28:26.228] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"extensionId":{"value":"vscode.configuration-editing","_lower":"vscode.configuration-editing"},"activationEvent":"onLanguage:jsonc"}
+[2021-09-15 05:28:26.228] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/configuration-editing/dist/configurationEditingMain
+[2021-09-15 05:28:26.232] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2021-09-15 05:28:26.232] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain
+[2021-09-15 05:28:26.287] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2021-09-15 05:28:26.287] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension
+[2021-09-15 05:28:26.330] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-09-15 05:28:26.330] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/debug-auto-launch/dist/extension
+[2021-09-15 05:28:26.332] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-09-15 05:28:26.332] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/git/dist/main
+[2021-09-15 05:28:26.393] [exthost] [info] ExtensionService#_doActivateExtension byCedric.vscode-expo {"startup":true,"extensionId":{"value":"byCedric.vscode-expo","_lower":"bycedric.vscode-expo"},"activationEvent":"*"}
+[2021-09-15 05:28:26.393] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/bycedric.vscode-expo-0.7.3/out/src/extension.js
+[2021-09-15 05:28:27.063] [exthost] [info] ExtensionService#_doActivateExtension iocave.monkey-patch {"startup":true,"extensionId":{"value":"iocave.monkey-patch","_lower":"iocave.monkey-patch"},"activationEvent":"*"}
+[2021-09-15 05:28:27.063] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/iocave.monkey-patch-0.1.15/out/extension.js
+[2021-09-15 05:28:27.066] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme {"startup":true,"extensionId":{"value":"PKief.material-icon-theme","_lower":"pkief.material-icon-theme"},"activationEvent":"*"}
+[2021-09-15 05:28:27.066] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/pkief.material-icon-theme-4.10.0/dist/extension
+[2021-09-15 05:28:27.078] [exthost] [info] ExtensionService#_doActivateExtension streetsidesoftware.code-spell-checker {"startup":true,"extensionId":{"value":"streetsidesoftware.code-spell-checker","_lower":"streetsidesoftware.code-spell-checker"},"activationEvent":"*"}
+[2021-09-15 05:28:27.078] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/streetsidesoftware.code-spell-checker-2.0.4/packages/client/dist/extension.js
+[2021-09-15 05:28:27.122] [exthost] [info] ExtensionService#_doActivateExtension vscodevim.vim {"startup":true,"extensionId":{"value":"vscodevim.vim","_lower":"vscodevim.vim"},"activationEvent":"*"}
+[2021-09-15 05:28:27.122] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/vscodevim.vim-1.21.7/out/extension
+[2021-09-15 05:28:27.197] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":true,"extensionId":{"value":"vscode.npm","_lower":"vscode.npm"},"activationEvent":"workspaceContains:package.json"}
+[2021-09-15 05:28:27.197] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/npm/dist/npmMain
+[2021-09-15 05:28:27.706] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-09-15 05:28:27.707] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2021-09-15 05:28:27.912] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":false,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-09-15 05:28:27.912] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/github/dist/extension.js
+[2021-09-15 05:28:27.917] [exthost] [info] ExtensionService#_doActivateExtension iocave.customize-ui {"startup":false,"extensionId":{"value":"iocave.customize-ui","_lower":"iocave.customize-ui"},"activationEvent":"*"}
+[2021-09-15 05:28:27.917] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/iocave.customize-ui-0.1.54/out/extension.js
+[2021-09-15 05:28:27.994] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":false,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"onAuthenticationRequest:github"}
+[2021-09-15 05:28:27.994] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/github-authentication/dist/extension.js
+[2021-09-15 05:28:28.618] [exthost] [info] eager extensions activated
+[2021-09-15 05:28:28.626] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onStartupFinished"}
+[2021-09-15 05:28:28.626] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2021-09-15 05:28:28.638] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":false,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"onStartupFinished"}
+[2021-09-15 05:28:28.639] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2021-09-15 05:28:28.641] [exthost] [info] ExtensionService#_doActivateExtension CoenraadS.bracket-pair-colorizer-2 {"startup":false,"extensionId":{"value":"CoenraadS.bracket-pair-colorizer-2","_lower":"coenraads.bracket-pair-colorizer-2"},"activationEvent":"onStartupFinished"}
+[2021-09-15 05:28:28.641] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/coenraads.bracket-pair-colorizer-2-0.2.1/out/src/extension
+[2021-09-15 05:28:28.649] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":false,"extensionId":{"value":"dbaeumer.vscode-eslint","_lower":"dbaeumer.vscode-eslint"},"activationEvent":"onStartupFinished"}
+[2021-09-15 05:28:28.649] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/client/out/extension
+[2021-09-15 05:28:28.670] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":false,"extensionId":{"value":"esbenp.prettier-vscode","_lower":"esbenp.prettier-vscode"},"activationEvent":"onStartupFinished"}
+[2021-09-15 05:28:28.670] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/esbenp.prettier-vscode-8.1.0/dist/extension
+[2021-09-15 05:29:00.225] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"extensionId":{"value":"vscode.extension-editing","_lower":"vscode.extension-editing"},"activationEvent":"onLanguage:typescript"}
+[2021-09-15 05:29:00.225] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/extension-editing/dist/extensionEditingMain
+[2021-09-15 05:31:38.014] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag {"startup":false,"extensionId":{"value":"formulahendry.auto-close-tag","_lower":"formulahendry.auto-close-tag"},"activationEvent":"*"}
+[2021-09-15 05:31:38.014] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/formulahendry.auto-close-tag-0.5.12/out/src/extension
+[2021-09-15 05:31:38.827] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag {"startup":false,"extensionId":{"value":"formulahendry.auto-rename-tag","_lower":"formulahendry.auto-rename-tag"},"activationEvent":"*"}
+[2021-09-15 05:31:38.827] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/formulahendry.auto-rename-tag-0.1.8/packages/extension/dist/extensionMain.js
+[2021-09-15 05:32:26.286] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-containers {"startup":false,"extensionId":{"value":"ms-vscode-remote.remote-containers","_lower":"ms-vscode-remote.remote-containers"},"activationEvent":"onStartupFinished"}
+[2021-09-15 05:32:26.286] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/ms-vscode-remote.remote-containers-0.194.0/dist/extension/extension
+[2021-09-15 05:33:58.945] [exthost] [info] ExtensionService#_doActivateExtension GitHub.vscode-pull-request-github {"startup":false,"extensionId":{"value":"GitHub.vscode-pull-request-github","_lower":"github.vscode-pull-request-github"},"activationEvent":"*"}
+[2021-09-15 05:33:58.945] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/github.vscode-pull-request-github-0.30.0/dist/extension
+[2021-09-15 05:34:13.221] [exthost] [info] ExtensionService#_doActivateExtension KnisterPeter.vscode-github {"startup":false,"extensionId":{"value":"KnisterPeter.vscode-github","_lower":"knisterpeter.vscode-github"},"activationEvent":"*"}
+[2021-09-15 05:34:13.221] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/knisterpeter.vscode-github-0.30.6/out/src/main
+[2021-09-15 05:34:57.443] [exthost] [info] ExtensionService#_doActivateExtension GitHub.copilot {"startup":false,"extensionId":{"value":"GitHub.copilot","_lower":"github.copilot"},"activationEvent":"*"}
+[2021-09-15 05:34:57.443] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/github.copilot-1.4.2655/dist/extension
+[2021-09-15 05:39:53.290] [exthost] [info] ExtensionService#_doActivateExtension EditorConfig.EditorConfig {"startup":false,"extensionId":{"value":"EditorConfig.EditorConfig","_lower":"editorconfig.editorconfig"},"activationEvent":"*"}
+[2021-09-15 05:39:53.291] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/editorconfig.editorconfig-0.16.4/out/editorConfigMain.js
+[2021-09-15 05:40:44.810] [exthost] [info] ExtensionService#_doActivateExtension alefragnani.project-manager {"startup":false,"extensionId":{"value":"alefragnani.project-manager","_lower":"alefragnani.project-manager"},"activationEvent":"*"}
+[2021-09-15 05:40:44.810] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/alefragnani.project-manager-12.4.0/dist/extension
+[2021-09-15 05:42:12.884] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-language-features {"startup":false,"extensionId":{"value":"vscode.markdown-language-features","_lower":"vscode.markdown-language-features"},"activationEvent":"onLanguage:markdown"}
+[2021-09-15 05:42:12.884] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/markdown-language-features/dist/extension
+[2021-09-15 05:42:36.916] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-math {"startup":false,"extensionId":{"value":"vscode.markdown-language-features","_lower":"vscode.markdown-language-features"},"activationEvent":"api"}
+[2021-09-15 05:42:36.916] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/markdown-math/dist/extension
+[2021-09-15 05:44:54.195] [exthost] [info] ExtensionService#_doActivateExtension vscode.css-language-features {"startup":false,"extensionId":{"value":"vscode.css-language-features","_lower":"vscode.css-language-features"},"activationEvent":"onLanguage:css"}
+[2021-09-15 05:44:54.195] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/css-language-features/client/dist/node/cssClientMain
+[2021-09-15 05:45:36.349] [exthost] [info] ExtensionService#_doActivateExtension pflannery.vscode-versionlens {"startup":false,"extensionId":{"value":"pflannery.vscode-versionlens","_lower":"pflannery.vscode-versionlens"},"activationEvent":"onLanguage:json"}
+[2021-09-15 05:45:36.349] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/pflannery.vscode-versionlens-1.0.9/dist/extension.bundle.js
+[2021-09-15 05:52:58.177] [exthost] [info] ExtensionService#_doActivateExtension apollographql.vscode-apollo {"startup":false,"extensionId":{"value":"apollographql.vscode-apollo","_lower":"apollographql.vscode-apollo"},"activationEvent":"workspaceContains:**/apollo.config.[jt]s"}
+[2021-09-15 05:52:58.177] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/apollographql.vscode-apollo-1.19.4/lib/extension
+[2021-09-15 05:53:30.343] [exthost] [info] ExtensionService#_doActivateExtension sburg.vscode-javascript-booster {"startup":false,"extensionId":{"value":"sburg.vscode-javascript-booster","_lower":"sburg.vscode-javascript-booster"},"activationEvent":"onLanguage:javascript"}
+[2021-09-15 05:53:30.343] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/sburg.vscode-javascript-booster-14.0.1/dist/extension
+[2021-09-15 05:56:29.198] [exthost] [info] ExtensionService#_doActivateExtension bierner.markdown-checkbox {"startup":false,"extensionId":{"value":"vscode.markdown-language-features","_lower":"vscode.markdown-language-features"},"activationEvent":"api"}
+[2021-09-15 05:56:29.199] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/bierner.markdown-checkbox-0.3.2/dist/index.js
+[2021-09-15 06:00:54.609] [exthost] [info] ExtensionService#_doActivateExtension redhat.vscode-yaml {"startup":false,"extensionId":{"value":"ms-kubernetes-tools.vscode-kubernetes-tools","_lower":"ms-kubernetes-tools.vscode-kubernetes-tools"},"activationEvent":"onView:extension.vsKubernetesExplorer"}
+[2021-09-15 06:00:54.609] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/redhat.vscode-yaml-0.22.0/out/src/extension
+[2021-09-15 06:00:54.768] [exthost] [info] ExtensionService#_doActivateExtension ms-kubernetes-tools.vscode-kubernetes-tools {"startup":false,"extensionId":{"value":"ms-kubernetes-tools.vscode-kubernetes-tools","_lower":"ms-kubernetes-tools.vscode-kubernetes-tools"},"activationEvent":"onView:extension.vsKubernetesExplorer"}
+[2021-09-15 06:00:54.768] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/ms-kubernetes-tools.vscode-kubernetes-tools-1.3.3/dist/extension
+[2021-09-15 06:00:55.265] [exthost] [warning] [redhat.vscode-yaml] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for '[yaml]', provide the URI of a resource or 'null' for any resource.
+[2021-09-15 06:01:03.791] [exthost] [info] ExtensionService#_doActivateExtension me-dutour-mathieu.vscode-github-actions {"startup":false,"extensionId":{"value":"me-dutour-mathieu.vscode-github-actions","_lower":"me-dutour-mathieu.vscode-github-actions"},"activationEvent":"onLanguage:yaml"}
+[2021-09-15 06:01:03.792] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/me-dutour-mathieu.vscode-github-actions-3.0.1/out/src/extension
+[2021-09-15 06:02:31.135] [exthost] [warning] [redhat.vscode-yaml] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for '[yaml]', provide the URI of a resource or 'null' for any resource.
+[2021-09-15 06:02:31.172] [exthost] [info] ExtensionService#_doActivateExtension vsls-contrib.gistfs {"startup":false,"extensionId":{"value":"vscode.markdown-language-features","_lower":"vscode.markdown-language-features"},"activationEvent":"api"}
+[2021-09-15 06:02:31.173] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/vsls-contrib.gistfs-0.3.0/dist/extension.js
+[2021-09-15 06:03:39.545] [exthost] [info] extension host terminating: renderer closed the socket
+[2021-09-15 06:03:39.984] [exthost] [error] TypeError: r.some is not a function
+    at Function.saveToDisk (/home/brettm/.vscode/extensions/vscodevim.vim-1.21.7/src/register/register.ts:350:30)
+    at Object.e.deactivate (/home/brettm/.vscode/extensions/vscodevim.vim-1.21.7/extension.ts:37:18)
+    at v._deactivate (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:99:11277)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:99:9991
+    at Array.map (<anonymous>)
+    at v.deactivateAll (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:99:9979)
+    at E.terminate (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:103:723)
+    at a (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:113:32208)
+    at Socket.<anonymous> (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:113:29858)
+    at Socket.emit (events.js:327:22)
+    at Pipe.<anonymous> (net.js:673:12)
+[2021-09-15 06:03:40.604] [exthost] [info] exiting with code 0
+[2021-09-15 06:03:41.707] [exthost] [info] extension host started
+[2021-09-15 06:03:41.707] [exthost] [info] Skipping acquiring lock for /home/brettm/.config/Code/User/workspaceStorage/0ddf65a050de30d3ab11b84c640ed530.
+[2021-09-15 06:03:41.849] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":false,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"onAuthenticationRequest:microsoft"}
+[2021-09-15 06:03:41.849] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2021-09-15 06:03:41.884] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"extensionId":{"value":"vscode.configuration-editing","_lower":"vscode.configuration-editing"},"activationEvent":"onLanguage:json"}
+[2021-09-15 06:03:41.885] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/configuration-editing/dist/configurationEditingMain
+[2021-09-15 06:03:41.891] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"extensionId":{"value":"vscode.extension-editing","_lower":"vscode.extension-editing"},"activationEvent":"onLanguage:json"}
+[2021-09-15 06:03:41.891] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/extension-editing/dist/extensionEditingMain
+[2021-09-15 06:03:41.908] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:json"}
+[2021-09-15 06:03:41.908] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain
+[2021-09-15 06:03:41.970] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":false,"extensionId":{"value":"vscode.npm","_lower":"vscode.npm"},"activationEvent":"onLanguage:json"}
+[2021-09-15 06:03:41.970] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/npm/dist/npmMain
+[2021-09-15 06:03:41.993] [exthost] [info] ExtensionService#_doActivateExtension pflannery.vscode-versionlens {"startup":false,"extensionId":{"value":"pflannery.vscode-versionlens","_lower":"pflannery.vscode-versionlens"},"activationEvent":"onLanguage:json"}
+[2021-09-15 06:03:41.994] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/pflannery.vscode-versionlens-1.0.9/dist/extension.bundle.js
+[2021-09-15 06:03:42.049] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-09-15 06:03:42.049] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/debug-auto-launch/dist/extension
+[2021-09-15 06:03:42.052] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-09-15 06:03:42.052] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/git/dist/main
+[2021-09-15 06:03:42.108] [exthost] [info] ExtensionService#_doActivateExtension alefragnani.project-manager {"startup":true,"extensionId":{"value":"alefragnani.project-manager","_lower":"alefragnani.project-manager"},"activationEvent":"*"}
+[2021-09-15 06:03:42.108] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/alefragnani.project-manager-12.4.0/dist/extension
+[2021-09-15 06:03:42.119] [exthost] [info] ExtensionService#_doActivateExtension byCedric.vscode-expo {"startup":true,"extensionId":{"value":"byCedric.vscode-expo","_lower":"bycedric.vscode-expo"},"activationEvent":"*"}
+[2021-09-15 06:03:42.119] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/bycedric.vscode-expo-0.7.3/out/src/extension.js
+[2021-09-15 06:03:42.806] [exthost] [info] ExtensionService#_doActivateExtension EditorConfig.EditorConfig {"startup":true,"extensionId":{"value":"EditorConfig.EditorConfig","_lower":"editorconfig.editorconfig"},"activationEvent":"*"}
+[2021-09-15 06:03:42.806] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/editorconfig.editorconfig-0.16.4/out/editorConfigMain.js
+[2021-09-15 06:03:42.814] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag {"startup":true,"extensionId":{"value":"formulahendry.auto-close-tag","_lower":"formulahendry.auto-close-tag"},"activationEvent":"*"}
+[2021-09-15 06:03:42.814] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/formulahendry.auto-close-tag-0.5.12/out/src/extension
+[2021-09-15 06:03:42.815] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag {"startup":true,"extensionId":{"value":"formulahendry.auto-rename-tag","_lower":"formulahendry.auto-rename-tag"},"activationEvent":"*"}
+[2021-09-15 06:03:42.815] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/formulahendry.auto-rename-tag-0.1.8/packages/extension/dist/extensionMain.js
+[2021-09-15 06:03:42.831] [exthost] [info] ExtensionService#_doActivateExtension GitHub.copilot {"startup":true,"extensionId":{"value":"GitHub.copilot","_lower":"github.copilot"},"activationEvent":"*"}
+[2021-09-15 06:03:42.831] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/github.copilot-1.4.2655/dist/extension
+[2021-09-15 06:03:42.927] [exthost] [info] ExtensionService#_doActivateExtension GitHub.vscode-pull-request-github {"startup":true,"extensionId":{"value":"GitHub.vscode-pull-request-github","_lower":"github.vscode-pull-request-github"},"activationEvent":"*"}
+[2021-09-15 06:03:42.927] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/github.vscode-pull-request-github-0.30.0/dist/extension
+[2021-09-15 06:03:43.006] [exthost] [info] ExtensionService#_doActivateExtension iocave.monkey-patch {"startup":true,"extensionId":{"value":"iocave.monkey-patch","_lower":"iocave.monkey-patch"},"activationEvent":"*"}
+[2021-09-15 06:03:43.006] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/iocave.monkey-patch-0.1.15/out/extension.js
+[2021-09-15 06:03:43.011] [exthost] [info] ExtensionService#_doActivateExtension KnisterPeter.vscode-github {"startup":true,"extensionId":{"value":"KnisterPeter.vscode-github","_lower":"knisterpeter.vscode-github"},"activationEvent":"*"}
+[2021-09-15 06:03:43.011] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/knisterpeter.vscode-github-0.30.6/out/src/main
+[2021-09-15 06:03:43.107] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme {"startup":true,"extensionId":{"value":"PKief.material-icon-theme","_lower":"pkief.material-icon-theme"},"activationEvent":"*"}
+[2021-09-15 06:03:43.107] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/pkief.material-icon-theme-4.10.0/dist/extension
+[2021-09-15 06:03:43.119] [exthost] [info] ExtensionService#_doActivateExtension streetsidesoftware.code-spell-checker {"startup":true,"extensionId":{"value":"streetsidesoftware.code-spell-checker","_lower":"streetsidesoftware.code-spell-checker"},"activationEvent":"*"}
+[2021-09-15 06:03:43.119] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/streetsidesoftware.code-spell-checker-2.0.4/packages/client/dist/extension.js
+[2021-09-15 06:03:43.163] [exthost] [info] ExtensionService#_doActivateExtension vscodevim.vim {"startup":true,"extensionId":{"value":"vscodevim.vim","_lower":"vscodevim.vim"},"activationEvent":"*"}
+[2021-09-15 06:03:43.163] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/vscodevim.vim-1.21.7/out/extension
+[2021-09-15 06:03:43.593] [exthost] [info] ExtensionService#_doActivateExtension apollographql.vscode-apollo {"startup":true,"extensionId":{"value":"apollographql.vscode-apollo","_lower":"apollographql.vscode-apollo"},"activationEvent":"workspaceContains:**/apollo.config.[jt]s"}
+[2021-09-15 06:03:43.593] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/apollographql.vscode-apollo-1.19.4/lib/extension
+[2021-09-15 06:03:43.880] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":false,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"onAuthenticationRequest:github"}
+[2021-09-15 06:03:43.880] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/github-authentication/dist/extension.js
+[2021-09-15 06:03:44.066] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-09-15 06:03:44.066] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2021-09-15 06:03:44.245] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":false,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-09-15 06:03:44.245] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/github/dist/extension.js
+[2021-09-15 06:03:44.250] [exthost] [info] ExtensionService#_doActivateExtension iocave.customize-ui {"startup":false,"extensionId":{"value":"iocave.customize-ui","_lower":"iocave.customize-ui"},"activationEvent":"*"}
+[2021-09-15 06:03:44.250] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/iocave.customize-ui-0.1.54/out/extension.js
+[2021-09-15 06:03:45.617] [exthost] [info] eager extensions activated
+[2021-09-15 06:03:45.636] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2021-09-15 06:03:45.636] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension
+[2021-09-15 06:03:45.682] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onStartupFinished"}
+[2021-09-15 06:03:45.683] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2021-09-15 06:03:45.694] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":false,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"onStartupFinished"}
+[2021-09-15 06:03:45.694] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2021-09-15 06:03:45.697] [exthost] [info] ExtensionService#_doActivateExtension CoenraadS.bracket-pair-colorizer-2 {"startup":false,"extensionId":{"value":"CoenraadS.bracket-pair-colorizer-2","_lower":"coenraads.bracket-pair-colorizer-2"},"activationEvent":"onStartupFinished"}
+[2021-09-15 06:03:45.697] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/coenraads.bracket-pair-colorizer-2-0.2.1/out/src/extension
+[2021-09-15 06:03:45.705] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":false,"extensionId":{"value":"dbaeumer.vscode-eslint","_lower":"dbaeumer.vscode-eslint"},"activationEvent":"onStartupFinished"}
+[2021-09-15 06:03:45.705] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/client/out/extension
+[2021-09-15 06:03:45.727] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":false,"extensionId":{"value":"esbenp.prettier-vscode","_lower":"esbenp.prettier-vscode"},"activationEvent":"onStartupFinished"}
+[2021-09-15 06:03:45.727] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/esbenp.prettier-vscode-8.1.0/dist/extension
+[2021-09-15 06:03:45.828] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-containers {"startup":false,"extensionId":{"value":"ms-vscode-remote.remote-containers","_lower":"ms-vscode-remote.remote-containers"},"activationEvent":"onStartupFinished"}
+[2021-09-15 06:03:45.828] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/ms-vscode-remote.remote-containers-0.194.0/dist/extension/extension
+[2021-09-15 06:05:05.574] [exthost] [info] ExtensionService#_doActivateExtension sburg.vscode-javascript-booster {"startup":false,"extensionId":{"value":"sburg.vscode-javascript-booster","_lower":"sburg.vscode-javascript-booster"},"activationEvent":"onLanguage:typescript"}
+[2021-09-15 06:05:05.574] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/sburg.vscode-javascript-booster-14.0.1/dist/extension
+[2021-09-15 06:07:29.748] [exthost] [info] ExtensionService#_doActivateExtension vscode.css-language-features {"startup":false,"extensionId":{"value":"vscode.css-language-features","_lower":"vscode.css-language-features"},"activationEvent":"onLanguage:css"}
+[2021-09-15 06:07:29.748] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/css-language-features/client/dist/node/cssClientMain
+[2021-09-15 06:10:28.488] [exthost] [info] ExtensionService#_doActivateExtension spmeesseman.vscode-taskexplorer {"startup":false,"extensionId":{"value":"spmeesseman.vscode-taskexplorer","_lower":"spmeesseman.vscode-taskexplorer"},"activationEvent":"*"}
+[2021-09-15 06:10:28.488] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/spmeesseman.vscode-taskexplorer-2.5.7/dist/extension
+[2021-09-15 06:10:34.637] [exthost] [info] ExtensionService#_doActivateExtension vscode.grunt {"startup":false,"extensionId":{"value":"vscode.grunt","_lower":"vscode.grunt"},"activationEvent":"onCommand:workbench.action.tasks.runTask"}
+[2021-09-15 06:10:34.637] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/grunt/dist/main
+[2021-09-15 06:10:34.657] [exthost] [info] ExtensionService#_doActivateExtension vscode.gulp {"startup":false,"extensionId":{"value":"vscode.gulp","_lower":"vscode.gulp"},"activationEvent":"onCommand:workbench.action.tasks.runTask"}
+[2021-09-15 06:10:34.657] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/gulp/dist/main
+[2021-09-15 06:10:34.663] [exthost] [info] ExtensionService#_doActivateExtension vscode.jake {"startup":false,"extensionId":{"value":"vscode.jake","_lower":"vscode.jake"},"activationEvent":"onCommand:workbench.action.tasks.runTask"}
+[2021-09-15 06:10:34.663] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/jake/dist/main
+[2021-09-15 06:10:34.687] [exthost] [info] ExtensionService#_doActivateExtension ms-azuretools.vscode-docker {"startup":false,"extensionId":{"value":"ms-azuretools.vscode-docker","_lower":"ms-azuretools.vscode-docker"},"activationEvent":"onCommand:workbench.action.tasks.runTask"}
+[2021-09-15 06:10:34.688] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/ms-azuretools.vscode-docker-1.16.1/main
+[2021-09-15 06:11:11.493] [exthost] [info] extension host terminating: renderer closed the socket
+[2021-09-15 06:11:11.917] [exthost] [error] TypeError: Converting circular structure to JSON
+    --> starting at object with constructor 't'
+    |     property '_readableState' -> object with constructor 'x'
+    |     property 'pipes' -> object with constructor 'Array'
+    |     index 0 -> object with constructor 't.ConsoleForElectron'
+    --- property 'parent' closes the circle
+    at JSON.stringify (<anonymous>)
+    at /home/brettm/.vscode/extensions/vscodevim.vim-1.21.7/src/register/register.ts:357:16
+    at process.async (internal/process/task_queues.js:93:5)
+    at Object.e.deactivate (/home/brettm/.vscode/extensions/vscodevim.vim-1.21.7/extension.ts:36:8)
+    at async Promise.all (index 40)
+    at v.deactivateAll (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:99:10017)
+[2021-09-15 06:11:12.515] [exthost] [info] exiting with code 0
+[2021-09-15 06:11:13.543] [exthost] [info] extension host started
+[2021-09-15 06:11:13.543] [exthost] [info] Skipping acquiring lock for /home/brettm/.config/Code/User/workspaceStorage/0ddf65a050de30d3ab11b84c640ed530.
+[2021-09-15 06:11:13.663] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":false,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"onAuthenticationRequest:microsoft"}
+[2021-09-15 06:11:13.664] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2021-09-15 06:11:13.701] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"extensionId":{"value":"vscode.configuration-editing","_lower":"vscode.configuration-editing"},"activationEvent":"onLanguage:jsonc"}
+[2021-09-15 06:11:13.701] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/configuration-editing/dist/configurationEditingMain
+[2021-09-15 06:11:13.706] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2021-09-15 06:11:13.706] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain
+[2021-09-15 06:11:13.762] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2021-09-15 06:11:13.763] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension
+[2021-09-15 06:11:13.798] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-09-15 06:11:13.798] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/debug-auto-launch/dist/extension
+[2021-09-15 06:11:13.800] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-09-15 06:11:13.801] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/git/dist/main
+[2021-09-15 06:11:13.856] [exthost] [info] ExtensionService#_doActivateExtension alefragnani.project-manager {"startup":true,"extensionId":{"value":"alefragnani.project-manager","_lower":"alefragnani.project-manager"},"activationEvent":"*"}
+[2021-09-15 06:11:13.856] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/alefragnani.project-manager-12.4.0/dist/extension
+[2021-09-15 06:11:13.868] [exthost] [info] ExtensionService#_doActivateExtension byCedric.vscode-expo {"startup":true,"extensionId":{"value":"byCedric.vscode-expo","_lower":"bycedric.vscode-expo"},"activationEvent":"*"}
+[2021-09-15 06:11:13.868] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/bycedric.vscode-expo-0.7.3/out/src/extension.js
+[2021-09-15 06:11:14.574] [exthost] [info] ExtensionService#_doActivateExtension EditorConfig.EditorConfig {"startup":true,"extensionId":{"value":"EditorConfig.EditorConfig","_lower":"editorconfig.editorconfig"},"activationEvent":"*"}
+[2021-09-15 06:11:14.574] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/editorconfig.editorconfig-0.16.4/out/editorConfigMain.js
+[2021-09-15 06:11:14.583] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag {"startup":true,"extensionId":{"value":"formulahendry.auto-close-tag","_lower":"formulahendry.auto-close-tag"},"activationEvent":"*"}
+[2021-09-15 06:11:14.584] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/formulahendry.auto-close-tag-0.5.12/out/src/extension
+[2021-09-15 06:11:14.584] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag {"startup":true,"extensionId":{"value":"formulahendry.auto-rename-tag","_lower":"formulahendry.auto-rename-tag"},"activationEvent":"*"}
+[2021-09-15 06:11:14.585] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/formulahendry.auto-rename-tag-0.1.8/packages/extension/dist/extensionMain.js
+[2021-09-15 06:11:14.603] [exthost] [info] ExtensionService#_doActivateExtension GitHub.copilot {"startup":true,"extensionId":{"value":"GitHub.copilot","_lower":"github.copilot"},"activationEvent":"*"}
+[2021-09-15 06:11:14.603] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/github.copilot-1.4.2655/dist/extension
+[2021-09-15 06:11:14.710] [exthost] [info] ExtensionService#_doActivateExtension GitHub.vscode-pull-request-github {"startup":true,"extensionId":{"value":"GitHub.vscode-pull-request-github","_lower":"github.vscode-pull-request-github"},"activationEvent":"*"}
+[2021-09-15 06:11:14.710] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/github.vscode-pull-request-github-0.30.0/dist/extension
+[2021-09-15 06:11:14.784] [exthost] [info] ExtensionService#_doActivateExtension iocave.monkey-patch {"startup":true,"extensionId":{"value":"iocave.monkey-patch","_lower":"iocave.monkey-patch"},"activationEvent":"*"}
+[2021-09-15 06:11:14.784] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/iocave.monkey-patch-0.1.15/out/extension.js
+[2021-09-15 06:11:14.787] [exthost] [info] ExtensionService#_doActivateExtension KnisterPeter.vscode-github {"startup":true,"extensionId":{"value":"KnisterPeter.vscode-github","_lower":"knisterpeter.vscode-github"},"activationEvent":"*"}
+[2021-09-15 06:11:14.787] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/knisterpeter.vscode-github-0.30.6/out/src/main
+[2021-09-15 06:11:14.869] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme {"startup":true,"extensionId":{"value":"PKief.material-icon-theme","_lower":"pkief.material-icon-theme"},"activationEvent":"*"}
+[2021-09-15 06:11:14.869] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/pkief.material-icon-theme-4.10.0/dist/extension
+[2021-09-15 06:11:14.888] [exthost] [info] ExtensionService#_doActivateExtension streetsidesoftware.code-spell-checker {"startup":true,"extensionId":{"value":"streetsidesoftware.code-spell-checker","_lower":"streetsidesoftware.code-spell-checker"},"activationEvent":"*"}
+[2021-09-15 06:11:14.888] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/streetsidesoftware.code-spell-checker-2.0.4/packages/client/dist/extension.js
+[2021-09-15 06:11:14.940] [exthost] [info] ExtensionService#_doActivateExtension vscodevim.vim {"startup":true,"extensionId":{"value":"vscodevim.vim","_lower":"vscodevim.vim"},"activationEvent":"*"}
+[2021-09-15 06:11:14.940] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/vscodevim.vim-1.21.7/out/extension
+[2021-09-15 06:11:15.014] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":true,"extensionId":{"value":"vscode.npm","_lower":"vscode.npm"},"activationEvent":"workspaceContains:package.json"}
+[2021-09-15 06:11:15.014] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/npm/dist/npmMain
+[2021-09-15 06:11:15.061] [exthost] [info] ExtensionService#_doActivateExtension apollographql.vscode-apollo {"startup":true,"extensionId":{"value":"apollographql.vscode-apollo","_lower":"apollographql.vscode-apollo"},"activationEvent":"workspaceContains:**/apollo.config.[jt]s"}
+[2021-09-15 06:11:15.061] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/apollographql.vscode-apollo-1.19.4/lib/extension
+[2021-09-15 06:11:15.560] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":false,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"onAuthenticationRequest:github"}
+[2021-09-15 06:11:15.560] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/github-authentication/dist/extension.js
+[2021-09-15 06:11:15.694] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-09-15 06:11:15.694] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2021-09-15 06:11:15.875] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":false,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-09-15 06:11:15.875] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/github/dist/extension.js
+[2021-09-15 06:11:15.880] [exthost] [info] ExtensionService#_doActivateExtension iocave.customize-ui {"startup":false,"extensionId":{"value":"iocave.customize-ui","_lower":"iocave.customize-ui"},"activationEvent":"*"}
+[2021-09-15 06:11:15.880] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/iocave.customize-ui-0.1.54/out/extension.js
+[2021-09-15 06:11:17.055] [exthost] [info] eager extensions activated
+[2021-09-15 06:11:17.061] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onStartupFinished"}
+[2021-09-15 06:11:17.061] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2021-09-15 06:11:17.073] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":false,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"onStartupFinished"}
+[2021-09-15 06:11:17.073] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2021-09-15 06:11:17.076] [exthost] [info] ExtensionService#_doActivateExtension CoenraadS.bracket-pair-colorizer-2 {"startup":false,"extensionId":{"value":"CoenraadS.bracket-pair-colorizer-2","_lower":"coenraads.bracket-pair-colorizer-2"},"activationEvent":"onStartupFinished"}
+[2021-09-15 06:11:17.076] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/coenraads.bracket-pair-colorizer-2-0.2.1/out/src/extension
+[2021-09-15 06:11:17.085] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":false,"extensionId":{"value":"dbaeumer.vscode-eslint","_lower":"dbaeumer.vscode-eslint"},"activationEvent":"onStartupFinished"}
+[2021-09-15 06:11:17.085] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/client/out/extension
+[2021-09-15 06:11:17.111] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":false,"extensionId":{"value":"esbenp.prettier-vscode","_lower":"esbenp.prettier-vscode"},"activationEvent":"onStartupFinished"}
+[2021-09-15 06:11:17.111] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/esbenp.prettier-vscode-8.1.0/dist/extension
+[2021-09-15 06:11:17.204] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-containers {"startup":false,"extensionId":{"value":"ms-vscode-remote.remote-containers","_lower":"ms-vscode-remote.remote-containers"},"activationEvent":"onStartupFinished"}
+[2021-09-15 06:11:17.204] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/ms-vscode-remote.remote-containers-0.194.0/dist/extension/extension
+[2021-09-15 06:11:40.657] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"extensionId":{"value":"vscode.extension-editing","_lower":"vscode.extension-editing"},"activationEvent":"onLanguage:json"}
+[2021-09-15 06:11:40.657] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/extension-editing/dist/extensionEditingMain
+[2021-09-15 06:11:40.676] [exthost] [info] ExtensionService#_doActivateExtension pflannery.vscode-versionlens {"startup":false,"extensionId":{"value":"pflannery.vscode-versionlens","_lower":"pflannery.vscode-versionlens"},"activationEvent":"onLanguage:json"}
+[2021-09-15 06:11:40.676] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/pflannery.vscode-versionlens-1.0.9/dist/extension.bundle.js
+[2021-09-15 06:12:14.915] [exthost] [info] ExtensionService#_doActivateExtension Cardinal90.multi-cursor-case-preserve {"startup":false,"extensionId":{"value":"Cardinal90.multi-cursor-case-preserve","_lower":"cardinal90.multi-cursor-case-preserve"},"activationEvent":"*"}
+[2021-09-15 06:12:14.915] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/cardinal90.multi-cursor-case-preserve-1.0.5/src/extension
+[2021-09-15 06:13:25.115] [exthost] [info] ExtensionService#_doActivateExtension sburg.vscode-javascript-booster {"startup":false,"extensionId":{"value":"sburg.vscode-javascript-booster","_lower":"sburg.vscode-javascript-booster"},"activationEvent":"onLanguage:javascript"}
+[2021-09-15 06:13:25.115] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/sburg.vscode-javascript-booster-14.0.1/dist/extension
+[2021-09-15 06:14:38.137] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-language-features {"startup":false,"extensionId":{"value":"vscode.markdown-language-features","_lower":"vscode.markdown-language-features"},"activationEvent":"onLanguage:markdown"}
+[2021-09-15 06:14:38.138] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/markdown-language-features/dist/extension
+[2021-09-15 06:17:25.667] [exthost] [info] extension host terminating: renderer closed the socket
+[2021-09-15 06:17:26.714] [exthost] [info] exiting with code 0
+[2021-09-15 06:17:27.501] [exthost] [info] extension host started
+[2021-09-15 06:17:27.501] [exthost] [info] Skipping acquiring lock for /home/brettm/.config/Code/User/workspaceStorage/397ee90861cd50e1ba9de020407d2a5f.
+[2021-09-15 06:17:27.541] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":false,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"onAuthenticationRequest:microsoft"}
+[2021-09-15 06:17:27.541] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2021-09-15 06:17:27.570] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-09-15 06:17:27.570] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/debug-auto-launch/dist/extension
+[2021-09-15 06:17:27.572] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-09-15 06:17:27.572] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/git/dist/main
+[2021-09-15 06:17:27.628] [exthost] [info] ExtensionService#_doActivateExtension alefragnani.project-manager {"startup":true,"extensionId":{"value":"alefragnani.project-manager","_lower":"alefragnani.project-manager"},"activationEvent":"*"}
+[2021-09-15 06:17:27.628] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/alefragnani.project-manager-12.4.0/dist/extension
+[2021-09-15 06:17:27.638] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag {"startup":true,"extensionId":{"value":"formulahendry.auto-close-tag","_lower":"formulahendry.auto-close-tag"},"activationEvent":"*"}
+[2021-09-15 06:17:27.638] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/formulahendry.auto-close-tag-0.5.12/out/src/extension
+[2021-09-15 06:17:27.639] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag {"startup":true,"extensionId":{"value":"formulahendry.auto-rename-tag","_lower":"formulahendry.auto-rename-tag"},"activationEvent":"*"}
+[2021-09-15 06:17:27.639] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/formulahendry.auto-rename-tag-0.1.8/packages/extension/dist/extensionMain.js
+[2021-09-15 06:17:27.657] [exthost] [info] ExtensionService#_doActivateExtension GitHub.vscode-pull-request-github {"startup":true,"extensionId":{"value":"GitHub.vscode-pull-request-github","_lower":"github.vscode-pull-request-github"},"activationEvent":"*"}
+[2021-09-15 06:17:27.657] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/github.vscode-pull-request-github-0.30.0/dist/extension
+[2021-09-15 06:17:27.718] [exthost] [info] ExtensionService#_doActivateExtension iocave.monkey-patch {"startup":true,"extensionId":{"value":"iocave.monkey-patch","_lower":"iocave.monkey-patch"},"activationEvent":"*"}
+[2021-09-15 06:17:27.718] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/iocave.monkey-patch-0.1.15/out/extension.js
+[2021-09-15 06:17:27.721] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme {"startup":true,"extensionId":{"value":"PKief.material-icon-theme","_lower":"pkief.material-icon-theme"},"activationEvent":"*"}
+[2021-09-15 06:17:27.722] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/pkief.material-icon-theme-4.10.0/dist/extension
+[2021-09-15 06:17:27.733] [exthost] [info] ExtensionService#_doActivateExtension vscodevim.vim {"startup":true,"extensionId":{"value":"vscodevim.vim","_lower":"vscodevim.vim"},"activationEvent":"*"}
+[2021-09-15 06:17:27.733] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/vscodevim.vim-1.21.7/out/extension
+[2021-09-15 06:17:28.122] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-09-15 06:17:28.122] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/github/dist/extension.js
+[2021-09-15 06:17:28.132] [exthost] [info] ExtensionService#_doActivateExtension iocave.customize-ui {"startup":true,"extensionId":{"value":"iocave.customize-ui","_lower":"iocave.customize-ui"},"activationEvent":"*"}
+[2021-09-15 06:17:28.132] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/iocave.customize-ui-0.1.54/out/extension.js
+[2021-09-15 06:17:28.145] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":false,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"onAuthenticationRequest:github"}
+[2021-09-15 06:17:28.145] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/github-authentication/dist/extension.js
+[2021-09-15 06:17:28.177] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-09-15 06:17:28.177] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2021-09-15 06:17:28.348] [exthost] [info] eager extensions activated
+[2021-09-15 06:17:28.364] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onStartupFinished"}
+[2021-09-15 06:17:28.364] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2021-09-15 06:17:28.375] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":false,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"onStartupFinished"}
+[2021-09-15 06:17:28.375] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2021-09-15 06:17:28.378] [exthost] [info] ExtensionService#_doActivateExtension CoenraadS.bracket-pair-colorizer-2 {"startup":false,"extensionId":{"value":"CoenraadS.bracket-pair-colorizer-2","_lower":"coenraads.bracket-pair-colorizer-2"},"activationEvent":"onStartupFinished"}
+[2021-09-15 06:17:28.378] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/coenraads.bracket-pair-colorizer-2-0.2.1/out/src/extension
+[2021-09-15 06:17:28.387] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":false,"extensionId":{"value":"dbaeumer.vscode-eslint","_lower":"dbaeumer.vscode-eslint"},"activationEvent":"onStartupFinished"}
+[2021-09-15 06:17:28.387] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/client/out/extension
+[2021-09-15 06:17:28.410] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":false,"extensionId":{"value":"esbenp.prettier-vscode","_lower":"esbenp.prettier-vscode"},"activationEvent":"onStartupFinished"}
+[2021-09-15 06:17:28.410] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/esbenp.prettier-vscode-8.1.0/dist/extension
+[2021-09-15 06:17:28.499] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-containers {"startup":false,"extensionId":{"value":"ms-vscode-remote.remote-containers","_lower":"ms-vscode-remote.remote-containers"},"activationEvent":"onStartupFinished"}
+[2021-09-15 06:17:28.499] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/ms-vscode-remote.remote-containers-0.194.0/dist/extension/extension
+[2021-09-15 06:17:28.604] [exthost] [info] ExtensionService#_doActivateExtension byCedric.vscode-expo {"startup":false,"extensionId":{"value":"byCedric.vscode-expo","_lower":"bycedric.vscode-expo"},"activationEvent":"*"}
+[2021-09-15 06:17:28.604] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/bycedric.vscode-expo-0.7.3/out/src/extension.js
+[2021-09-15 06:17:29.252] [exthost] [info] ExtensionService#_doActivateExtension Cardinal90.multi-cursor-case-preserve {"startup":false,"extensionId":{"value":"Cardinal90.multi-cursor-case-preserve","_lower":"cardinal90.multi-cursor-case-preserve"},"activationEvent":"*"}
+[2021-09-15 06:17:29.252] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/cardinal90.multi-cursor-case-preserve-1.0.5/src/extension
+[2021-09-15 06:17:29.252] [exthost] [info] ExtensionService#_doActivateExtension EditorConfig.EditorConfig {"startup":false,"extensionId":{"value":"EditorConfig.EditorConfig","_lower":"editorconfig.editorconfig"},"activationEvent":"*"}
+[2021-09-15 06:17:29.252] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/editorconfig.editorconfig-0.16.4/out/editorConfigMain.js
+[2021-09-15 06:17:29.260] [exthost] [info] ExtensionService#_doActivateExtension GitHub.copilot {"startup":false,"extensionId":{"value":"GitHub.copilot","_lower":"github.copilot"},"activationEvent":"*"}
+[2021-09-15 06:17:29.260] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/github.copilot-1.4.2655/dist/extension
+[2021-09-15 06:17:29.346] [exthost] [info] ExtensionService#_doActivateExtension KnisterPeter.vscode-github {"startup":false,"extensionId":{"value":"KnisterPeter.vscode-github","_lower":"knisterpeter.vscode-github"},"activationEvent":"*"}
+[2021-09-15 06:17:29.346] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/knisterpeter.vscode-github-0.30.6/out/src/main
+[2021-09-15 06:17:29.423] [exthost] [info] ExtensionService#_doActivateExtension streetsidesoftware.code-spell-checker {"startup":false,"extensionId":{"value":"streetsidesoftware.code-spell-checker","_lower":"streetsidesoftware.code-spell-checker"},"activationEvent":"*"}
+[2021-09-15 06:17:29.423] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/streetsidesoftware.code-spell-checker-2.0.4/packages/client/dist/extension.js
+[2021-09-15 06:17:30.776] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"extensionId":{"value":"vscode.configuration-editing","_lower":"vscode.configuration-editing"},"activationEvent":"onLanguage:jsonc"}
+[2021-09-15 06:17:30.776] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/configuration-editing/dist/configurationEditingMain
+[2021-09-15 06:17:30.780] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2021-09-15 06:17:30.780] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain
+[2021-09-15 06:17:30.847] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2021-09-15 06:17:30.848] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension
+[2021-09-15 06:17:46.455] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"extensionId":{"value":"vscode.extension-editing","_lower":"vscode.extension-editing"},"activationEvent":"onLanguage:typescript"}
+[2021-09-15 06:17:46.455] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/extension-editing/dist/extensionEditingMain
+[2021-09-15 06:17:46.467] [exthost] [info] ExtensionService#_doActivateExtension sburg.vscode-javascript-booster {"startup":false,"extensionId":{"value":"sburg.vscode-javascript-booster","_lower":"sburg.vscode-javascript-booster"},"activationEvent":"onLanguage:typescript"}
+[2021-09-15 06:17:46.467] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/sburg.vscode-javascript-booster-14.0.1/dist/extension
+[2021-09-15 06:21:02.400] [exthost] [info] extension host terminating: renderer closed the socket
+[2021-09-15 06:21:02.795] [exthost] [error] TypeError: Converting circular structure to JSON
+    --> starting at object with constructor 't'
+    |     property '_readableState' -> object with constructor 'x'
+    |     property 'pipes' -> object with constructor 'Array'
+    |     index 0 -> object with constructor 't.ConsoleForElectron'
+    --- property 'parent' closes the circle
+    at JSON.stringify (<anonymous>)
+    at async (/home/brettm/.vscode/extensions/vscodevim.vim-1.21.7/src/register/register.ts:357:16)
+    at Object.e.deactivate (/home/brettm/.vscode/extensions/vscodevim.vim-1.21.7/extension.ts:36:8)
+    at async Promise.all (index 30)
+    at v.deactivateAll (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:99:10017)
+[2021-09-15 06:21:03.424] [exthost] [info] exiting with code 0
+[2021-09-15 06:21:04.104] [exthost] [info] extension host started
+[2021-09-15 06:21:04.104] [exthost] [info] Skipping acquiring lock for /home/brettm/.config/Code/User/workspaceStorage/533c38d7d65ab609da189d560793d11f.
+[2021-09-15 06:21:04.249] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":false,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"onAuthenticationRequest:microsoft"}
+[2021-09-15 06:21:04.249] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2021-09-15 06:21:04.280] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-09-15 06:21:04.281] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/debug-auto-launch/dist/extension
+[2021-09-15 06:21:04.283] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-09-15 06:21:04.283] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/git/dist/main
+[2021-09-15 06:21:04.349] [exthost] [info] ExtensionService#_doActivateExtension alefragnani.project-manager {"startup":true,"extensionId":{"value":"alefragnani.project-manager","_lower":"alefragnani.project-manager"},"activationEvent":"*"}
+[2021-09-15 06:21:04.349] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/alefragnani.project-manager-12.4.0/dist/extension
+[2021-09-15 06:21:04.361] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag {"startup":true,"extensionId":{"value":"formulahendry.auto-close-tag","_lower":"formulahendry.auto-close-tag"},"activationEvent":"*"}
+[2021-09-15 06:21:04.361] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/formulahendry.auto-close-tag-0.5.12/out/src/extension
+[2021-09-15 06:21:04.363] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag {"startup":true,"extensionId":{"value":"formulahendry.auto-rename-tag","_lower":"formulahendry.auto-rename-tag"},"activationEvent":"*"}
+[2021-09-15 06:21:04.363] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/formulahendry.auto-rename-tag-0.1.8/packages/extension/dist/extensionMain.js
+[2021-09-15 06:21:04.382] [exthost] [info] ExtensionService#_doActivateExtension GitHub.vscode-pull-request-github {"startup":true,"extensionId":{"value":"GitHub.vscode-pull-request-github","_lower":"github.vscode-pull-request-github"},"activationEvent":"*"}
+[2021-09-15 06:21:04.383] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/github.vscode-pull-request-github-0.30.0/dist/extension
+[2021-09-15 06:21:04.438] [exthost] [info] ExtensionService#_doActivateExtension iocave.monkey-patch {"startup":true,"extensionId":{"value":"iocave.monkey-patch","_lower":"iocave.monkey-patch"},"activationEvent":"*"}
+[2021-09-15 06:21:04.439] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/iocave.monkey-patch-0.1.15/out/extension.js
+[2021-09-15 06:21:04.442] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme {"startup":true,"extensionId":{"value":"PKief.material-icon-theme","_lower":"pkief.material-icon-theme"},"activationEvent":"*"}
+[2021-09-15 06:21:04.442] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/pkief.material-icon-theme-4.10.0/dist/extension
+[2021-09-15 06:21:04.454] [exthost] [info] ExtensionService#_doActivateExtension vscodevim.vim {"startup":true,"extensionId":{"value":"vscodevim.vim","_lower":"vscodevim.vim"},"activationEvent":"*"}
+[2021-09-15 06:21:04.454] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/vscodevim.vim-1.21.7/out/extension
+[2021-09-15 06:21:04.667] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":false,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"onAuthenticationRequest:github"}
+[2021-09-15 06:21:04.667] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/github-authentication/dist/extension.js
+[2021-09-15 06:21:04.697] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-09-15 06:21:04.697] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2021-09-15 06:21:04.868] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":false,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-09-15 06:21:04.868] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/github/dist/extension.js
+[2021-09-15 06:21:04.874] [exthost] [info] ExtensionService#_doActivateExtension iocave.customize-ui {"startup":false,"extensionId":{"value":"iocave.customize-ui","_lower":"iocave.customize-ui"},"activationEvent":"*"}
+[2021-09-15 06:21:04.874] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/iocave.customize-ui-0.1.54/out/extension.js
+[2021-09-15 06:21:04.931] [exthost] [info] eager extensions activated
+[2021-09-15 06:21:05.097] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onStartupFinished"}
+[2021-09-15 06:21:05.097] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2021-09-15 06:21:05.109] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":false,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"onStartupFinished"}
+[2021-09-15 06:21:05.109] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2021-09-15 06:21:05.112] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":false,"extensionId":{"value":"esbenp.prettier-vscode","_lower":"esbenp.prettier-vscode"},"activationEvent":"onStartupFinished"}
+[2021-09-15 06:21:05.112] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/esbenp.prettier-vscode-8.1.0/dist/extension
+[2021-09-15 06:21:05.193] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-containers {"startup":false,"extensionId":{"value":"ms-vscode-remote.remote-containers","_lower":"ms-vscode-remote.remote-containers"},"activationEvent":"onStartupFinished"}
+[2021-09-15 06:21:05.193] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/ms-vscode-remote.remote-containers-0.194.0/dist/extension/extension
+[2021-09-15 06:21:05.361] [exthost] [info] ExtensionService#_doActivateExtension byCedric.vscode-expo {"startup":false,"extensionId":{"value":"byCedric.vscode-expo","_lower":"bycedric.vscode-expo"},"activationEvent":"*"}
+[2021-09-15 06:21:05.361] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/bycedric.vscode-expo-0.7.3/out/src/extension.js
+[2021-09-15 06:21:06.033] [exthost] [info] ExtensionService#_doActivateExtension Cardinal90.multi-cursor-case-preserve {"startup":false,"extensionId":{"value":"Cardinal90.multi-cursor-case-preserve","_lower":"cardinal90.multi-cursor-case-preserve"},"activationEvent":"*"}
+[2021-09-15 06:21:06.033] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/cardinal90.multi-cursor-case-preserve-1.0.5/src/extension
+[2021-09-15 06:21:06.034] [exthost] [info] ExtensionService#_doActivateExtension CoenraadS.bracket-pair-colorizer-2 {"startup":false,"extensionId":{"value":"CoenraadS.bracket-pair-colorizer-2","_lower":"coenraads.bracket-pair-colorizer-2"},"activationEvent":"onStartupFinished"}
+[2021-09-15 06:21:06.034] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/coenraads.bracket-pair-colorizer-2-0.2.1/out/src/extension
+[2021-09-15 06:21:06.042] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":false,"extensionId":{"value":"dbaeumer.vscode-eslint","_lower":"dbaeumer.vscode-eslint"},"activationEvent":"onStartupFinished"}
+[2021-09-15 06:21:06.042] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/client/out/extension
+[2021-09-15 06:21:06.066] [exthost] [info] ExtensionService#_doActivateExtension EditorConfig.EditorConfig {"startup":false,"extensionId":{"value":"EditorConfig.EditorConfig","_lower":"editorconfig.editorconfig"},"activationEvent":"*"}
+[2021-09-15 06:21:06.066] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/editorconfig.editorconfig-0.16.4/out/editorConfigMain.js
+[2021-09-15 06:21:06.074] [exthost] [info] ExtensionService#_doActivateExtension GitHub.copilot {"startup":false,"extensionId":{"value":"GitHub.copilot","_lower":"github.copilot"},"activationEvent":"*"}
+[2021-09-15 06:21:06.074] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/github.copilot-1.4.2655/dist/extension
+[2021-09-15 06:21:06.163] [exthost] [info] ExtensionService#_doActivateExtension KnisterPeter.vscode-github {"startup":false,"extensionId":{"value":"KnisterPeter.vscode-github","_lower":"knisterpeter.vscode-github"},"activationEvent":"*"}
+[2021-09-15 06:21:06.163] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/knisterpeter.vscode-github-0.30.6/out/src/main
+[2021-09-15 06:21:06.243] [exthost] [info] ExtensionService#_doActivateExtension streetsidesoftware.code-spell-checker {"startup":false,"extensionId":{"value":"streetsidesoftware.code-spell-checker","_lower":"streetsidesoftware.code-spell-checker"},"activationEvent":"*"}
+[2021-09-15 06:21:06.243] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/streetsidesoftware.code-spell-checker-2.0.4/packages/client/dist/extension.js
+[2021-09-15 06:21:07.525] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"extensionId":{"value":"vscode.configuration-editing","_lower":"vscode.configuration-editing"},"activationEvent":"onLanguage:jsonc"}
+[2021-09-15 06:21:07.525] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/configuration-editing/dist/configurationEditingMain
+[2021-09-15 06:21:07.535] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2021-09-15 06:21:07.535] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain
+[2021-09-15 06:21:07.610] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2021-09-15 06:21:07.610] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension
+[2021-09-15 06:21:17.716] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"extensionId":{"value":"vscode.extension-editing","_lower":"vscode.extension-editing"},"activationEvent":"onLanguage:typescript"}
+[2021-09-15 06:21:17.716] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/extension-editing/dist/extensionEditingMain
+[2021-09-15 06:21:17.732] [exthost] [info] ExtensionService#_doActivateExtension sburg.vscode-javascript-booster {"startup":false,"extensionId":{"value":"sburg.vscode-javascript-booster","_lower":"sburg.vscode-javascript-booster"},"activationEvent":"onLanguage:typescript"}
+[2021-09-15 06:21:17.732] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/sburg.vscode-javascript-booster-14.0.1/dist/extension
+[2021-09-15 06:25:07.967] [exthost] [info] extension host terminating: renderer closed the socket
+[2021-09-15 06:25:08.332] [exthost] [error] TypeError: Converting circular structure to JSON
+    --> starting at object with constructor 't'
+    |     property '_readableState' -> object with constructor 'x'
+    |     property 'pipes' -> object with constructor 'Array'
+    |     index 0 -> object with constructor 't.ConsoleForElectron'
+    --- property 'parent' closes the circle
+    at JSON.stringify (<anonymous>)
+    at async (/home/brettm/.vscode/extensions/vscodevim.vim-1.21.7/src/register/register.ts:357:16)
+    at Object.e.deactivate (/home/brettm/.vscode/extensions/vscodevim.vim-1.21.7/extension.ts:36:8)
+    at async Promise.all (index 30)
+    at v.deactivateAll (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:99:10017)
+[2021-09-15 06:25:09.014] [exthost] [info] exiting with code 0
+[2021-09-15 06:25:09.658] [exthost] [info] extension host started
+[2021-09-15 06:25:09.659] [exthost] [info] Skipping acquiring lock for /home/brettm/.config/Code/User/workspaceStorage/183dfdde0ce7d60140b6cd91b86b8f54.
+[2021-09-15 06:25:09.694] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":false,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"onAuthenticationRequest:microsoft"}
+[2021-09-15 06:25:09.694] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2021-09-15 06:25:09.723] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-09-15 06:25:09.723] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/debug-auto-launch/dist/extension
+[2021-09-15 06:25:09.725] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-09-15 06:25:09.725] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/git/dist/main
+[2021-09-15 06:25:09.781] [exthost] [info] ExtensionService#_doActivateExtension alefragnani.project-manager {"startup":true,"extensionId":{"value":"alefragnani.project-manager","_lower":"alefragnani.project-manager"},"activationEvent":"*"}
+[2021-09-15 06:25:09.781] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/alefragnani.project-manager-12.4.0/dist/extension
+[2021-09-15 06:25:09.791] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag {"startup":true,"extensionId":{"value":"formulahendry.auto-close-tag","_lower":"formulahendry.auto-close-tag"},"activationEvent":"*"}
+[2021-09-15 06:25:09.791] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/formulahendry.auto-close-tag-0.5.12/out/src/extension
+[2021-09-15 06:25:09.792] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag {"startup":true,"extensionId":{"value":"formulahendry.auto-rename-tag","_lower":"formulahendry.auto-rename-tag"},"activationEvent":"*"}
+[2021-09-15 06:25:09.793] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/formulahendry.auto-rename-tag-0.1.8/packages/extension/dist/extensionMain.js
+[2021-09-15 06:25:09.810] [exthost] [info] ExtensionService#_doActivateExtension GitHub.vscode-pull-request-github {"startup":true,"extensionId":{"value":"GitHub.vscode-pull-request-github","_lower":"github.vscode-pull-request-github"},"activationEvent":"*"}
+[2021-09-15 06:25:09.810] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/github.vscode-pull-request-github-0.30.0/dist/extension
+[2021-09-15 06:25:09.870] [exthost] [info] ExtensionService#_doActivateExtension iocave.monkey-patch {"startup":true,"extensionId":{"value":"iocave.monkey-patch","_lower":"iocave.monkey-patch"},"activationEvent":"*"}
+[2021-09-15 06:25:09.870] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/iocave.monkey-patch-0.1.15/out/extension.js
+[2021-09-15 06:25:09.873] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme {"startup":true,"extensionId":{"value":"PKief.material-icon-theme","_lower":"pkief.material-icon-theme"},"activationEvent":"*"}
+[2021-09-15 06:25:09.873] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/pkief.material-icon-theme-4.10.0/dist/extension
+[2021-09-15 06:25:09.885] [exthost] [info] ExtensionService#_doActivateExtension vscodevim.vim {"startup":true,"extensionId":{"value":"vscodevim.vim","_lower":"vscodevim.vim"},"activationEvent":"*"}
+[2021-09-15 06:25:09.886] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/vscodevim.vim-1.21.7/out/extension
+[2021-09-15 06:25:10.139] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":false,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"onAuthenticationRequest:github"}
+[2021-09-15 06:25:10.139] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/github-authentication/dist/extension.js
+[2021-09-15 06:25:10.172] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-09-15 06:25:10.172] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2021-09-15 06:25:10.336] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":false,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-09-15 06:25:10.336] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/github/dist/extension.js
+[2021-09-15 06:25:10.341] [exthost] [info] ExtensionService#_doActivateExtension iocave.customize-ui {"startup":false,"extensionId":{"value":"iocave.customize-ui","_lower":"iocave.customize-ui"},"activationEvent":"*"}
+[2021-09-15 06:25:10.341] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/iocave.customize-ui-0.1.54/out/extension.js
+[2021-09-15 06:25:10.400] [exthost] [info] eager extensions activated
+[2021-09-15 06:25:10.412] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onStartupFinished"}
+[2021-09-15 06:25:10.412] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2021-09-15 06:25:10.424] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":false,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"onStartupFinished"}
+[2021-09-15 06:25:10.424] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2021-09-15 06:25:10.427] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":false,"extensionId":{"value":"esbenp.prettier-vscode","_lower":"esbenp.prettier-vscode"},"activationEvent":"onStartupFinished"}
+[2021-09-15 06:25:10.427] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/esbenp.prettier-vscode-8.1.0/dist/extension
+[2021-09-15 06:25:10.507] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-containers {"startup":false,"extensionId":{"value":"ms-vscode-remote.remote-containers","_lower":"ms-vscode-remote.remote-containers"},"activationEvent":"onStartupFinished"}
+[2021-09-15 06:25:10.507] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/ms-vscode-remote.remote-containers-0.194.0/dist/extension/extension
+[2021-09-15 06:25:10.655] [exthost] [error] Activating extension esbenp.prettier-vscode failed due to an error:
+[2021-09-15 06:25:10.655] [exthost] [error] TypeError: Cannot assign to read only property 'prettierPath' of object '#<Object>'
+    at Object.getConfig (/home/brettm/.vscode/extensions/esbenp.prettier-vscode-8.1.0/src/util.ts:39:12)
+    at e.activate (/home/brettm/.vscode/extensions/esbenp.prettier-vscode-8.1.0/src/extension.ts:22:39)
+    at Function._callActivateOptional (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:99:14900)
+    at Function._callActivate (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:99:14576)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:99:12779
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async Promise.all (index 0)
+[2021-09-15 06:25:23.112] [exthost] [info] ExtensionService#_doActivateExtension byCedric.vscode-expo {"startup":false,"extensionId":{"value":"byCedric.vscode-expo","_lower":"bycedric.vscode-expo"},"activationEvent":"*"}
+[2021-09-15 06:25:23.113] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/bycedric.vscode-expo-0.7.3/out/src/extension.js
+[2021-09-15 06:25:23.801] [exthost] [info] ExtensionService#_doActivateExtension Cardinal90.multi-cursor-case-preserve {"startup":false,"extensionId":{"value":"Cardinal90.multi-cursor-case-preserve","_lower":"cardinal90.multi-cursor-case-preserve"},"activationEvent":"*"}
+[2021-09-15 06:25:23.801] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/cardinal90.multi-cursor-case-preserve-1.0.5/src/extension
+[2021-09-15 06:25:23.802] [exthost] [info] ExtensionService#_doActivateExtension CoenraadS.bracket-pair-colorizer-2 {"startup":false,"extensionId":{"value":"CoenraadS.bracket-pair-colorizer-2","_lower":"coenraads.bracket-pair-colorizer-2"},"activationEvent":"onStartupFinished"}
+[2021-09-15 06:25:23.802] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/coenraads.bracket-pair-colorizer-2-0.2.1/out/src/extension
+[2021-09-15 06:25:23.811] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":false,"extensionId":{"value":"dbaeumer.vscode-eslint","_lower":"dbaeumer.vscode-eslint"},"activationEvent":"onStartupFinished"}
+[2021-09-15 06:25:23.811] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/client/out/extension
+[2021-09-15 06:25:23.835] [exthost] [info] ExtensionService#_doActivateExtension EditorConfig.EditorConfig {"startup":false,"extensionId":{"value":"EditorConfig.EditorConfig","_lower":"editorconfig.editorconfig"},"activationEvent":"*"}
+[2021-09-15 06:25:23.835] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/editorconfig.editorconfig-0.16.4/out/editorConfigMain.js
+[2021-09-15 06:25:23.843] [exthost] [info] ExtensionService#_doActivateExtension GitHub.copilot {"startup":false,"extensionId":{"value":"GitHub.copilot","_lower":"github.copilot"},"activationEvent":"*"}
+[2021-09-15 06:25:23.843] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/github.copilot-1.4.2655/dist/extension
+[2021-09-15 06:25:23.934] [exthost] [info] ExtensionService#_doActivateExtension KnisterPeter.vscode-github {"startup":false,"extensionId":{"value":"KnisterPeter.vscode-github","_lower":"knisterpeter.vscode-github"},"activationEvent":"*"}
+[2021-09-15 06:25:23.934] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/knisterpeter.vscode-github-0.30.6/out/src/main
+[2021-09-15 06:25:24.027] [exthost] [info] ExtensionService#_doActivateExtension streetsidesoftware.code-spell-checker {"startup":false,"extensionId":{"value":"streetsidesoftware.code-spell-checker","_lower":"streetsidesoftware.code-spell-checker"},"activationEvent":"*"}
+[2021-09-15 06:25:24.027] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/streetsidesoftware.code-spell-checker-2.0.4/packages/client/dist/extension.js
+[2021-09-15 06:25:25.496] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"extensionId":{"value":"vscode.configuration-editing","_lower":"vscode.configuration-editing"},"activationEvent":"onLanguage:jsonc"}
+[2021-09-15 06:25:25.496] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/configuration-editing/dist/configurationEditingMain
+[2021-09-15 06:25:25.508] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2021-09-15 06:25:25.508] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain
+[2021-09-15 06:25:25.601] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2021-09-15 06:25:25.601] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension
+[2021-09-15 06:25:28.283] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"extensionId":{"value":"vscode.extension-editing","_lower":"vscode.extension-editing"},"activationEvent":"onLanguage:typescript"}
+[2021-09-15 06:25:28.283] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/extension-editing/dist/extensionEditingMain
+[2021-09-15 06:25:28.299] [exthost] [info] ExtensionService#_doActivateExtension sburg.vscode-javascript-booster {"startup":false,"extensionId":{"value":"sburg.vscode-javascript-booster","_lower":"sburg.vscode-javascript-booster"},"activationEvent":"onLanguage:typescript"}
+[2021-09-15 06:25:28.299] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/sburg.vscode-javascript-booster-14.0.1/dist/extension
+[2021-09-15 06:33:06.055] [exthost] [info] extension host terminating: renderer closed the socket
+[2021-09-15 06:33:06.453] [exthost] [error] TypeError: Converting circular structure to JSON
+    --> starting at object with constructor 't'
+    |     property '_readableState' -> object with constructor 'x'
+    |     property 'pipes' -> object with constructor 'Array'
+    |     index 0 -> object with constructor 't.ConsoleForElectron'
+    --- property 'parent' closes the circle
+    at JSON.stringify (<anonymous>)
+    at async (/home/brettm/.vscode/extensions/vscodevim.vim-1.21.7/src/register/register.ts:357:16)
+    at Object.e.deactivate (/home/brettm/.vscode/extensions/vscodevim.vim-1.21.7/extension.ts:36:8)
+    at async Promise.all (index 30)
+    at v.deactivateAll (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:99:10017)
+[2021-09-15 06:33:06.487] [exthost] [error] Error: write EPIPE
+    at afterWriteDispatched (internal/stream_base_commons.js:156:25)
+    at writeGeneric (internal/stream_base_commons.js:147:3)
+    at Socket._writeGeneric (net.js:785:11)
+    at Socket._write (net.js:797:8)
+    at writeOrBuffer (internal/streams/writable.js:358:12)
+    at Socket.Writable.write (internal/streams/writable.js:303:10)
+    at v.write (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:465235)
+    at d.write (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:453616)
+    at d.sendRequest (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:456031)
+    at d.sendNextRequests (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:455812)
+    at d.executeImpl (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:455657)
+    at h.execute (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:457223)
+    at g.executeImpl (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:460127)
+    at w.executeImpl (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:500609)
+    at w.executeAsync (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:500463)
+    at new S (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:443834)
+    at Function.executeGetErrRequest (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:444023)
+    at b.sendPendingDiagnostics (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:448400)
+    at t.Delayer.task (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:447740)
+    at /opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:507503
+    at runNextTicks (internal/process/task_queues.js:58:5)
+    at processTimers (internal/timers.js:494:9)
+[2021-09-15 06:33:07.086] [exthost] [info] exiting with code 0
+[2021-09-15 06:33:07.811] [exthost] [info] extension host started
+[2021-09-15 06:33:07.811] [exthost] [info] Skipping acquiring lock for /home/brettm/.config/Code/User/workspaceStorage/aeeb0e679e69d4c03766b9649fb1197a.
+[2021-09-15 06:33:07.894] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":false,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"onAuthenticationRequest:microsoft"}
+[2021-09-15 06:33:07.894] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2021-09-15 06:33:07.923] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-09-15 06:33:07.923] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/debug-auto-launch/dist/extension
+[2021-09-15 06:33:07.926] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-09-15 06:33:07.926] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/git/dist/main
+[2021-09-15 06:33:07.978] [exthost] [info] ExtensionService#_doActivateExtension alefragnani.project-manager {"startup":true,"extensionId":{"value":"alefragnani.project-manager","_lower":"alefragnani.project-manager"},"activationEvent":"*"}
+[2021-09-15 06:33:07.979] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/alefragnani.project-manager-12.4.0/dist/extension
+[2021-09-15 06:33:07.988] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag {"startup":true,"extensionId":{"value":"formulahendry.auto-close-tag","_lower":"formulahendry.auto-close-tag"},"activationEvent":"*"}
+[2021-09-15 06:33:07.988] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/formulahendry.auto-close-tag-0.5.12/out/src/extension
+[2021-09-15 06:33:07.990] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag {"startup":true,"extensionId":{"value":"formulahendry.auto-rename-tag","_lower":"formulahendry.auto-rename-tag"},"activationEvent":"*"}
+[2021-09-15 06:33:07.990] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/formulahendry.auto-rename-tag-0.1.8/packages/extension/dist/extensionMain.js
+[2021-09-15 06:33:08.007] [exthost] [info] ExtensionService#_doActivateExtension GitHub.vscode-pull-request-github {"startup":true,"extensionId":{"value":"GitHub.vscode-pull-request-github","_lower":"github.vscode-pull-request-github"},"activationEvent":"*"}
+[2021-09-15 06:33:08.007] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/github.vscode-pull-request-github-0.30.0/dist/extension
+[2021-09-15 06:33:08.064] [exthost] [info] ExtensionService#_doActivateExtension iocave.monkey-patch {"startup":true,"extensionId":{"value":"iocave.monkey-patch","_lower":"iocave.monkey-patch"},"activationEvent":"*"}
+[2021-09-15 06:33:08.064] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/iocave.monkey-patch-0.1.15/out/extension.js
+[2021-09-15 06:33:08.068] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme {"startup":true,"extensionId":{"value":"PKief.material-icon-theme","_lower":"pkief.material-icon-theme"},"activationEvent":"*"}
+[2021-09-15 06:33:08.068] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/pkief.material-icon-theme-4.10.0/dist/extension
+[2021-09-15 06:33:08.080] [exthost] [info] ExtensionService#_doActivateExtension vscodevim.vim {"startup":true,"extensionId":{"value":"vscodevim.vim","_lower":"vscodevim.vim"},"activationEvent":"*"}
+[2021-09-15 06:33:08.080] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/vscodevim.vim-1.21.7/out/extension
+[2021-09-15 06:33:08.307] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":false,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"onAuthenticationRequest:github"}
+[2021-09-15 06:33:08.308] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/github-authentication/dist/extension.js
+[2021-09-15 06:33:08.339] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-09-15 06:33:08.339] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2021-09-15 06:33:08.499] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":false,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-09-15 06:33:08.499] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/github/dist/extension.js
+[2021-09-15 06:33:08.503] [exthost] [info] ExtensionService#_doActivateExtension iocave.customize-ui {"startup":false,"extensionId":{"value":"iocave.customize-ui","_lower":"iocave.customize-ui"},"activationEvent":"*"}
+[2021-09-15 06:33:08.503] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/iocave.customize-ui-0.1.54/out/extension.js
+[2021-09-15 06:33:08.572] [exthost] [info] eager extensions activated
+[2021-09-15 06:33:08.710] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onStartupFinished"}
+[2021-09-15 06:33:08.710] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2021-09-15 06:33:08.722] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":false,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"onStartupFinished"}
+[2021-09-15 06:33:08.722] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2021-09-15 06:33:08.725] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":false,"extensionId":{"value":"esbenp.prettier-vscode","_lower":"esbenp.prettier-vscode"},"activationEvent":"onStartupFinished"}
+[2021-09-15 06:33:08.725] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/esbenp.prettier-vscode-8.1.0/dist/extension
+[2021-09-15 06:33:08.797] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-containers {"startup":false,"extensionId":{"value":"ms-vscode-remote.remote-containers","_lower":"ms-vscode-remote.remote-containers"},"activationEvent":"onStartupFinished"}
+[2021-09-15 06:33:08.797] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/ms-vscode-remote.remote-containers-0.194.0/dist/extension/extension
+[2021-09-15 06:33:08.970] [exthost] [info] ExtensionService#_doActivateExtension byCedric.vscode-expo {"startup":false,"extensionId":{"value":"byCedric.vscode-expo","_lower":"bycedric.vscode-expo"},"activationEvent":"*"}
+[2021-09-15 06:33:08.970] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/bycedric.vscode-expo-0.7.3/out/src/extension.js
+[2021-09-15 06:33:09.623] [exthost] [info] ExtensionService#_doActivateExtension Cardinal90.multi-cursor-case-preserve {"startup":false,"extensionId":{"value":"Cardinal90.multi-cursor-case-preserve","_lower":"cardinal90.multi-cursor-case-preserve"},"activationEvent":"*"}
+[2021-09-15 06:33:09.623] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/cardinal90.multi-cursor-case-preserve-1.0.5/src/extension
+[2021-09-15 06:33:09.624] [exthost] [info] ExtensionService#_doActivateExtension CoenraadS.bracket-pair-colorizer-2 {"startup":false,"extensionId":{"value":"CoenraadS.bracket-pair-colorizer-2","_lower":"coenraads.bracket-pair-colorizer-2"},"activationEvent":"onStartupFinished"}
+[2021-09-15 06:33:09.624] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/coenraads.bracket-pair-colorizer-2-0.2.1/out/src/extension
+[2021-09-15 06:33:09.632] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":false,"extensionId":{"value":"dbaeumer.vscode-eslint","_lower":"dbaeumer.vscode-eslint"},"activationEvent":"onStartupFinished"}
+[2021-09-15 06:33:09.632] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/client/out/extension
+[2021-09-15 06:33:09.654] [exthost] [info] ExtensionService#_doActivateExtension EditorConfig.EditorConfig {"startup":false,"extensionId":{"value":"EditorConfig.EditorConfig","_lower":"editorconfig.editorconfig"},"activationEvent":"*"}
+[2021-09-15 06:33:09.654] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/editorconfig.editorconfig-0.16.4/out/editorConfigMain.js
+[2021-09-15 06:33:09.662] [exthost] [info] ExtensionService#_doActivateExtension GitHub.copilot {"startup":false,"extensionId":{"value":"GitHub.copilot","_lower":"github.copilot"},"activationEvent":"*"}
+[2021-09-15 06:33:09.662] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/github.copilot-1.4.2655/dist/extension
+[2021-09-15 06:33:09.754] [exthost] [info] ExtensionService#_doActivateExtension KnisterPeter.vscode-github {"startup":false,"extensionId":{"value":"KnisterPeter.vscode-github","_lower":"knisterpeter.vscode-github"},"activationEvent":"*"}
+[2021-09-15 06:33:09.754] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/knisterpeter.vscode-github-0.30.6/out/src/main
+[2021-09-15 06:33:09.828] [exthost] [info] ExtensionService#_doActivateExtension streetsidesoftware.code-spell-checker {"startup":false,"extensionId":{"value":"streetsidesoftware.code-spell-checker","_lower":"streetsidesoftware.code-spell-checker"},"activationEvent":"*"}
+[2021-09-15 06:33:09.828] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/streetsidesoftware.code-spell-checker-2.0.4/packages/client/dist/extension.js
+[2021-09-15 06:33:10.862] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"extensionId":{"value":"vscode.configuration-editing","_lower":"vscode.configuration-editing"},"activationEvent":"onLanguage:jsonc"}
+[2021-09-15 06:33:10.862] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/configuration-editing/dist/configurationEditingMain
+[2021-09-15 06:33:10.868] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2021-09-15 06:33:10.868] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain
+[2021-09-15 06:33:10.938] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2021-09-15 06:33:10.938] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension
+[2021-09-15 06:33:14.158] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"extensionId":{"value":"vscode.extension-editing","_lower":"vscode.extension-editing"},"activationEvent":"onLanguage:typescript"}
+[2021-09-15 06:33:14.158] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/extension-editing/dist/extensionEditingMain
+[2021-09-15 06:33:14.174] [exthost] [info] ExtensionService#_doActivateExtension sburg.vscode-javascript-booster {"startup":false,"extensionId":{"value":"sburg.vscode-javascript-booster","_lower":"sburg.vscode-javascript-booster"},"activationEvent":"onLanguage:typescript"}
+[2021-09-15 06:33:14.174] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/sburg.vscode-javascript-booster-14.0.1/dist/extension
+[2021-09-15 06:39:12.170] [exthost] [info] extension host terminating: renderer closed the socket
+[2021-09-15 06:39:12.594] [exthost] [error] TypeError: Converting circular structure to JSON
+    --> starting at object with constructor 't'
+    |     property '_readableState' -> object with constructor 'x'
+    |     property 'pipes' -> object with constructor 'Array'
+    |     index 0 -> object with constructor 't.ConsoleForElectron'
+    --- property 'parent' closes the circle
+    at JSON.stringify (<anonymous>)
+    at async (/home/brettm/.vscode/extensions/vscodevim.vim-1.21.7/src/register/register.ts:357:16)
+    at Object.e.deactivate (/home/brettm/.vscode/extensions/vscodevim.vim-1.21.7/extension.ts:36:8)
+    at async Promise.all (index 30)
+    at v.deactivateAll (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:99:10017)
+[2021-09-15 06:39:13.199] [exthost] [info] exiting with code 0
+[2021-09-15 06:39:13.891] [exthost] [info] extension host started
+[2021-09-15 06:39:13.891] [exthost] [info] Skipping acquiring lock for /home/brettm/.config/Code/User/workspaceStorage/705e3e38145e1106d19ff1aec9d6469e.
+[2021-09-15 06:39:14.027] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":false,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"onAuthenticationRequest:microsoft"}
+[2021-09-15 06:39:14.027] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2021-09-15 06:39:14.058] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-09-15 06:39:14.058] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/debug-auto-launch/dist/extension
+[2021-09-15 06:39:14.060] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-09-15 06:39:14.060] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/git/dist/main
+[2021-09-15 06:39:14.118] [exthost] [info] ExtensionService#_doActivateExtension alefragnani.project-manager {"startup":true,"extensionId":{"value":"alefragnani.project-manager","_lower":"alefragnani.project-manager"},"activationEvent":"*"}
+[2021-09-15 06:39:14.118] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/alefragnani.project-manager-12.4.0/dist/extension
+[2021-09-15 06:39:14.129] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag {"startup":true,"extensionId":{"value":"formulahendry.auto-close-tag","_lower":"formulahendry.auto-close-tag"},"activationEvent":"*"}
+[2021-09-15 06:39:14.129] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/formulahendry.auto-close-tag-0.5.12/out/src/extension
+[2021-09-15 06:39:14.130] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag {"startup":true,"extensionId":{"value":"formulahendry.auto-rename-tag","_lower":"formulahendry.auto-rename-tag"},"activationEvent":"*"}
+[2021-09-15 06:39:14.130] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/formulahendry.auto-rename-tag-0.1.8/packages/extension/dist/extensionMain.js
+[2021-09-15 06:39:14.145] [exthost] [info] ExtensionService#_doActivateExtension GitHub.vscode-pull-request-github {"startup":true,"extensionId":{"value":"GitHub.vscode-pull-request-github","_lower":"github.vscode-pull-request-github"},"activationEvent":"*"}
+[2021-09-15 06:39:14.146] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/github.vscode-pull-request-github-0.30.0/dist/extension
+[2021-09-15 06:39:14.201] [exthost] [info] ExtensionService#_doActivateExtension iocave.monkey-patch {"startup":true,"extensionId":{"value":"iocave.monkey-patch","_lower":"iocave.monkey-patch"},"activationEvent":"*"}
+[2021-09-15 06:39:14.201] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/iocave.monkey-patch-0.1.15/out/extension.js
+[2021-09-15 06:39:14.204] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme {"startup":true,"extensionId":{"value":"PKief.material-icon-theme","_lower":"pkief.material-icon-theme"},"activationEvent":"*"}
+[2021-09-15 06:39:14.204] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/pkief.material-icon-theme-4.10.0/dist/extension
+[2021-09-15 06:39:14.216] [exthost] [info] ExtensionService#_doActivateExtension vscodevim.vim {"startup":true,"extensionId":{"value":"vscodevim.vim","_lower":"vscodevim.vim"},"activationEvent":"*"}
+[2021-09-15 06:39:14.216] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/vscodevim.vim-1.21.7/out/extension
+[2021-09-15 06:39:14.562] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-09-15 06:39:14.562] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/github/dist/extension.js
+[2021-09-15 06:39:14.568] [exthost] [info] ExtensionService#_doActivateExtension iocave.customize-ui {"startup":true,"extensionId":{"value":"iocave.customize-ui","_lower":"iocave.customize-ui"},"activationEvent":"*"}
+[2021-09-15 06:39:14.568] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/iocave.customize-ui-0.1.54/out/extension.js
+[2021-09-15 06:39:14.639] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":false,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"onAuthenticationRequest:github"}
+[2021-09-15 06:39:14.639] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/github-authentication/dist/extension.js
+[2021-09-15 06:39:14.681] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-09-15 06:39:14.681] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2021-09-15 06:39:14.867] [exthost] [info] eager extensions activated
+[2021-09-15 06:39:14.892] [exthost] [info] ExtensionService#_doActivateExtension byCedric.vscode-expo {"startup":false,"extensionId":{"value":"byCedric.vscode-expo","_lower":"bycedric.vscode-expo"},"activationEvent":"*"}
+[2021-09-15 06:39:14.892] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/bycedric.vscode-expo-0.7.3/out/src/extension.js
+[2021-09-15 06:39:15.557] [exthost] [info] ExtensionService#_doActivateExtension Cardinal90.multi-cursor-case-preserve {"startup":false,"extensionId":{"value":"Cardinal90.multi-cursor-case-preserve","_lower":"cardinal90.multi-cursor-case-preserve"},"activationEvent":"*"}
+[2021-09-15 06:39:15.558] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/cardinal90.multi-cursor-case-preserve-1.0.5/src/extension
+[2021-09-15 06:39:15.559] [exthost] [info] ExtensionService#_doActivateExtension CoenraadS.bracket-pair-colorizer-2 {"startup":false,"extensionId":{"value":"CoenraadS.bracket-pair-colorizer-2","_lower":"coenraads.bracket-pair-colorizer-2"},"activationEvent":"onStartupFinished"}
+[2021-09-15 06:39:15.559] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/coenraads.bracket-pair-colorizer-2-0.2.1/out/src/extension
+[2021-09-15 06:39:15.568] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":false,"extensionId":{"value":"dbaeumer.vscode-eslint","_lower":"dbaeumer.vscode-eslint"},"activationEvent":"onStartupFinished"}
+[2021-09-15 06:39:15.568] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/client/out/extension
+[2021-09-15 06:39:15.592] [exthost] [info] ExtensionService#_doActivateExtension EditorConfig.EditorConfig {"startup":false,"extensionId":{"value":"EditorConfig.EditorConfig","_lower":"editorconfig.editorconfig"},"activationEvent":"*"}
+[2021-09-15 06:39:15.592] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/editorconfig.editorconfig-0.16.4/out/editorConfigMain.js
+[2021-09-15 06:39:15.601] [exthost] [info] ExtensionService#_doActivateExtension GitHub.copilot {"startup":false,"extensionId":{"value":"GitHub.copilot","_lower":"github.copilot"},"activationEvent":"*"}
+[2021-09-15 06:39:15.601] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/github.copilot-1.4.2655/dist/extension
+[2021-09-15 06:39:15.698] [exthost] [info] ExtensionService#_doActivateExtension KnisterPeter.vscode-github {"startup":false,"extensionId":{"value":"KnisterPeter.vscode-github","_lower":"knisterpeter.vscode-github"},"activationEvent":"*"}
+[2021-09-15 06:39:15.698] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/knisterpeter.vscode-github-0.30.6/out/src/main
+[2021-09-15 06:39:15.773] [exthost] [info] ExtensionService#_doActivateExtension streetsidesoftware.code-spell-checker {"startup":false,"extensionId":{"value":"streetsidesoftware.code-spell-checker","_lower":"streetsidesoftware.code-spell-checker"},"activationEvent":"*"}
+[2021-09-15 06:39:15.773] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/streetsidesoftware.code-spell-checker-2.0.4/packages/client/dist/extension.js
+[2021-09-15 06:39:15.816] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onStartupFinished"}
+[2021-09-15 06:39:15.816] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2021-09-15 06:39:15.827] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":false,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"onStartupFinished"}
+[2021-09-15 06:39:15.827] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2021-09-15 06:39:15.830] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":false,"extensionId":{"value":"esbenp.prettier-vscode","_lower":"esbenp.prettier-vscode"},"activationEvent":"onStartupFinished"}
+[2021-09-15 06:39:15.830] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/esbenp.prettier-vscode-8.1.0/dist/extension
+[2021-09-15 06:39:15.922] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-containers {"startup":false,"extensionId":{"value":"ms-vscode-remote.remote-containers","_lower":"ms-vscode-remote.remote-containers"},"activationEvent":"onStartupFinished"}
+[2021-09-15 06:39:15.922] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/ms-vscode-remote.remote-containers-0.194.0/dist/extension/extension
+[2021-09-15 06:39:17.517] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"extensionId":{"value":"vscode.configuration-editing","_lower":"vscode.configuration-editing"},"activationEvent":"onLanguage:jsonc"}
+[2021-09-15 06:39:17.517] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/configuration-editing/dist/configurationEditingMain
+[2021-09-15 06:39:17.530] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2021-09-15 06:39:17.530] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain
+[2021-09-15 06:39:17.589] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2021-09-15 06:39:17.589] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension
+[2021-09-15 06:39:19.996] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"extensionId":{"value":"vscode.extension-editing","_lower":"vscode.extension-editing"},"activationEvent":"onLanguage:typescript"}
+[2021-09-15 06:39:19.996] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/extension-editing/dist/extensionEditingMain
+[2021-09-15 06:39:20.023] [exthost] [info] ExtensionService#_doActivateExtension sburg.vscode-javascript-booster {"startup":false,"extensionId":{"value":"sburg.vscode-javascript-booster","_lower":"sburg.vscode-javascript-booster"},"activationEvent":"onLanguage:typescript"}
+[2021-09-15 06:39:20.023] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/sburg.vscode-javascript-booster-14.0.1/dist/extension
+[2021-09-15 06:59:40.009] [exthost] [info] ExtensionService#_doActivateExtension Jeusto.warm-up-typing-test {"startup":false,"extensionId":{"value":"Jeusto.warm-up-typing-test","_lower":"jeusto.warm-up-typing-test"},"activationEvent":"onStartupFinished"}
+[2021-09-15 06:59:40.009] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/jeusto.warm-up-typing-test-1.0.0/out/extension.js
+[2021-09-15 07:01:12.841] [exthost] [info] extension host terminating: renderer closed the socket
+[2021-09-15 07:01:13.257] [exthost] [error] TypeError: Converting circular structure to JSON
+    --> starting at object with constructor 't'
+    |     property '_readableState' -> object with constructor 'x'
+    |     property 'pipes' -> object with constructor 'Array'
+    |     index 0 -> object with constructor 't.ConsoleForElectron'
+    --- property 'parent' closes the circle
+    at JSON.stringify (<anonymous>)
+    at async (/home/brettm/.vscode/extensions/vscodevim.vim-1.21.7/src/register/register.ts:357:16)
+    at Object.e.deactivate (/home/brettm/.vscode/extensions/vscodevim.vim-1.21.7/extension.ts:36:8)
+    at async Promise.all (index 31)
+    at v.deactivateAll (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:99:10017)
+[2021-09-15 07:01:13.875] [exthost] [info] exiting with code 0
+[2021-09-15 07:01:15.154] [exthost] [info] extension host started
+[2021-09-15 07:01:15.154] [exthost] [info] Skipping acquiring lock for /home/brettm/.config/Code/User/workspaceStorage/0ddf65a050de30d3ab11b84c640ed530.
+[2021-09-15 07:01:15.265] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":false,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"onAuthenticationRequest:microsoft"}
+[2021-09-15 07:01:15.265] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2021-09-15 07:01:15.296] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"extensionId":{"value":"vscode.extension-editing","_lower":"vscode.extension-editing"},"activationEvent":"onLanguage:typescript"}
+[2021-09-15 07:01:15.297] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/extension-editing/dist/extensionEditingMain
+[2021-09-15 07:01:15.307] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:typescript"}
+[2021-09-15 07:01:15.307] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension
+[2021-09-15 07:01:15.346] [exthost] [info] ExtensionService#_doActivateExtension sburg.vscode-javascript-booster {"startup":false,"extensionId":{"value":"sburg.vscode-javascript-booster","_lower":"sburg.vscode-javascript-booster"},"activationEvent":"onLanguage:typescript"}
+[2021-09-15 07:01:15.346] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/sburg.vscode-javascript-booster-14.0.1/dist/extension
+[2021-09-15 07:01:15.361] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-09-15 07:01:15.361] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/debug-auto-launch/dist/extension
+[2021-09-15 07:01:15.364] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-09-15 07:01:15.364] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/git/dist/main
+[2021-09-15 07:01:15.444] [exthost] [info] ExtensionService#_doActivateExtension alefragnani.project-manager {"startup":true,"extensionId":{"value":"alefragnani.project-manager","_lower":"alefragnani.project-manager"},"activationEvent":"*"}
+[2021-09-15 07:01:15.444] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/alefragnani.project-manager-12.4.0/dist/extension
+[2021-09-15 07:01:15.458] [exthost] [info] ExtensionService#_doActivateExtension byCedric.vscode-expo {"startup":true,"extensionId":{"value":"byCedric.vscode-expo","_lower":"bycedric.vscode-expo"},"activationEvent":"*"}
+[2021-09-15 07:01:15.458] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/bycedric.vscode-expo-0.7.3/out/src/extension.js
+[2021-09-15 07:01:16.154] [exthost] [info] ExtensionService#_doActivateExtension Cardinal90.multi-cursor-case-preserve {"startup":true,"extensionId":{"value":"Cardinal90.multi-cursor-case-preserve","_lower":"cardinal90.multi-cursor-case-preserve"},"activationEvent":"*"}
+[2021-09-15 07:01:16.154] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/cardinal90.multi-cursor-case-preserve-1.0.5/src/extension
+[2021-09-15 07:01:16.155] [exthost] [info] ExtensionService#_doActivateExtension EditorConfig.EditorConfig {"startup":true,"extensionId":{"value":"EditorConfig.EditorConfig","_lower":"editorconfig.editorconfig"},"activationEvent":"*"}
+[2021-09-15 07:01:16.155] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/editorconfig.editorconfig-0.16.4/out/editorConfigMain.js
+[2021-09-15 07:01:16.164] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag {"startup":true,"extensionId":{"value":"formulahendry.auto-close-tag","_lower":"formulahendry.auto-close-tag"},"activationEvent":"*"}
+[2021-09-15 07:01:16.164] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/formulahendry.auto-close-tag-0.5.12/out/src/extension
+[2021-09-15 07:01:16.165] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag {"startup":true,"extensionId":{"value":"formulahendry.auto-rename-tag","_lower":"formulahendry.auto-rename-tag"},"activationEvent":"*"}
+[2021-09-15 07:01:16.165] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/formulahendry.auto-rename-tag-0.1.8/packages/extension/dist/extensionMain.js
+[2021-09-15 07:01:16.180] [exthost] [info] ExtensionService#_doActivateExtension GitHub.copilot {"startup":true,"extensionId":{"value":"GitHub.copilot","_lower":"github.copilot"},"activationEvent":"*"}
+[2021-09-15 07:01:16.181] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/github.copilot-1.4.2655/dist/extension
+[2021-09-15 07:01:16.298] [exthost] [info] ExtensionService#_doActivateExtension GitHub.vscode-pull-request-github {"startup":true,"extensionId":{"value":"GitHub.vscode-pull-request-github","_lower":"github.vscode-pull-request-github"},"activationEvent":"*"}
+[2021-09-15 07:01:16.298] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/github.vscode-pull-request-github-0.30.0/dist/extension
+[2021-09-15 07:01:16.369] [exthost] [info] ExtensionService#_doActivateExtension iocave.monkey-patch {"startup":true,"extensionId":{"value":"iocave.monkey-patch","_lower":"iocave.monkey-patch"},"activationEvent":"*"}
+[2021-09-15 07:01:16.369] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/iocave.monkey-patch-0.1.15/out/extension.js
+[2021-09-15 07:01:16.372] [exthost] [info] ExtensionService#_doActivateExtension KnisterPeter.vscode-github {"startup":true,"extensionId":{"value":"KnisterPeter.vscode-github","_lower":"knisterpeter.vscode-github"},"activationEvent":"*"}
+[2021-09-15 07:01:16.372] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/knisterpeter.vscode-github-0.30.6/out/src/main
+[2021-09-15 07:01:16.450] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme {"startup":true,"extensionId":{"value":"PKief.material-icon-theme","_lower":"pkief.material-icon-theme"},"activationEvent":"*"}
+[2021-09-15 07:01:16.450] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/pkief.material-icon-theme-4.10.0/dist/extension
+[2021-09-15 07:01:16.463] [exthost] [info] ExtensionService#_doActivateExtension streetsidesoftware.code-spell-checker {"startup":true,"extensionId":{"value":"streetsidesoftware.code-spell-checker","_lower":"streetsidesoftware.code-spell-checker"},"activationEvent":"*"}
+[2021-09-15 07:01:16.463] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/streetsidesoftware.code-spell-checker-2.0.4/packages/client/dist/extension.js
+[2021-09-15 07:01:16.508] [exthost] [info] ExtensionService#_doActivateExtension vscodevim.vim {"startup":true,"extensionId":{"value":"vscodevim.vim","_lower":"vscodevim.vim"},"activationEvent":"*"}
+[2021-09-15 07:01:16.508] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/vscodevim.vim-1.21.7/out/extension
+[2021-09-15 07:01:16.603] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":true,"extensionId":{"value":"vscode.npm","_lower":"vscode.npm"},"activationEvent":"workspaceContains:package.json"}
+[2021-09-15 07:01:16.603] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/npm/dist/npmMain
+[2021-09-15 07:01:16.642] [exthost] [info] ExtensionService#_doActivateExtension apollographql.vscode-apollo {"startup":true,"extensionId":{"value":"apollographql.vscode-apollo","_lower":"apollographql.vscode-apollo"},"activationEvent":"workspaceContains:**/apollo.config.[jt]s"}
+[2021-09-15 07:01:16.643] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/apollographql.vscode-apollo-1.19.4/lib/extension
+[2021-09-15 07:01:17.189] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":false,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"onAuthenticationRequest:github"}
+[2021-09-15 07:01:17.190] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/github-authentication/dist/extension.js
+[2021-09-15 07:01:17.470] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-09-15 07:01:17.471] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2021-09-15 07:01:17.730] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":false,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-09-15 07:01:17.730] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/github/dist/extension.js
+[2021-09-15 07:01:17.736] [exthost] [info] ExtensionService#_doActivateExtension iocave.customize-ui {"startup":false,"extensionId":{"value":"iocave.customize-ui","_lower":"iocave.customize-ui"},"activationEvent":"*"}
+[2021-09-15 07:01:17.736] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/iocave.customize-ui-0.1.54/out/extension.js
+[2021-09-15 07:01:19.075] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"extensionId":{"value":"vscode.configuration-editing","_lower":"vscode.configuration-editing"},"activationEvent":"onLanguage:jsonc"}
+[2021-09-15 07:01:19.075] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/configuration-editing/dist/configurationEditingMain
+[2021-09-15 07:01:19.081] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2021-09-15 07:01:19.081] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain
+[2021-09-15 07:01:19.136] [exthost] [info] eager extensions activated
+[2021-09-15 07:01:19.162] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onStartupFinished"}
+[2021-09-15 07:01:19.162] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2021-09-15 07:01:19.177] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":false,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"onStartupFinished"}
+[2021-09-15 07:01:19.177] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2021-09-15 07:01:19.181] [exthost] [info] ExtensionService#_doActivateExtension CoenraadS.bracket-pair-colorizer-2 {"startup":false,"extensionId":{"value":"CoenraadS.bracket-pair-colorizer-2","_lower":"coenraads.bracket-pair-colorizer-2"},"activationEvent":"onStartupFinished"}
+[2021-09-15 07:01:19.181] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/coenraads.bracket-pair-colorizer-2-0.2.1/out/src/extension
+[2021-09-15 07:01:19.190] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":false,"extensionId":{"value":"dbaeumer.vscode-eslint","_lower":"dbaeumer.vscode-eslint"},"activationEvent":"onStartupFinished"}
+[2021-09-15 07:01:19.190] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/client/out/extension
+[2021-09-15 07:01:19.213] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":false,"extensionId":{"value":"esbenp.prettier-vscode","_lower":"esbenp.prettier-vscode"},"activationEvent":"onStartupFinished"}
+[2021-09-15 07:01:19.213] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/esbenp.prettier-vscode-8.1.0/dist/extension
+[2021-09-15 07:01:19.317] [exthost] [info] ExtensionService#_doActivateExtension Jeusto.warm-up-typing-test {"startup":false,"extensionId":{"value":"Jeusto.warm-up-typing-test","_lower":"jeusto.warm-up-typing-test"},"activationEvent":"onStartupFinished"}
+[2021-09-15 07:01:19.317] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/jeusto.warm-up-typing-test-1.0.0/out/extension.js
+[2021-09-15 07:01:19.318] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-containers {"startup":false,"extensionId":{"value":"ms-vscode-remote.remote-containers","_lower":"ms-vscode-remote.remote-containers"},"activationEvent":"onStartupFinished"}
+[2021-09-15 07:01:19.318] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/ms-vscode-remote.remote-containers-0.194.0/dist/extension/extension
+[2021-09-15 07:22:27.266] [exthost] [info] ExtensionService#_doActivateExtension nick-lvov-dev.typescript-explicit-types {"startup":false,"extensionId":{"value":"nick-lvov-dev.typescript-explicit-types","_lower":"nick-lvov-dev.typescript-explicit-types"},"activationEvent":"onLanguage:typescript"}
+[2021-09-15 07:22:27.266] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/nick-lvov-dev.typescript-explicit-types-0.0.9/out/extension.js
+[2021-09-15 08:09:31.805] [exthost] [info] extension host terminating: renderer closed the socket
+[2021-09-15 08:09:32.858] [exthost] [info] exiting with code 0
+[2021-09-15 08:09:33.645] [exthost] [info] extension host started
+[2021-09-15 08:09:33.645] [exthost] [info] Skipping acquiring lock for /home/brettm/.config/Code/User/workspaceStorage/a31891e4879401693d36fcb04fce7f7c.
+[2021-09-15 08:09:33.757] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":false,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"onAuthenticationRequest:microsoft"}
+[2021-09-15 08:09:33.757] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2021-09-15 08:09:33.791] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-09-15 08:09:33.791] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/debug-auto-launch/dist/extension
+[2021-09-15 08:09:33.798] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-09-15 08:09:33.798] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/git/dist/main
+[2021-09-15 08:09:33.857] [exthost] [info] ExtensionService#_doActivateExtension alefragnani.project-manager {"startup":true,"extensionId":{"value":"alefragnani.project-manager","_lower":"alefragnani.project-manager"},"activationEvent":"*"}
+[2021-09-15 08:09:33.857] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/alefragnani.project-manager-12.4.0/dist/extension
+[2021-09-15 08:09:33.866] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag {"startup":true,"extensionId":{"value":"formulahendry.auto-close-tag","_lower":"formulahendry.auto-close-tag"},"activationEvent":"*"}
+[2021-09-15 08:09:33.866] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/formulahendry.auto-close-tag-0.5.12/out/src/extension
+[2021-09-15 08:09:33.867] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag {"startup":true,"extensionId":{"value":"formulahendry.auto-rename-tag","_lower":"formulahendry.auto-rename-tag"},"activationEvent":"*"}
+[2021-09-15 08:09:33.867] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/formulahendry.auto-rename-tag-0.1.8/packages/extension/dist/extensionMain.js
+[2021-09-15 08:09:33.884] [exthost] [info] ExtensionService#_doActivateExtension GitHub.vscode-pull-request-github {"startup":true,"extensionId":{"value":"GitHub.vscode-pull-request-github","_lower":"github.vscode-pull-request-github"},"activationEvent":"*"}
+[2021-09-15 08:09:33.884] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/github.vscode-pull-request-github-0.30.0/dist/extension
+[2021-09-15 08:09:33.948] [exthost] [info] ExtensionService#_doActivateExtension iocave.monkey-patch {"startup":true,"extensionId":{"value":"iocave.monkey-patch","_lower":"iocave.monkey-patch"},"activationEvent":"*"}
+[2021-09-15 08:09:33.948] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/iocave.monkey-patch-0.1.15/out/extension.js
+[2021-09-15 08:09:33.951] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme {"startup":true,"extensionId":{"value":"PKief.material-icon-theme","_lower":"pkief.material-icon-theme"},"activationEvent":"*"}
+[2021-09-15 08:09:33.952] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/pkief.material-icon-theme-4.10.0/dist/extension
+[2021-09-15 08:09:33.964] [exthost] [info] ExtensionService#_doActivateExtension vscodevim.vim {"startup":true,"extensionId":{"value":"vscodevim.vim","_lower":"vscodevim.vim"},"activationEvent":"*"}
+[2021-09-15 08:09:33.964] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/vscodevim.vim-1.21.7/out/extension
+[2021-09-15 08:09:34.182] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":false,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"onAuthenticationRequest:github"}
+[2021-09-15 08:09:34.182] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/github-authentication/dist/extension.js
+[2021-09-15 08:09:34.212] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-09-15 08:09:34.212] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2021-09-15 08:09:34.364] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":false,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-09-15 08:09:34.364] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/github/dist/extension.js
+[2021-09-15 08:09:34.368] [exthost] [info] ExtensionService#_doActivateExtension iocave.customize-ui {"startup":false,"extensionId":{"value":"iocave.customize-ui","_lower":"iocave.customize-ui"},"activationEvent":"*"}
+[2021-09-15 08:09:34.368] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/iocave.customize-ui-0.1.54/out/extension.js
+[2021-09-15 08:09:34.425] [exthost] [info] eager extensions activated
+[2021-09-15 08:09:34.439] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onStartupFinished"}
+[2021-09-15 08:09:34.439] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2021-09-15 08:09:34.451] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":false,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"onStartupFinished"}
+[2021-09-15 08:09:34.451] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2021-09-15 08:09:34.454] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":false,"extensionId":{"value":"esbenp.prettier-vscode","_lower":"esbenp.prettier-vscode"},"activationEvent":"onStartupFinished"}
+[2021-09-15 08:09:34.454] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/esbenp.prettier-vscode-8.1.0/dist/extension
+[2021-09-15 08:09:34.532] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-containers {"startup":false,"extensionId":{"value":"ms-vscode-remote.remote-containers","_lower":"ms-vscode-remote.remote-containers"},"activationEvent":"onStartupFinished"}
+[2021-09-15 08:09:34.532] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/ms-vscode-remote.remote-containers-0.194.0/dist/extension/extension
+[2021-09-15 08:09:34.667] [exthost] [error] Activating extension esbenp.prettier-vscode failed due to an error:
+[2021-09-15 08:09:34.668] [exthost] [error] TypeError: Cannot assign to read only property 'prettierPath' of object '#<Object>'
+    at Object.getConfig (/home/brettm/.vscode/extensions/esbenp.prettier-vscode-8.1.0/src/util.ts:39:12)
+    at e.activate (/home/brettm/.vscode/extensions/esbenp.prettier-vscode-8.1.0/src/extension.ts:22:39)
+    at Function._callActivateOptional (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:99:14900)
+    at Function._callActivate (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:99:14576)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:99:12779
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async Promise.all (index 0)
+[2021-09-15 08:09:35.015] [exthost] [info] ExtensionService#_doActivateExtension byCedric.vscode-expo {"startup":false,"extensionId":{"value":"byCedric.vscode-expo","_lower":"bycedric.vscode-expo"},"activationEvent":"*"}
+[2021-09-15 08:09:35.015] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/bycedric.vscode-expo-0.7.3/out/src/extension.js
+[2021-09-15 08:09:35.681] [exthost] [info] ExtensionService#_doActivateExtension Cardinal90.multi-cursor-case-preserve {"startup":false,"extensionId":{"value":"Cardinal90.multi-cursor-case-preserve","_lower":"cardinal90.multi-cursor-case-preserve"},"activationEvent":"*"}
+[2021-09-15 08:09:35.681] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/cardinal90.multi-cursor-case-preserve-1.0.5/src/extension
+[2021-09-15 08:09:35.682] [exthost] [info] ExtensionService#_doActivateExtension CoenraadS.bracket-pair-colorizer-2 {"startup":false,"extensionId":{"value":"CoenraadS.bracket-pair-colorizer-2","_lower":"coenraads.bracket-pair-colorizer-2"},"activationEvent":"onStartupFinished"}
+[2021-09-15 08:09:35.682] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/coenraads.bracket-pair-colorizer-2-0.2.1/out/src/extension
+[2021-09-15 08:09:35.690] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":false,"extensionId":{"value":"dbaeumer.vscode-eslint","_lower":"dbaeumer.vscode-eslint"},"activationEvent":"onStartupFinished"}
+[2021-09-15 08:09:35.690] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/client/out/extension
+[2021-09-15 08:09:35.712] [exthost] [info] ExtensionService#_doActivateExtension EditorConfig.EditorConfig {"startup":false,"extensionId":{"value":"EditorConfig.EditorConfig","_lower":"editorconfig.editorconfig"},"activationEvent":"*"}
+[2021-09-15 08:09:35.713] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/editorconfig.editorconfig-0.16.4/out/editorConfigMain.js
+[2021-09-15 08:09:35.721] [exthost] [info] ExtensionService#_doActivateExtension GitHub.copilot {"startup":false,"extensionId":{"value":"GitHub.copilot","_lower":"github.copilot"},"activationEvent":"*"}
+[2021-09-15 08:09:35.721] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/github.copilot-1.4.2655/dist/extension
+[2021-09-15 08:09:35.808] [exthost] [info] ExtensionService#_doActivateExtension Jeusto.warm-up-typing-test {"startup":false,"extensionId":{"value":"Jeusto.warm-up-typing-test","_lower":"jeusto.warm-up-typing-test"},"activationEvent":"onStartupFinished"}
+[2021-09-15 08:09:35.808] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/jeusto.warm-up-typing-test-1.0.0/out/extension.js
+[2021-09-15 08:09:35.813] [exthost] [info] ExtensionService#_doActivateExtension KnisterPeter.vscode-github {"startup":false,"extensionId":{"value":"KnisterPeter.vscode-github","_lower":"knisterpeter.vscode-github"},"activationEvent":"*"}
+[2021-09-15 08:09:35.813] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/knisterpeter.vscode-github-0.30.6/out/src/main
+[2021-09-15 08:09:35.884] [exthost] [info] ExtensionService#_doActivateExtension streetsidesoftware.code-spell-checker {"startup":false,"extensionId":{"value":"streetsidesoftware.code-spell-checker","_lower":"streetsidesoftware.code-spell-checker"},"activationEvent":"*"}
+[2021-09-15 08:09:35.885] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/streetsidesoftware.code-spell-checker-2.0.4/packages/client/dist/extension.js
+[2021-09-15 08:09:37.165] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"extensionId":{"value":"vscode.configuration-editing","_lower":"vscode.configuration-editing"},"activationEvent":"onLanguage:jsonc"}
+[2021-09-15 08:09:37.165] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/configuration-editing/dist/configurationEditingMain
+[2021-09-15 08:09:37.170] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2021-09-15 08:09:37.170] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain
+[2021-09-15 08:09:37.244] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2021-09-15 08:09:37.244] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension
+[2021-09-15 08:09:41.468] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"extensionId":{"value":"vscode.extension-editing","_lower":"vscode.extension-editing"},"activationEvent":"onLanguage:typescript"}
+[2021-09-15 08:09:41.468] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/extension-editing/dist/extensionEditingMain
+[2021-09-15 08:09:41.482] [exthost] [info] ExtensionService#_doActivateExtension nick-lvov-dev.typescript-explicit-types {"startup":false,"extensionId":{"value":"nick-lvov-dev.typescript-explicit-types","_lower":"nick-lvov-dev.typescript-explicit-types"},"activationEvent":"onLanguage:typescript"}
+[2021-09-15 08:09:41.482] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/nick-lvov-dev.typescript-explicit-types-0.0.9/out/extension.js
+[2021-09-15 08:09:41.485] [exthost] [info] ExtensionService#_doActivateExtension sburg.vscode-javascript-booster {"startup":false,"extensionId":{"value":"sburg.vscode-javascript-booster","_lower":"sburg.vscode-javascript-booster"},"activationEvent":"onLanguage:typescript"}
+[2021-09-15 08:09:41.485] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/sburg.vscode-javascript-booster-14.0.1/dist/extension
+[2021-09-15 08:29:38.417] [exthost] [info] extension host terminating: renderer closed the socket
+[2021-09-15 08:29:38.825] [exthost] [error] TypeError: r.some is not a function
+    at Function.saveToDisk (/home/brettm/.vscode/extensions/vscodevim.vim-1.21.7/src/register/register.ts:350:30)
+    at Object.e.deactivate (/home/brettm/.vscode/extensions/vscodevim.vim-1.21.7/extension.ts:37:18)
+    at v._deactivate (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:99:11277)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:99:9991
+    at Array.map (<anonymous>)
+    at v.deactivateAll (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:99:9979)
+    at E.terminate (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:103:723)
+    at a (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:113:32208)
+    at Socket.<anonymous> (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:113:29858)
+    at Socket.emit (events.js:327:22)
+    at Pipe.<anonymous> (net.js:673:12)
+[2021-09-15 08:29:39.447] [exthost] [info] exiting with code 0
+[2021-09-15 08:29:40.161] [exthost] [info] extension host started
+[2021-09-15 08:29:40.161] [exthost] [info] Skipping acquiring lock for /home/brettm/.config/Code/User/workspaceStorage/20ecfe77de8aa5a33574825c9fb1dbf3.
+[2021-09-15 08:29:40.277] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":false,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"onAuthenticationRequest:microsoft"}
+[2021-09-15 08:29:40.277] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2021-09-15 08:29:40.307] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-09-15 08:29:40.307] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/debug-auto-launch/dist/extension
+[2021-09-15 08:29:40.309] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-09-15 08:29:40.309] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/git/dist/main
+[2021-09-15 08:29:40.364] [exthost] [info] ExtensionService#_doActivateExtension alefragnani.project-manager {"startup":true,"extensionId":{"value":"alefragnani.project-manager","_lower":"alefragnani.project-manager"},"activationEvent":"*"}
+[2021-09-15 08:29:40.364] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/alefragnani.project-manager-12.4.0/dist/extension
+[2021-09-15 08:29:40.373] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag {"startup":true,"extensionId":{"value":"formulahendry.auto-close-tag","_lower":"formulahendry.auto-close-tag"},"activationEvent":"*"}
+[2021-09-15 08:29:40.373] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/formulahendry.auto-close-tag-0.5.12/out/src/extension
+[2021-09-15 08:29:40.374] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag {"startup":true,"extensionId":{"value":"formulahendry.auto-rename-tag","_lower":"formulahendry.auto-rename-tag"},"activationEvent":"*"}
+[2021-09-15 08:29:40.374] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/formulahendry.auto-rename-tag-0.1.8/packages/extension/dist/extensionMain.js
+[2021-09-15 08:29:40.391] [exthost] [info] ExtensionService#_doActivateExtension GitHub.vscode-pull-request-github {"startup":true,"extensionId":{"value":"GitHub.vscode-pull-request-github","_lower":"github.vscode-pull-request-github"},"activationEvent":"*"}
+[2021-09-15 08:29:40.391] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/github.vscode-pull-request-github-0.30.0/dist/extension
+[2021-09-15 08:29:40.448] [exthost] [info] ExtensionService#_doActivateExtension iocave.monkey-patch {"startup":true,"extensionId":{"value":"iocave.monkey-patch","_lower":"iocave.monkey-patch"},"activationEvent":"*"}
+[2021-09-15 08:29:40.448] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/iocave.monkey-patch-0.1.15/out/extension.js
+[2021-09-15 08:29:40.451] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme {"startup":true,"extensionId":{"value":"PKief.material-icon-theme","_lower":"pkief.material-icon-theme"},"activationEvent":"*"}
+[2021-09-15 08:29:40.451] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/pkief.material-icon-theme-4.10.0/dist/extension
+[2021-09-15 08:29:40.463] [exthost] [info] ExtensionService#_doActivateExtension vscodevim.vim {"startup":true,"extensionId":{"value":"vscodevim.vim","_lower":"vscodevim.vim"},"activationEvent":"*"}
+[2021-09-15 08:29:40.463] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/vscodevim.vim-1.21.7/out/extension
+[2021-09-15 08:29:40.690] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":false,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"onAuthenticationRequest:github"}
+[2021-09-15 08:29:40.691] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/github-authentication/dist/extension.js
+[2021-09-15 08:29:40.759] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-09-15 08:29:40.759] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2021-09-15 08:29:40.920] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":false,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-09-15 08:29:40.920] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/github/dist/extension.js
+[2021-09-15 08:29:40.925] [exthost] [info] ExtensionService#_doActivateExtension iocave.customize-ui {"startup":false,"extensionId":{"value":"iocave.customize-ui","_lower":"iocave.customize-ui"},"activationEvent":"*"}
+[2021-09-15 08:29:40.925] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/iocave.customize-ui-0.1.54/out/extension.js
+[2021-09-15 08:29:41.021] [exthost] [info] eager extensions activated
+[2021-09-15 08:29:41.222] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onStartupFinished"}
+[2021-09-15 08:29:41.222] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2021-09-15 08:29:41.234] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":false,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"onStartupFinished"}
+[2021-09-15 08:29:41.234] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2021-09-15 08:29:41.236] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":false,"extensionId":{"value":"esbenp.prettier-vscode","_lower":"esbenp.prettier-vscode"},"activationEvent":"onStartupFinished"}
+[2021-09-15 08:29:41.236] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/esbenp.prettier-vscode-8.1.0/dist/extension
+[2021-09-15 08:29:41.323] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-containers {"startup":false,"extensionId":{"value":"ms-vscode-remote.remote-containers","_lower":"ms-vscode-remote.remote-containers"},"activationEvent":"onStartupFinished"}
+[2021-09-15 08:29:41.323] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/ms-vscode-remote.remote-containers-0.194.0/dist/extension/extension
+[2021-09-15 08:29:41.500] [exthost] [info] ExtensionService#_doActivateExtension byCedric.vscode-expo {"startup":false,"extensionId":{"value":"byCedric.vscode-expo","_lower":"bycedric.vscode-expo"},"activationEvent":"*"}
+[2021-09-15 08:29:41.500] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/bycedric.vscode-expo-0.7.3/out/src/extension.js
+[2021-09-15 08:29:42.159] [exthost] [info] ExtensionService#_doActivateExtension Cardinal90.multi-cursor-case-preserve {"startup":false,"extensionId":{"value":"Cardinal90.multi-cursor-case-preserve","_lower":"cardinal90.multi-cursor-case-preserve"},"activationEvent":"*"}
+[2021-09-15 08:29:42.159] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/cardinal90.multi-cursor-case-preserve-1.0.5/src/extension
+[2021-09-15 08:29:42.159] [exthost] [info] ExtensionService#_doActivateExtension CoenraadS.bracket-pair-colorizer-2 {"startup":false,"extensionId":{"value":"CoenraadS.bracket-pair-colorizer-2","_lower":"coenraads.bracket-pair-colorizer-2"},"activationEvent":"onStartupFinished"}
+[2021-09-15 08:29:42.159] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/coenraads.bracket-pair-colorizer-2-0.2.1/out/src/extension
+[2021-09-15 08:29:42.167] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":false,"extensionId":{"value":"dbaeumer.vscode-eslint","_lower":"dbaeumer.vscode-eslint"},"activationEvent":"onStartupFinished"}
+[2021-09-15 08:29:42.168] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/client/out/extension
+[2021-09-15 08:29:42.192] [exthost] [info] ExtensionService#_doActivateExtension EditorConfig.EditorConfig {"startup":false,"extensionId":{"value":"EditorConfig.EditorConfig","_lower":"editorconfig.editorconfig"},"activationEvent":"*"}
+[2021-09-15 08:29:42.192] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/editorconfig.editorconfig-0.16.4/out/editorConfigMain.js
+[2021-09-15 08:29:42.201] [exthost] [info] ExtensionService#_doActivateExtension GitHub.copilot {"startup":false,"extensionId":{"value":"GitHub.copilot","_lower":"github.copilot"},"activationEvent":"*"}
+[2021-09-15 08:29:42.201] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/github.copilot-1.4.2655/dist/extension
+[2021-09-15 08:29:42.289] [exthost] [info] ExtensionService#_doActivateExtension Jeusto.warm-up-typing-test {"startup":false,"extensionId":{"value":"Jeusto.warm-up-typing-test","_lower":"jeusto.warm-up-typing-test"},"activationEvent":"onStartupFinished"}
+[2021-09-15 08:29:42.289] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/jeusto.warm-up-typing-test-1.0.0/out/extension.js
+[2021-09-15 08:29:42.294] [exthost] [info] ExtensionService#_doActivateExtension KnisterPeter.vscode-github {"startup":false,"extensionId":{"value":"KnisterPeter.vscode-github","_lower":"knisterpeter.vscode-github"},"activationEvent":"*"}
+[2021-09-15 08:29:42.294] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/knisterpeter.vscode-github-0.30.6/out/src/main
+[2021-09-15 08:29:42.367] [exthost] [info] ExtensionService#_doActivateExtension streetsidesoftware.code-spell-checker {"startup":false,"extensionId":{"value":"streetsidesoftware.code-spell-checker","_lower":"streetsidesoftware.code-spell-checker"},"activationEvent":"*"}
+[2021-09-15 08:29:42.367] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/streetsidesoftware.code-spell-checker-2.0.4/packages/client/dist/extension.js
+[2021-09-15 08:29:43.476] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"extensionId":{"value":"vscode.configuration-editing","_lower":"vscode.configuration-editing"},"activationEvent":"onLanguage:jsonc"}
+[2021-09-15 08:29:43.476] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/configuration-editing/dist/configurationEditingMain
+[2021-09-15 08:29:43.482] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2021-09-15 08:29:43.482] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain
+[2021-09-15 08:29:43.552] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2021-09-15 08:29:43.552] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension
+[2021-09-15 08:29:47.062] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"extensionId":{"value":"vscode.extension-editing","_lower":"vscode.extension-editing"},"activationEvent":"onLanguage:typescript"}
+[2021-09-15 08:29:47.062] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/extension-editing/dist/extensionEditingMain
+[2021-09-15 08:29:47.082] [exthost] [info] ExtensionService#_doActivateExtension nick-lvov-dev.typescript-explicit-types {"startup":false,"extensionId":{"value":"nick-lvov-dev.typescript-explicit-types","_lower":"nick-lvov-dev.typescript-explicit-types"},"activationEvent":"onLanguage:typescript"}
+[2021-09-15 08:29:47.082] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/nick-lvov-dev.typescript-explicit-types-0.0.9/out/extension.js
+[2021-09-15 08:29:47.084] [exthost] [info] ExtensionService#_doActivateExtension sburg.vscode-javascript-booster {"startup":false,"extensionId":{"value":"sburg.vscode-javascript-booster","_lower":"sburg.vscode-javascript-booster"},"activationEvent":"onLanguage:typescript"}
+[2021-09-15 08:29:47.084] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/sburg.vscode-javascript-booster-14.0.1/dist/extension
+[2021-09-15 09:07:35.668] [exthost] [info] extension host terminating: renderer closed the socket
+[2021-09-15 09:07:36.086] [exthost] [error] TypeError: r.some is not a function
+    at Function.saveToDisk (/home/brettm/.vscode/extensions/vscodevim.vim-1.21.7/src/register/register.ts:350:30)
+    at Object.e.deactivate (/home/brettm/.vscode/extensions/vscodevim.vim-1.21.7/extension.ts:37:18)
+    at v._deactivate (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:99:11277)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:99:9991
+    at Array.map (<anonymous>)
+    at v.deactivateAll (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:99:9979)
+    at E.terminate (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:103:723)
+    at a (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:113:32208)
+    at Socket.<anonymous> (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:113:29858)
+    at Socket.emit (events.js:327:22)
+    at Pipe.<anonymous> (net.js:673:12)
+[2021-09-15 09:07:36.700] [exthost] [info] exiting with code 0
+[2021-09-15 09:07:37.461] [exthost] [info] extension host started
+[2021-09-15 09:07:37.461] [exthost] [info] Skipping acquiring lock for /home/brettm/.config/Code/User/workspaceStorage/0ddf65a050de30d3ab11b84c640ed530.
+[2021-09-15 09:07:37.583] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":false,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"onAuthenticationRequest:microsoft"}
+[2021-09-15 09:07:37.583] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2021-09-15 09:07:37.628] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"extensionId":{"value":"vscode.configuration-editing","_lower":"vscode.configuration-editing"},"activationEvent":"onLanguage:jsonc"}
+[2021-09-15 09:07:37.628] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/configuration-editing/dist/configurationEditingMain
+[2021-09-15 09:07:37.634] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2021-09-15 09:07:37.634] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain
+[2021-09-15 09:07:37.685] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2021-09-15 09:07:37.685] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension
+[2021-09-15 09:07:37.727] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-09-15 09:07:37.727] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/debug-auto-launch/dist/extension
+[2021-09-15 09:07:37.730] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-09-15 09:07:37.730] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/git/dist/main
+[2021-09-15 09:07:37.794] [exthost] [info] ExtensionService#_doActivateExtension alefragnani.project-manager {"startup":true,"extensionId":{"value":"alefragnani.project-manager","_lower":"alefragnani.project-manager"},"activationEvent":"*"}
+[2021-09-15 09:07:37.794] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/alefragnani.project-manager-12.4.0/dist/extension
+[2021-09-15 09:07:37.804] [exthost] [info] ExtensionService#_doActivateExtension byCedric.vscode-expo {"startup":true,"extensionId":{"value":"byCedric.vscode-expo","_lower":"bycedric.vscode-expo"},"activationEvent":"*"}
+[2021-09-15 09:07:37.804] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/bycedric.vscode-expo-0.7.3/out/src/extension.js
+[2021-09-15 09:07:38.532] [exthost] [info] ExtensionService#_doActivateExtension Cardinal90.multi-cursor-case-preserve {"startup":true,"extensionId":{"value":"Cardinal90.multi-cursor-case-preserve","_lower":"cardinal90.multi-cursor-case-preserve"},"activationEvent":"*"}
+[2021-09-15 09:07:38.532] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/cardinal90.multi-cursor-case-preserve-1.0.5/src/extension
+[2021-09-15 09:07:38.533] [exthost] [info] ExtensionService#_doActivateExtension EditorConfig.EditorConfig {"startup":true,"extensionId":{"value":"EditorConfig.EditorConfig","_lower":"editorconfig.editorconfig"},"activationEvent":"*"}
+[2021-09-15 09:07:38.533] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/editorconfig.editorconfig-0.16.4/out/editorConfigMain.js
+[2021-09-15 09:07:38.542] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag {"startup":true,"extensionId":{"value":"formulahendry.auto-close-tag","_lower":"formulahendry.auto-close-tag"},"activationEvent":"*"}
+[2021-09-15 09:07:38.542] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/formulahendry.auto-close-tag-0.5.12/out/src/extension
+[2021-09-15 09:07:38.542] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag {"startup":true,"extensionId":{"value":"formulahendry.auto-rename-tag","_lower":"formulahendry.auto-rename-tag"},"activationEvent":"*"}
+[2021-09-15 09:07:38.543] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/formulahendry.auto-rename-tag-0.1.8/packages/extension/dist/extensionMain.js
+[2021-09-15 09:07:38.558] [exthost] [info] ExtensionService#_doActivateExtension GitHub.copilot {"startup":true,"extensionId":{"value":"GitHub.copilot","_lower":"github.copilot"},"activationEvent":"*"}
+[2021-09-15 09:07:38.558] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/github.copilot-1.4.2655/dist/extension
+[2021-09-15 09:07:38.653] [exthost] [info] ExtensionService#_doActivateExtension GitHub.vscode-pull-request-github {"startup":true,"extensionId":{"value":"GitHub.vscode-pull-request-github","_lower":"github.vscode-pull-request-github"},"activationEvent":"*"}
+[2021-09-15 09:07:38.653] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/github.vscode-pull-request-github-0.30.0/dist/extension
+[2021-09-15 09:07:38.718] [exthost] [info] ExtensionService#_doActivateExtension iocave.monkey-patch {"startup":true,"extensionId":{"value":"iocave.monkey-patch","_lower":"iocave.monkey-patch"},"activationEvent":"*"}
+[2021-09-15 09:07:38.718] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/iocave.monkey-patch-0.1.15/out/extension.js
+[2021-09-15 09:07:38.728] [exthost] [info] ExtensionService#_doActivateExtension KnisterPeter.vscode-github {"startup":true,"extensionId":{"value":"KnisterPeter.vscode-github","_lower":"knisterpeter.vscode-github"},"activationEvent":"*"}
+[2021-09-15 09:07:38.728] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/knisterpeter.vscode-github-0.30.6/out/src/main
+[2021-09-15 09:07:38.801] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme {"startup":true,"extensionId":{"value":"PKief.material-icon-theme","_lower":"pkief.material-icon-theme"},"activationEvent":"*"}
+[2021-09-15 09:07:38.801] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/pkief.material-icon-theme-4.10.0/dist/extension
+[2021-09-15 09:07:38.814] [exthost] [info] ExtensionService#_doActivateExtension streetsidesoftware.code-spell-checker {"startup":true,"extensionId":{"value":"streetsidesoftware.code-spell-checker","_lower":"streetsidesoftware.code-spell-checker"},"activationEvent":"*"}
+[2021-09-15 09:07:38.814] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/streetsidesoftware.code-spell-checker-2.0.4/packages/client/dist/extension.js
+[2021-09-15 09:07:38.857] [exthost] [info] ExtensionService#_doActivateExtension vscodevim.vim {"startup":true,"extensionId":{"value":"vscodevim.vim","_lower":"vscodevim.vim"},"activationEvent":"*"}
+[2021-09-15 09:07:38.857] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/vscodevim.vim-1.21.7/out/extension
+[2021-09-15 09:07:38.933] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":true,"extensionId":{"value":"vscode.npm","_lower":"vscode.npm"},"activationEvent":"workspaceContains:package.json"}
+[2021-09-15 09:07:38.933] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/npm/dist/npmMain
+[2021-09-15 09:07:39.110] [exthost] [info] ExtensionService#_doActivateExtension apollographql.vscode-apollo {"startup":true,"extensionId":{"value":"apollographql.vscode-apollo","_lower":"apollographql.vscode-apollo"},"activationEvent":"workspaceContains:**/apollo.config.[jt]s"}
+[2021-09-15 09:07:39.110] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/apollographql.vscode-apollo-1.19.4/lib/extension
+[2021-09-15 09:07:39.416] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":false,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"onAuthenticationRequest:github"}
+[2021-09-15 09:07:39.416] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/github-authentication/dist/extension.js
+[2021-09-15 09:07:39.596] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-09-15 09:07:39.596] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2021-09-15 09:07:39.768] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":false,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-09-15 09:07:39.768] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/github/dist/extension.js
+[2021-09-15 09:07:39.772] [exthost] [info] ExtensionService#_doActivateExtension iocave.customize-ui {"startup":false,"extensionId":{"value":"iocave.customize-ui","_lower":"iocave.customize-ui"},"activationEvent":"*"}
+[2021-09-15 09:07:39.772] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/iocave.customize-ui-0.1.54/out/extension.js
+[2021-09-15 09:07:40.872] [exthost] [info] eager extensions activated
+[2021-09-15 09:07:40.891] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onStartupFinished"}
+[2021-09-15 09:07:40.892] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2021-09-15 09:07:40.905] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":false,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"onStartupFinished"}
+[2021-09-15 09:07:40.905] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2021-09-15 09:07:40.908] [exthost] [info] ExtensionService#_doActivateExtension CoenraadS.bracket-pair-colorizer-2 {"startup":false,"extensionId":{"value":"CoenraadS.bracket-pair-colorizer-2","_lower":"coenraads.bracket-pair-colorizer-2"},"activationEvent":"onStartupFinished"}
+[2021-09-15 09:07:40.908] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/coenraads.bracket-pair-colorizer-2-0.2.1/out/src/extension
+[2021-09-15 09:07:40.926] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":false,"extensionId":{"value":"dbaeumer.vscode-eslint","_lower":"dbaeumer.vscode-eslint"},"activationEvent":"onStartupFinished"}
+[2021-09-15 09:07:40.926] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/client/out/extension
+[2021-09-15 09:07:40.949] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":false,"extensionId":{"value":"esbenp.prettier-vscode","_lower":"esbenp.prettier-vscode"},"activationEvent":"onStartupFinished"}
+[2021-09-15 09:07:40.949] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/esbenp.prettier-vscode-8.1.0/dist/extension
+[2021-09-15 09:07:41.047] [exthost] [info] ExtensionService#_doActivateExtension Jeusto.warm-up-typing-test {"startup":false,"extensionId":{"value":"Jeusto.warm-up-typing-test","_lower":"jeusto.warm-up-typing-test"},"activationEvent":"onStartupFinished"}
+[2021-09-15 09:07:41.047] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/jeusto.warm-up-typing-test-1.0.0/out/extension.js
+[2021-09-15 09:07:41.048] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-containers {"startup":false,"extensionId":{"value":"ms-vscode-remote.remote-containers","_lower":"ms-vscode-remote.remote-containers"},"activationEvent":"onStartupFinished"}
+[2021-09-15 09:07:41.048] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/ms-vscode-remote.remote-containers-0.194.0/dist/extension/extension
+[2021-09-15 09:07:41.562] [exthost] [info] ExtensionService#_doActivateExtension nick-lvov-dev.typescript-explicit-types {"startup":false,"extensionId":{"value":"nick-lvov-dev.typescript-explicit-types","_lower":"nick-lvov-dev.typescript-explicit-types"},"activationEvent":"onLanguage:typescriptreact"}
+[2021-09-15 09:07:41.563] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/nick-lvov-dev.typescript-explicit-types-0.0.9/out/extension.js
+[2021-09-15 09:07:41.576] [exthost] [info] ExtensionService#_doActivateExtension sburg.vscode-javascript-booster {"startup":false,"extensionId":{"value":"sburg.vscode-javascript-booster","_lower":"sburg.vscode-javascript-booster"},"activationEvent":"onLanguage:typescriptreact"}
+[2021-09-15 09:07:41.576] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/brettm/.vscode/extensions/sburg.vscode-javascript-booster-14.0.1/dist/extension
+[2021-09-15 09:07:51.602] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"extensionId":{"value":"vscode.extension-editing","_lower":"vscode.extension-editing"},"activationEvent":"onLanguage:typescript"}
+[2021-09-15 09:07:51.602] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/extension-editing/dist/extensionEditingMain
+[2021-09-15 09:08:45.706] [exthost] [warning] TextEditor is closed/disposed
+[2021-09-15 09:08:45.706] [exthost] [warning] TextEditor is closed/disposed
+[2021-09-15 09:08:48.083] [exthost] [warning] TextEditor is closed/disposed
+[2021-09-15 09:08:48.083] [exthost] [warning] TextEditor is closed/disposed
+[2021-09-15 13:32:52.081] [exthost] [warning] TextEditor is closed/disposed
+[2021-09-15 13:32:52.081] [exthost] [warning] TextEditor is closed/disposed
+[2021-09-15 13:37:26.353] [exthost] [error] [nick-lvov-dev.typescript-explicit-types] provider FAILED
+[2021-09-15 13:37:26.388] [exthost] [error] TypeError: Cannot read property 'start' of undefined
+    at f.provideCodeActions (/home/brettm/.vscode/extensions/nick-lvov-dev.typescript-explicit-types-0.0.9/src/actionProvider.ts:81:97)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at S.provideCodeActions (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:168622)

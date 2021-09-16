@@ -1,0 +1,11 @@
+[2021-09-15T09:34:48.480Z] Start: Run: docker version --format {{.Server.APIVersion}}
+[2021-09-15T09:34:48.480Z] Remote-Containers 0.194.0 in VS Code 1.60.1 (83bd43bc519d15e50c4272c6cf5c1479df196a4d).
+[2021-09-15T09:34:48.502Z] Start: Run: docker version --format {{.Server.APIVersion}}
+[2021-09-15T09:34:48.539Z] Stop (59 ms): Run: docker version --format {{.Server.APIVersion}}
+[2021-09-15T09:34:48.541Z] 
+[2021-09-15T09:34:48.541Z] Cannot connect to the Docker daemon at unix:///var/run/docker.sock. Is the docker daemon running?
+
+[2021-09-15T09:34:48.548Z] Stop (46 ms): Run: docker version --format {{.Server.APIVersion}}
+[2021-09-15T09:34:48.549Z] 
+[2021-09-15T09:34:48.549Z] Cannot connect to the Docker daemon at unix:///var/run/docker.sock. Is the docker daemon running?
+

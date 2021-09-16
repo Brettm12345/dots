@@ -1,0 +1,132 @@
+["INFO" - 5:28:28 AM] Extension Name: esbenp.prettier-vscode.
+["INFO" - 5:28:28 AM] Extension Version: 8.1.0.
+["INFO" - 5:28:41 AM] Formatting /home/brettm/.config/Code/User/settings.json
+["INFO" - 5:28:41 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 5:28:41 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 5:28:41 AM] Prettier Options:
+{
+  "arrowParens": "avoid",
+  "bracketSpacing": false,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/brettm/.config/Code/User/settings.json",
+  "parser": "json"
+}
+["INFO" - 5:28:41 AM] Formatting completed in 114.810268ms.
+["INFO" - 5:31:20 AM] Formatting /home/brettm/src/github.com/you-got-bud/receipt-printer/app.json
+["INFO" - 5:31:20 AM] Using config file at '/home/brettm/src/github.com/you-got-bud/receipt-printer/.prettierrc'
+["INFO" - 5:31:20 AM] Using ignore file (if present) at /home/brettm/src/github.com/you-got-bud/receipt-printer/.prettierignore
+["INFO" - 5:31:20 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 5:31:21 AM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 5:31:21 AM] Prettier Options:
+{
+  "filepath": "/home/brettm/src/github.com/you-got-bud/receipt-printer/app.json",
+  "parser": "json",
+  "singleQuote": true,
+  "arrowParens": "avoid",
+  "bracketSpacing": false,
+  "jsxSingleQuote": false,
+  "trailingComma": "es5"
+}
+["INFO" - 5:31:21 AM] Formatting completed in 77.785876ms.
+["INFO" - 5:31:25 AM] Formatting /home/brettm/src/github.com/you-got-bud/receipt-printer/app.json
+["INFO" - 5:31:25 AM] Using config file at '/home/brettm/src/github.com/you-got-bud/receipt-printer/.prettierrc'
+["INFO" - 5:31:25 AM] Using ignore file (if present) at /home/brettm/src/github.com/you-got-bud/receipt-printer/.prettierignore
+["INFO" - 5:31:25 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 5:31:25 AM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 5:31:25 AM] Prettier Options:
+{
+  "filepath": "/home/brettm/src/github.com/you-got-bud/receipt-printer/app.json",
+  "parser": "json",
+  "singleQuote": true,
+  "arrowParens": "avoid",
+  "bracketSpacing": false,
+  "jsxSingleQuote": false,
+  "trailingComma": "es5"
+}
+["INFO" - 5:31:25 AM] Formatting completed in 34.327123ms.
+["INFO" - 5:44:11 AM] Formatting /home/brettm/.config/Code/User/globalStorage/alefragnani.project-manager/projects.json
+["INFO" - 5:44:11 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 5:44:11 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 5:44:11 AM] Prettier Options:
+{
+  "arrowParens": "avoid",
+  "bracketSpacing": false,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/brettm/.config/Code/User/globalStorage/alefragnani.project-manager/projects.json",
+  "parser": "json"
+}
+["INFO" - 5:44:11 AM] Formatting completed in 33.047723ms.
+["INFO" - 5:44:26 AM] Formatting /home/brettm/.config/Code/User/globalStorage/alefragnani.project-manager/projects.json
+["INFO" - 5:44:26 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 5:44:26 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 5:44:26 AM] Prettier Options:
+{
+  "arrowParens": "avoid",
+  "bracketSpacing": false,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/brettm/.config/Code/User/globalStorage/alefragnani.project-manager/projects.json",
+  "parser": "json"
+}
+["INFO" - 5:44:26 AM] Formatting completed in 34.824717ms.

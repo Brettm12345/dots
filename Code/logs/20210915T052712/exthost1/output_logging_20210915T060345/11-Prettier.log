@@ -1,0 +1,62 @@
+["INFO" - 6:03:45 AM] Extension Name: esbenp.prettier-vscode.
+["INFO" - 6:03:45 AM] Extension Version: 8.1.0.
+["INFO" - 6:08:53 AM] Formatting /home/brettm/.config/Code/User/keybindings.json
+["INFO" - 6:08:53 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 6:08:53 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 6:08:53 AM] Prettier Options:
+{
+  "arrowParens": "avoid",
+  "bracketSpacing": false,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/brettm/.config/Code/User/keybindings.json",
+  "parser": "json"
+}
+["INFO" - 6:08:53 AM] Formatting completed in 61.845333ms.
+["INFO" - 6:08:54 AM] Formatting /home/brettm/.config/Code/User/keybindings.json
+["INFO" - 6:08:54 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 6:08:54 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 6:08:54 AM] Prettier Options:
+{
+  "arrowParens": "avoid",
+  "bracketSpacing": false,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/brettm/.config/Code/User/keybindings.json",
+  "parser": "json"
+}
+["INFO" - 6:08:54 AM] Formatting completed in 49.404486ms.

@@ -1,0 +1,57 @@
+2021-09-15T12:09:41.814Z: Running in production mode.
+2021-09-15T12:09:41.834Z: 35 code actions loaded.
+2021-09-15T12:10:39.242Z: Syntax error in file file:///home/brettm/codewars/typescript/last-survivor/solution.ts (3:7).
+2021-09-15T12:11:01.571Z: Syntax error in file file:///home/brettm/codewars/typescript/last-survivor/solution.ts (1:11).
+2021-09-15T12:11:11.868Z: Syntax error in file file:///home/brettm/codewars/typescript/last-survivor/solution.ts (1:11).
+2021-09-15T12:11:14.392Z: File now valid: file:///home/brettm/codewars/typescript/last-survivor/solution.ts.
+2021-09-15T12:11:23.329Z: File now valid: file:///home/brettm/codewars/typescript/last-survivor/solution.ts.
+2021-09-15T12:11:42.309Z: File now valid: file:///home/brettm/codewars/typescript/last-survivor/solution.ts.
+2021-09-15T12:11:45.680Z: File now valid: file:///home/brettm/codewars/typescript/last-survivor/solution.ts.
+2021-09-15T12:11:49.722Z: File now valid: file:///home/brettm/codewars/typescript/last-survivor/solution.ts.
+2021-09-15T12:11:55.819Z: Syntax error in file file:///home/brettm/codewars/typescript/last-survivor/solution.ts (3:44).
+2021-09-15T12:11:58.470Z: File now valid: file:///home/brettm/codewars/typescript/last-survivor/solution.ts.
+2021-09-15T12:12:09.719Z: File now valid: file:///home/brettm/codewars/typescript/last-survivor/solution.ts.
+2021-09-15T12:12:29.933Z: Syntax error in file file:///home/brettm/codewars/typescript/last-survivor/solution.ts (6:76).
+2021-09-15T12:12:32.195Z: File now valid: file:///home/brettm/codewars/typescript/last-survivor/solution.ts.
+2021-09-15T12:12:50.479Z: File now valid: file:///home/brettm/codewars/typescript/last-survivor/solution.ts.
+2021-09-15T12:13:38.491Z: Syntax error in file file:///home/brettm/codewars/typescript/last-survivor/solution.ts (3:66).
+2021-09-15T12:13:49.279Z: File now valid: file:///home/brettm/codewars/typescript/last-survivor/solution.ts.
+2021-09-15T12:14:08.723Z: File now valid: file:///home/brettm/codewars/typescript/last-survivor/solution.ts.
+2021-09-15T12:14:53.407Z: Syntax error in file file:///home/brettm/codewars/typescript/last-survivor/solution.ts (4:62).
+2021-09-15T12:14:57.869Z: File now valid: file:///home/brettm/codewars/typescript/last-survivor/solution.ts.
+2021-09-15T12:15:06.155Z: File now valid: file:///home/brettm/codewars/typescript/last-survivor/solution.ts.
+2021-09-15T12:16:23.168Z: File now valid: file:///home/brettm/codewars/typescript/last-survivor/solution.ts.
+2021-09-15T12:17:51.435Z: Syntax error in file file:///home/brettm/codewars/typescript/last-survivor/solution.ts (2:2).
+2021-09-15T12:17:56.376Z: File now valid: file:///home/brettm/codewars/typescript/last-survivor/solution.ts.
+2021-09-15T12:18:02.184Z: File now valid: file:///home/brettm/codewars/typescript/last-survivor/solution.ts.
+2021-09-15T12:18:14.189Z: Syntax error in file file:///home/brettm/codewars/typescript/last-survivor/solution.ts (2:2).
+2021-09-15T12:18:16.237Z: Syntax error in file file:///home/brettm/codewars/typescript/last-survivor/solution.ts (2:25).
+2021-09-15T12:18:17.882Z: Syntax error in file file:///home/brettm/codewars/typescript/last-survivor/solution.ts (2:23).
+2021-09-15T12:18:20.899Z: Syntax error in file file:///home/brettm/codewars/typescript/last-survivor/solution.ts (3:2).
+2021-09-15T12:18:22.907Z: Syntax error in file file:///home/brettm/codewars/typescript/last-survivor/solution.ts (3:2).
+2021-09-15T12:18:25.435Z: Syntax error in file file:///home/brettm/codewars/typescript/last-survivor/solution.ts (3:10).
+2021-09-15T12:18:30.247Z: File now valid: file:///home/brettm/codewars/typescript/last-survivor/solution.ts.
+2021-09-15T12:21:56.760Z: File now valid: file:///home/brettm/codewars/typescript/last-survivor/episode-2.ts.
+2021-09-15T12:22:16.033Z: File now valid: file:///home/brettm/codewars/typescript/last-survivor/episode-2.ts.
+2021-09-15T12:22:19.463Z: File now valid: file:///home/brettm/codewars/typescript/last-survivor/episode-2.ts.
+2021-09-15T12:22:23.438Z: Syntax error in file file:///home/brettm/codewars/typescript/last-survivor/episode-2.ts (3:92).
+2021-09-15T12:22:47.417Z: Syntax error in file file:///home/brettm/codewars/typescript/last-survivor/episode-2.ts (3:99).
+2021-09-15T12:22:57.190Z: Syntax error in file file:///home/brettm/codewars/typescript/last-survivor/episode-2.ts (3:99).
+2021-09-15T12:22:59.915Z: File now valid: file:///home/brettm/codewars/typescript/last-survivor/episode-2.ts.
+2021-09-15T12:23:05.869Z: Syntax error in file file:///home/brettm/codewars/typescript/last-survivor/episode-2.ts (3:99).
+2021-09-15T12:23:18.618Z: Syntax error in file file:///home/brettm/codewars/typescript/last-survivor/episode-2.ts (3:104).
+2021-09-15T12:23:22.041Z: File now valid: file:///home/brettm/codewars/typescript/last-survivor/episode-2.ts.
+2021-09-15T12:23:29.657Z: File now valid: file:///home/brettm/codewars/typescript/last-survivor/episode-2.ts.
+2021-09-15T12:23:32.051Z: File now valid: file:///home/brettm/codewars/typescript/last-survivor/episode-2.ts.
+2021-09-15T12:23:41.635Z: Syntax error in file file:///home/brettm/codewars/typescript/last-survivor/episode-2.ts (3:157).
+2021-09-15T12:23:44.757Z: File now valid: file:///home/brettm/codewars/typescript/last-survivor/episode-2.ts.
+2021-09-15T12:23:55.802Z: File now valid: file:///home/brettm/codewars/typescript/last-survivor/episode-2.ts.
+2021-09-15T12:23:59.073Z: File now valid: file:///home/brettm/codewars/typescript/last-survivor/episode-2.ts.
+2021-09-15T12:24:47.914Z: File now valid: file:///home/brettm/codewars/typescript/last-survivor/episode-2.ts.
+2021-09-15T12:24:59.231Z: Syntax error in file file:///home/brettm/codewars/typescript/last-survivor/episode-2.ts (3:119).
+2021-09-15T12:25:00.814Z: File now valid: file:///home/brettm/codewars/typescript/last-survivor/episode-2.ts.
+2021-09-15T12:25:07.426Z: File now valid: file:///home/brettm/codewars/typescript/last-survivor/episode-2.ts.
+2021-09-15T12:25:49.677Z: File now valid: file:///home/brettm/codewars/typescript/last-survivor/episode-2.ts.
+2021-09-15T12:26:02.395Z: File now valid: file:///home/brettm/codewars/typescript/last-survivor/episode-2.ts.
+2021-09-15T12:26:06.319Z: File now valid: file:///home/brettm/codewars/typescript/last-survivor/episode-2.ts.
+2021-09-15T12:26:09.306Z: File now valid: file:///home/brettm/codewars/typescript/last-survivor/episode-2.ts.
